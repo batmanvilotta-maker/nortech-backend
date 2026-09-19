@@ -34,7 +34,7 @@ app.get('/api/componentes', async (req, res) => {
       // Extraer Precio
       const priceText = $(el).find('.precio, .price, span[id*="Precio"]').text().replace(/[^0-9]/g, '');
 
-      // Extraer Imagen Real de Maximus
+      // Extraer Imagen Real
       let img = $(el).find('img').attr('data-original') || 
                 $(el).find('img').attr('data-src') \vert{}\vert{}$(el).find('img').attr('src') || '';
 
@@ -54,10 +54,8 @@ app.get('/api/componentes', async (req, res) => {
       }
     });
 
-    // En caso de que Maximus bloquee las peticiones del servidor (IP de Render),
-    // enviamos la API enriquecida con enlaces directos a las imágenes oficiales de fabricantes:
+    // En caso de que el proveedor limite peticiones de servidor, enviamos el catálogo enriquecido
     if (productos.length === 0) {
-      console.log('Procesando catálogo con imágenes oficiales de hardware...');
       const catalogoOficial = [
         { id: 1, name: "Procesador AMD Ryzen 7 5700X3D 4.1GHz AM4", price: 310000, img: "https://m.media-amazon.com/images/I/51f2X53S2EL._AC_SL1000_.jpg", category: "procesadores" },
         { id: 2, name: "Procesador Intel Core i5 13400F 4.6GHz LGA1700", price: 285000, img: "https://m.media-amazon.com/images/I/61vG3pL4YBL._AC_SL1000_.jpg", category: "procesadores" },
@@ -82,7 +80,7 @@ app.get('/api/componentes', async (req, res) => {
     res.json(productos);
 
   } catch (error) {
-    console.error('Error al sincronizar con Maximus:', error.message);
+    console.error('Error al sincronizar:', error.message);
     res.status(500).json({ error: 'Error al obtener productos' });
   }
 });
@@ -99,5 +97,5 @@ function detectCategory(name) {
   return 'varios';
 }
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => console.log(`Servidor activo en el puerto ${PORT}`));
