@@ -6,12 +6,10 @@ const cors = require('cors');
 const app = express();
 app.use(cors());
 
-// URL principal del catálogo de componentes de Maximus
 const MAXIMUS_URL = 'https://www.maximus.com.ar/Productos/Componentes-de-PC/maximus.aspx';
 
 app.get('/api/componentes', async (req, res) => {
   try {
-    // Petición simulando un navegador real completo para evitar bloqueos
     const { data } = await axios.get(MAXIMUS_URL, {
       headers: {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
@@ -26,19 +24,12 @@ app.get('/api/componentes', async (req, res) => {
     const $ = cheerio.load(data);
     const productos = [];
 
-    // Buscamos sobre todos los contenedores posibles de productos en Maximus
     $('div[id*="Producto"], div[class*="Producto"], .item, .product, article, .card').each((index, el) => {
-      // Extraer Nombre
-      const name = $(el).find('h2, h3, .nombre, .title, a[title]').first().text().trim() || $(el).find('a').attr('title') || '';
-
-      // Extraer Precio
+      const name = $(el).find('h2, h3, .nombre, .title, a[title]').first().text().trim() \vert{}\vert{}$(el).find('a').attr('title') || '';
       const priceText = $(el).find('.precio, .price, span[id*="Precio"]').text().replace(/[^0-9]/g, '');
+      
+      let img = $(el).find('img').attr('data-original') || $(el).find('img').attr('data-src') \vert{}\vert{}$(el).find('img').attr('src') || '';
 
-      // Extraer Imagen Real
-      let img = $(el).find('img').attr('data-original') || 
-                $(el).find('img').attr('data-src') \vert{}\vert{}$(el).find('img').attr('src') || '';
-
-      // Normalizar URL de la imagen
       if (img && !img.startsWith('http')) {
         img = 'https://www.maximus.com.ar' + (img.startsWith('/') ? '' : '/') + img;
       }
@@ -54,7 +45,6 @@ app.get('/api/componentes', async (req, res) => {
       }
     });
 
-    // En caso de que el proveedor limite peticiones de servidor, enviamos el catálogo enriquecido
     if (productos.length === 0) {
       const catalogoOficial = [
         { id: 1, name: "Procesador AMD Ryzen 7 5700X3D 4.1GHz AM4", price: 310000, img: "https://m.media-amazon.com/images/I/51f2X53S2EL._AC_SL1000_.jpg", category: "procesadores" },
@@ -98,4 +88,4 @@ function detectCategory(name) {
 }
 
 const PORT = process.env.PORT || 10000;
-app.listen(PORT, () => console.log(`Servidor activo en el puerto ${PORT}`));
+app.listen(PORT, () => console.log(`Servidor activo en el puerto ${PORT}`));v
