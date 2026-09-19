@@ -25,7 +25,7 @@ app.get('/api/componentes', async (req, res) => {
     $('.product-item, .item-producto, .producto-single').each((index, el) => {
       const name = $(el).find('.product-title, .nombre-producto, h3').text().trim();
       const priceText = $(el).find('.price, .precio, .precio-efectivo').text().replace(/[^0-9]/g, '');
-      let img = $(el).find('img').attr('src') \vert{}\vert{}$(el).find('img').attr('data-src');
+      let img = $(el).find('img').attr('src') || $(el).find('img').attr('data-src');
 
       if (img && !img.startsWith('http')) {
         img = `https://www.maximus.com.ar${img}`;
@@ -33,7 +33,7 @@ app.get('/api/componentes', async (req, res) => {
 
       if (name && priceText) {
         productos.push({
-          id: index + 1,
+        img: img || '[https://via.placeholder.com/400](https://via.placeholder.com/400)'
           name: name,
           price: parseInt(priceText, 10),
           img: img || 'https://via.placeholder.com/400',
