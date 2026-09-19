@@ -28,12 +28,12 @@ app.get('/api/componentes', async (req, res) => {
       let img = $(el).find('img').attr('src') || $(el).find('img').attr('data-src');
 
       if (img && !img.startsWith('http')) {
-        img = `https://www.maximus.com.ar${img}`;
+        img = 'https://www.maximus.com.ar' + img;
       }
 
       if (name && priceText) {
         productos.push({
-        img: img || '[https://via.placeholder.com/400](https://via.placeholder.com/400)'
+          id: index + 1,
           name: name,
           price: parseInt(priceText, 10),
           img: img || 'https://via.placeholder.com/400',
@@ -65,4 +65,4 @@ function detectCategory(name) {
 }
 
 const PORT = process.env.PORT || 3000;
-app.listen(PORT, () => console.log(`Servidor corriendo en puerto ${PORT}`));
+app.listen(PORT, () => console.log('Servidor corriendo en puerto ' + PORT));
