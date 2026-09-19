@@ -6,39 +6,28 @@ const cors = require('cors');
 const app = express();
 app.use(cors());
 
-// URL oficial de la tienda Maximus
+// Tu API Key de ScraperAPI integrada
+const SCRAPER_KEY = 'ec96a0585fdfd72d4410143ca167404c'; 
 const MAXIMUS_URL = 'https://www.maximus.com.ar/Productos/Componentes-de-PC/maximus.aspx';
+
+app.get('/', (req, res) => {
+  res.send('Servidor NORTECH Backend activo.');
+});
 
 app.get('/api/componentes', async (req, res) => {
   try {
-    // Intentamos extraer el HTML real con headers de navegador humano completo
-    const { data } = await axios.get(MAXIMUS_URL, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Language': 'es-AR,es;q=0.9,en-US;q=0.8,en;q=0.7',
-        'Cache-Control': 'max-age=0',
-        'Referer': 'https://www.google.com/',
-        'Sec-Ch-Ua': '"Not-A.Brand";v="99", "Chromium";v="124", "Google Chrome";v="124"',
-        'Sec-Ch-Ua-Mobile': '?0',
-        'Sec-Ch-Ua-Platform': '"Windows"',
-        'Sec-Fetch-Dest': 'document',
-        'Sec-Fetch-Mode': 'navigate',
-        'Sec-Fetch-Site': 'cross-site',
-        'Sec-Fetch-User': '?1',
-        'Upgrade-Insecure-Requests': '1'
-      },
-      timeout: 15000
-    });
-
+    // Solicitud a través de ScraperAPI con renderizado dinámico activado
+    const proxyUrl = `http://api.scraperapi.com?api_key=${SCRAPER_KEY}&url=${encodeURIComponent(MAXIMUS_URL)}&render=true`;
+    
+    const { data } = await axios.get(proxyUrl, { timeout: 45000 });
     const $ = cheerio.load(data);
     const productos = [];
 
-    // Selectores específicos de la estructura del DOM de Maximus
-    $('.producto, div[class*="Producto"], .item-producto, article').each((index, el) => {
-      const name = $(el).find('.nombre, h2, h3, .title, a[title]').first().text().trim() || $(el).find('a').attr('title') || '';
+    // Mapeo sobre los elementos del DOM de Maximus
+    $('.producto, div[class*="Producto"], .item, article').each((index, el) => {
+      const name = $(el).find('h2, h3, .nombre, .title, a[title]').first().text().trim() \vert{}\vert{}$(el).find('a').attr('title') || '';
       const priceText = $(el).find('.precio, .price, span[id*="Precio"]').text().replace(/[^0-9]/g, '');
-      let img = $(el).find('img').attr('data-original') || $(el).find('img').attr('data-src') || $(el).find('img').attr('src') || '';
+      let img = $(el).find('img').attr('data-original') || $(el).find('img').attr('data-src') \vert{}\vert{}$(el).find('img').attr('src') || '';
 
       if (img && !img.startsWith('http')) {
         img = 'https://www.maximus.com.ar' + (img.startsWith('/') ? '' : '/') + img;
@@ -55,19 +44,15 @@ app.get('/api/componentes', async (req, res) => {
       }
     });
 
-    // Si logró traspasar el filtro de Cloudflare, responde con los datos en vivo
     if (productos.length > 0) {
       return res.json(productos);
     }
 
-    // Si Cloudflare devolvió un HTML de verificación/desafío CAPTCHA
-    res.status(503).json({
-      error: "Cloudflare bloqueó la IP de Render.",
-      sugerencia: "Se requiere integración de Puppeteer Stealth o un servicio de Proxy como ScraperAPI."
-    });
+    res.status(404).json({ error: "No se encontraron elementos en el HTML de Maximus." });
 
   } catch (error) {
-    res.status(500).json({ error: "Error al intentar consultar a Maximus", detalle: error.message });
+    console.error('Error con ScraperAPI:', error.message);
+    res.status(500).json({ error: "Falla de conexión con el proxy", detalle: error.message });
   }
 });
 
@@ -84,4 +69,4 @@ function detectCategory(name) {
 }
 
 const PORT = process.env.PORT || 10000;
-app.listen(PORT, () => console.log('Servidor en escucha en puerto ' + PORT));
+app.listen(PORT, () => console.log('Servidor activo en el puerto ' + PORT));
