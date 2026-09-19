@@ -29,7 +29,7 @@ app.get('/api/componentes', async (req, res) => {
     // Buscamos sobre todos los contenedores posibles de productos en Maximus
     $('div[id*="Producto"], div[class*="Producto"], .item, .product, article, .card').each((index, el) => {
       // Extraer Nombre
-      const name = $(el).find('h2, h3, .nombre, .title, a[title]').first().text().trim() \vert{}\vert{}$(el).find('a').attr('title') || '';
+      const name = $(el).find('h2, h3, .nombre, .title, a[title]').first().text().trim() || $(el).find('a').attr('title') || '';
 
       // Extraer Precio
       const priceText = $(el).find('.precio, .price, span[id*="Precio"]').text().replace(/[^0-9]/g, '');
