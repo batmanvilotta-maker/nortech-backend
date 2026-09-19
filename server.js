@@ -1,3 +1,4 @@
+JavaScript
 const express = require('express');
 const axios = require('axios');
 const cheerio = require('cheerio');
@@ -25,13 +26,22 @@ app.get('/api/componentes', async (req, res) => {
     const productos = [];
 
     $('div[id*="Producto"], div[class*="Producto"], .item, .product, article, .card').each((index, el) => {
-      const name = $(el).find('h2, h3, .nombre, .title, a[title]').first().text().trim() \vert{}\vert{}$(el).find('a').attr('title') || '';
+      let name = $(el).find('h2, h3, .nombre, .title, a[title]').first().text().trim();
+      if (!name) {
+        name = $(el).find('a').attr('title') || '';
+      }
+
       const priceText = $(el).find('.precio, .price, span[id*="Precio"]').text().replace(/[^0-9]/g, '');
-      
-      let img = $(el).find('img').attr('data-original') || $(el).find('img').attr('data-src') \vert{}\vert{}$(el).find('img').attr('src') || '';
+
+      let img = $(el).find('img').attr('data-original');
+      if (!img) img = $(el).find('img').attr('data-src');
+      if (!img) img = $(el).find('img').attr('src');
+      if (!img) img = '';
 
       if (img && !img.startsWith('http')) {
-        img = 'https://www.maximus.com.ar' + (img.startsWith('/') ? '' : '/') + img;
+        let prefix = '/';
+        if (img.startsWith('/')) prefix = '';
+        img = 'https://www.maximus.com.ar' + prefix + img;
       }
 
       if (name && name.length > 5 && priceText) {
@@ -39,7 +49,7 @@ app.get('/api/componentes', async (req, res) => {
           id: index + 1,
           name: name,
           price: parseInt(priceText, 10),
-          img: img || 'https://www.maximus.com.ar/images/logo.png',
+          img: img ? img : 'https://www.maximus.com.ar/images/logo.png',
           category: detectCategory(name)
         });
       }
@@ -77,15 +87,15 @@ app.get('/api/componentes', async (req, res) => {
 
 function detectCategory(name) {
   const title = name.toLowerCase();
-  if (title.includes('ryzen') || title.includes('core i') || title.includes('procesador')) return 'procesadores';
-  if (title.includes('rtx') || title.includes('radeon') || title.includes('rx ') || title.includes('placa de video') || title.includes('geforce')) return 'gpus';
-  if (title.includes('motherboard') || title.includes('mother') || title.includes('b550') || title.includes('b760') || title.includes('z790') || title.includes('a520')) return 'motherboards';
-  if (title.includes('ddr4') || title.includes('ddr5') || title.includes('ram') || title.includes('fury') || title.includes('vengeance')) return 'ram';
-  if (title.includes('ssd') || title.includes('nvme') || title.includes('disco') || title.includes('kingston')) return 'almacenamiento';
-  if (title.includes('fuente') || title.includes('80 plus') || title.includes('evga') || title.includes('corsair cv')) return 'fuentes';
-  if (title.includes('gabinete') || title.includes('cougar') || title.includes('airflow')) return 'gabinetes';
+  if (title.indexOf('ryzen') !== -1 || title.indexOf('core i') !== -1 || title.indexOf('procesador') !== -1) return 'procesadores';
+  if (title.indexOf('rtx') !== -1 || title.indexOf('radeon') !== -1 || title.indexOf('rx ') !== -1 || title.indexOf('placa de video') !== -1 || title.indexOf('geforce') !== -1) return 'gpus';
+  if (title.indexOf('motherboard') !== -1 || title.indexOf('mother') !== -1 || title.indexOf('b550') !== -1 || title.indexOf('b760') !== -1 || title.indexOf('z790') !== -1 || title.indexOf('a520') !== -1) return 'motherboards';
+  if (title.indexOf('ddr4') !== -1 || title.indexOf('ddr5') !== -1 || title.indexOf('ram') !== -1 || title.indexOf('fury') !== -1 || title.indexOf('vengeance') !== -1) return 'ram';
+  if (title.indexOf('ssd') !== -1 || title.indexOf('nvme') !== -1 || title.indexOf('disco') !== -1 || title.indexOf('kingston') !== -1) return 'almacenamiento';
+  if (title.indexOf('fuente') !== -1 || title.indexOf('80 plus') !== -1 || title.indexOf('evga') !== -1 || title.indexOf('corsair cv') !== -1) return 'fuentes';
+  if (title.indexOf('gabinete') !== -1 || title.indexOf('cougar') !== -1 || title.indexOf('airflow') !== -1) return 'gabinetes';
   return 'varios';
 }
 
 const PORT = process.env.PORT || 10000;
-app.listen(PORT, () => console.log(`Servidor activo en el puerto ${PORT}`));
+app.listen(PORT, () => console.log('Servidor activo en puerto ' + PORT));
