@@ -6,7 +6,6 @@ const cors = require('cors');
 const app = express();
 app.use(cors());
 
-// Tu API Key de ScraperAPI integrada
 const SCRAPER_KEY = 'ec96a0585fdfd72d4410143ca167404c'; 
 const MAXIMUS_URL = 'https://www.maximus.com.ar/Productos/Componentes-de-PC/maximus.aspx';
 
@@ -16,21 +15,32 @@ app.get('/', (req, res) => {
 
 app.get('/api/componentes', async (req, res) => {
   try {
-    // Solicitud a través de ScraperAPI con renderizado dinámico activado
-    const proxyUrl = `http://api.scraperapi.com?api_key=${SCRAPER_KEY}&url=${encodeURIComponent(MAXIMUS_URL)}&render=true`;
+    const proxyUrl = 'http://api.scraperapi.com?api_key=' + SCRAPER_KEY + '&url=' + encodeURIComponent(MAXIMUS_URL) + '&render=true';
     
     const { data } = await axios.get(proxyUrl, { timeout: 45000 });
     const $ = cheerio.load(data);
     const productos = [];
 
-    // Mapeo sobre los elementos del DOM de Maximus
     $('.producto, div[class*="Producto"], .item, article').each((index, el) => {
-      const name = $(el).find('h2, h3, .nombre, .title, a[title]').first().text().trim() \vert{}\vert{}$(el).find('a').attr('title') || '';
+      let name = $(el).find('h2, h3, .nombre, .title, a[title]').first().text().trim();
+      if (!name) {
+        name = $(el).find('a').attr('title');
+      }
+      if (!name) {
+        name = '';
+      }
+
       const priceText = $(el).find('.precio, .price, span[id*="Precio"]').text().replace(/[^0-9]/g, '');
-      let img = $(el).find('img').attr('data-original') || $(el).find('img').attr('data-src') \vert{}\vert{}$(el).find('img').attr('src') || '';
+
+      let img = $(el).find('img').attr('data-original');
+      if (!img) img = $(el).find('img').attr('data-src');
+      if (!img) img = $(el).find('img').attr('src');
+      if (!img) img = '';
 
       if (img && !img.startsWith('http')) {
-        img = 'https://www.maximus.com.ar' + (img.startsWith('/') ? '' : '/') + img;
+        let prefix = '/';
+        if (img.startsWith('/')) prefix = '';
+        img = 'https://www.maximus.com.ar' + prefix + img;
       }
 
       if (name && name.length > 3 && priceText) {
@@ -58,13 +68,13 @@ app.get('/api/componentes', async (req, res) => {
 
 function detectCategory(name) {
   const title = name.toLowerCase();
-  if (title.includes('ryzen') || title.includes('core i') || title.includes('procesador')) return 'procesadores';
-  if (title.includes('rtx') || title.includes('radeon') || title.includes('rx ') || title.includes('geforce')) return 'gpus';
-  if (title.includes('motherboard') || title.includes('mother') || title.includes('b550') || title.includes('b760')) return 'motherboards';
-  if (title.includes('ddr4') || title.includes('ddr5') || title.includes('ram')) return 'ram';
-  if (title.includes('ssd') || title.includes('nvme') || title.includes('disco')) return 'almacenamiento';
-  if (title.includes('fuente') || title.includes('80 plus')) return 'fuentes';
-  if (title.includes('gabinete')) return 'gabinetes';
+  if (title.indexOf('ryzen') !== -1 || title.indexOf('core i') !== -1 || title.indexOf('procesador') !== -1) return 'procesadores';
+  if (title.indexOf('rtx') !== -1 || title.indexOf('radeon') !== -1 || title.indexOf('rx ') !== -1 || title.indexOf('geforce') !== -1) return 'gpus';
+  if (title.indexOf('motherboard') !== -1 || title.indexOf('mother') !== -1 || title.indexOf('b550') !== -1 || title.indexOf('b760') !== -1) return 'motherboards';
+  if (title.indexOf('ddr4') !== -1 || title.indexOf('ddr5') !== -1 || title.indexOf('ram') !== -1) return 'ram';
+  if (title.indexOf('ssd') !== -1 || title.indexOf('nvme') !== -1 || title.indexOf('disco') !== -1) return 'almacenamiento';
+  if (title.indexOf('fuente') !== -1 || title.indexOf('80 plus') !== -1) return 'fuentes';
+  if (title.indexOf('gabinete') !== -1) return 'gabinetes';
   return 'varios';
 }
 
