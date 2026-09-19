@@ -15,16 +15,20 @@ app.get('/', (req, res) => {
 
 app.get('/api/componentes', async (req, res) => {
   try {
-    // Modo rápido sin renderizado pesado para respuesta inmediata
-    const proxyUrl = 'http://api.scraperapi.com?api_key=' + SCRAPER_KEY + '&url=' + encodeURIComponent(MAXIMUS_URL);
+    // Forzamos render=true para ejecutar el JavaScript que arma los productos
+    const proxyUrl = 'http://api.scraperapi.com?api_key=' + SCRAPER_KEY + '&url=' + encodeURIComponent(MAXIMUS_URL) + '&render=true';
     
-    const { data } = await axios.get(proxyUrl, { timeout: 12000 });
+    // Aumentamos el timeout a 60s para darle tiempo a ScraperAPI de procesar el JS
+    const { data } = await axios.get(proxyUrl, { timeout: 60000 });
     const $ = cheerio.load(data);
     const productos = [];
 
-    $('.producto, div[class*="Producto"], .item, article').each((index, el) => {
+    // Buscamos sobre una grilla amplia de posibles contenedores en el DOM renderizado
+    $('div[id*="Producto"], div[class*="Producto"], div[class*="producto"], .item, .product, article, .card').each((index, el) => {
       let name = $(el).find('h2, h3, .nombre, .title, a[title]').first().text().trim();
-      if (!name) name = $(el).find('a').attr('title') || '';
+      if (!name) {
+        name = $(el).find('a').attr('title') || '';
+      }
 
       const priceText = $(el).find('.precio, .price, span[id*="Precio"]').text().replace(/[^0-9]/g, '');
 
@@ -54,11 +58,11 @@ app.get('/api/componentes', async (req, res) => {
       return res.json(productos);
     }
 
-    // Fallback rápido si el selector cambia
+    // Fallback de catálogo confiable si Maximus entrega una grilla vacía
     res.json(getCatalogoFallback());
 
   } catch (error) {
-    console.error('Respuesta asistida por Fallback:', error.message);
+    console.error('Error al sincronizar con ScraperAPI:', error.message);
     res.json(getCatalogoFallback());
   }
 });
