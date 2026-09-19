@@ -88,4 +88,4 @@ function detectCategory(name) {
 }
 
 const PORT = process.env.PORT || 10000;
-app.listen(PORT, () => console.log(`Servidor activo en el puerto ${PORT}`));v
+app.listen(PORT, () => console.log(`Servidor activo en el puerto ${PORT}`));
