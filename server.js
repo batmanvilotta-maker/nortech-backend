@@ -1,112 +1,44 @@
 const express = require('express');
-const axios = require('axios');
 const cors = require('cors');
 
 const app = express();
 app.use(cors());
 
-// URL del endpoint de búsqueda general de Maximus
-const MAXIMUS_API_URL = 'https://www.maximus.com.ar/Productos/OR=1/BUS=/maximus.aspx';
-
-app.get('/api/componentes', async (req, res) => {
-  try {
-    // Realizamos una petición simulando un navegador de escritorio completo
-    const response = await axios.get(MAXIMUS_API_URL, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Language': 'es-AR,es-ES;q=0.9,es;q=0.8,en;q=0.7',
-        'Referer': 'https://www.maximus.com.ar/',
-        'Cache-Control': 'no-cache'
-      },
-      timeout: 10000
-    });
-
-    const html = response.data;
-    const productos = [];
-
-    // Expresión regular para extraer las tarjetas de productos y sus imágenes reales de Maximus
-    const regexProducto = /<div[^>]*class="[^"]*prod[^"]*"[^>]*>([\s\S]*?)<\/div>\s*<\/div>/g;
-    const regexImg = /src="([^"]+)"|data-src="([^"]+)"/i;
-    const regexTitle = /<a[^>]*title="([^"]+)"/i;
-    const regexPrecio = /\$\s*([0-9\.\,]+)/;
-
-    // Extracción limpia línea por línea
-    const items = html.split('class="producto');
+app.get('/api/componentes', (req, res) => {
+  const productos = [
+    // Procesadores
+    { id: 1, name: "Procesador AMD Ryzen 7 5700X3D 4.1GHz AM4", price: 310000, img: "https://m.media-amazon.com/images/I/51f2X53S2EL._AC_SL1000_.jpg", category: "procesadores" },
+    { id: 2, name: "Procesador Intel Core i5 13400F 4.6GHz LGA1700", price: 285000, img: "https://m.media-amazon.com/images/I/61vG3pL4YBL._AC_SL1000_.jpg", category: "procesadores" },
+    { id: 3, name: "Procesador AMD Ryzen 5 5600G 4.4GHz + Vega Graphics", price: 185000, img: "https://m.media-amazon.com/images/I/61U4e4h3p5L._AC_SL1000_.jpg", category: "procesadores" },
     
-    items.forEach((item, index) => {
-      if (index === 0) return;
-
-      const imgMatch = item.match(/src="([^"]+\.(?:jpg|png|webp))"/i) || item.match(/data-src="([^"]+\.(?:jpg|png|webp))"/i);
-      const titleMatch = item.match(/title="([^"]+)"/i) || item.match(/<h[2-4][^>]*>([^<]+)<\/h[2-4]>/i);
-      const priceMatch = item.match(/\$\s*([0-9\.\,]+)/);
-
-      if (titleMatch && priceMatch) {
-        let name = titleMatch[1].trim();
-        let rawPrice = priceMatch[1].replace(/\./g, '').replace(',', '.');
-        let price = parseInt(rawPrice, 10);
-        let img = imgMatch ? imgMatch[1] : '';
-
-        if (img && !img.startsWith('http')) {
-          img = 'https://www.maximus.com.ar' + (img.startsWith('/') ? '' : '/') + img;
-        }
-
-        if (name.length > 3 && !isNaN(price)) {
-          productos.push({
-            id: index,
-            name: name,
-            price: price,
-            img: img || 'https://www.maximus.com.ar/images/logo.png',
-            category: detectCategory(name)
-          });
-        }
-      }
-    });
-
-    // Si Maximus responde con datos, entregamos la lista filtrada de productos reales
-    if (productos.length > 0) {
-      return res.json(productos);
-    }
-
-    // Si el proveedor bloquea el scrapeo, enviamos catálogo de alta fidelidad con imágenes de hardware
-    res.json(getCatalogoFallback());
-
-  } catch (error) {
-    console.error('Error al conectar con Maximus:', error.message);
-    res.json(getCatalogoFallback());
-  }
-});
-
-function detectCategory(name) {
-  const title = name.toLowerCase();
-  if (title.includes('ryzen') || title.includes('core i') || title.includes('micro ') || title.includes('procesador')) return 'procesadores';
-  if (title.includes('rtx') || title.includes('radeon') || title.includes('rx ') || title.includes('placa de video') || title.includes('geforce')) return 'gpus';
-  if (title.includes('motherboard') || title.includes('mother') || title.includes('b550') || title.includes('b760') || title.includes('z790') || title.includes('a520')) return 'motherboards';
-  if (title.includes('ddr4') || title.includes('ddr5') || title.includes('ram') || title.includes('fury') || title.includes('memoria')) return 'ram';
-  if (title.includes('ssd') || title.includes('nvme') || title.includes('disco') || title.includes('kingston')) return 'almacenamiento';
-  if (title.includes('fuente') || title.includes('80 plus') || title.includes('evga') || title.includes('corsair') || title.includes('msi mag')) return 'fuentes';
-  if (title.includes('gabinete') || title.includes('cougar') || title.includes('xigmatek') || title.includes('sentey')) return 'gabinetes';
-  return 'varios';
-}
-
-function getCatalogoFallback() {
-  return [
-    { id: 1, name: "Micro AMD Ryzen 5 5600GT 4.6 GHz AM4", price: 265900, img: "https://www.maximus.com.ar/imagenes/productos/micro-amd-ryzen-5-5600gt-4-6-ghz-am4.jpg", category: "procesadores" },
-    { id: 2, name: "Micro AMD Ryzen 5 5500X3D 4.0 GHz AM4", price: 368780, img: "https://www.maximus.com.ar/imagenes/productos/micro-amd-ryzen-5-5500x3d.jpg", category: "procesadores" },
-    { id: 3, name: "Placa de Video MSI Nvidia GeForce RTX 3050 Ventus 2X 6GB OC", price: 492390, img: "https://www.maximus.com.ar/imagenes/productos/rtx-3050-ventus.jpg", category: "gpus" },
-    { id: 4, name: "Placa de Video Gigabyte Nvidia GeForce RTX 5060 Windforce 8GB", price: 865530, img: "https://www.maximus.com.ar/imagenes/productos/rtx-5060-windforce.jpg", category: "gpus" },
-    { id: 5, name: "Motherboard MSI PRO Z890-S WIFI DDR5 1851", price: 410000, img: "https://www.maximus.com.ar/imagenes/productos/motherboard-msi-z890.jpg", category: "motherboards" },
-    { id: 6, name: "Motherboard Asus Prime H610M-F DDR4 R2.0 S1700", price: 125000, img: "https://www.maximus.com.ar/imagenes/productos/asus-prime-h610m.jpg", category: "motherboards" },
-    { id: 7, name: "Memoria RAM Hiksemi Armor 8GB 3200MHz DDR4", price: 145469, img: "https://www.maximus.com.ar/imagenes/productos/ram-hiksemi-8gb.jpg", category: "ram" },
-    { id: 8, name: "Memoria RAM Kingston Fury Beast 8GB 6000 MHz DDR5", price: 385100, img: "https://www.maximus.com.ar/imagenes/productos/ram-kingston-fury-d35.jpg", category: "ram" },
-    { id: 9, name: "Disco Solido SSD 1TB Kingston NV3 M.2 NVMe PCIe 4.0", price: 327700, img: "https://www.maximus.com.ar/imagenes/productos/ssd-kingston-nv3-1tb.jpg", category: "almacenamiento" },
-    { id: 10, name: "Disco Solido SSD 1TB Patriot P300 M.2 NVMe PCIe 3.0", price: 255900, img: "https://www.maximus.com.ar/imagenes/productos/ssd-patriot-p300.jpg", category: "almacenamiento" },
-    { id: 11, name: "Fuente 750W MSI MAG A750GL 80 Plus Gold Modular", price: 155446, img: "https://www.maximus.com.ar/imagenes/productos/fuente-msi-a750gl.jpg", category: "fuentes" },
-    { id: 12, name: "Fuente 650W 80 Plus Bronze Solarmax Black", price: 73686, img: "https://www.maximus.com.ar/imagenes/productos/fuente-solarmax-650w.jpg", category: "fuentes" },
-    { id: 13, name: "Gabinete Gamer Zer01 Gaming Centauri 3 Fan Fixed RGB", price: 37485, img: "https://www.maximus.com.ar/imagenes/productos/gabinete-zer01-centauri.jpg", category: "gabinetes" },
-    { id: 14, name: "Gabinete Xigmatek Pucara X Arctic 6 Fan Edition White", price: 80851, img: "https://www.maximus.com.ar/imagenes/productos/gabinete-xigmatek-pucara.jpg", category: "gabinetes" }
+    // Placas de Video
+    { id: 4, name: "Placa de Video ASUS Dual GeForce RTX 4060 8GB OC", price: 420000, img: "https://m.media-amazon.com/images/I/71yR-0N+6AL._AC_SL1500_.jpg", category: "gpus" },
+    { id: 5, name: "Placa de Video XFX Radeon RX 6650 XT 8GB Speedster", price: 360000, img: "https://m.media-amazon.com/images/I/81M5v+fE4fL._AC_SL1500_.jpg", category: "gpus" },
+    { id: 6, name: "Placa de Video MSI GeForce RTX 3060 Ventus 2X 12GB", price: 380000, img: "https://m.media-amazon.com/images/I/71I3fT4x9TL._AC_SL1500_.jpg", category: "gpus" },
+    
+    // Motherboards
+    { id: 7, name: "Motherboard ASUS TUF Gaming B550M-PLUS WiFi AM4", price: 185000, img: "https://m.media-amazon.com/images/I/81XmS5Xl6EL._AC_SL1500_.jpg", category: "motherboards" },
+    { id: 8, name: "Motherboard Gigabyte B760M DS3H DDR4 LGA1700", price: 165000, img: "https://m.media-amazon.com/images/I/71yM7lVl0YL._AC_SL1500_.jpg", category: "motherboards" },
+    
+    // Memorias RAM
+    { id: 9, name: "Memoria RAM Corsair Vengeance RGB Pro 16GB (2x8) DDR4 3200MHz", price: 62000, img: "https://m.media-amazon.com/images/I/71K6J-8G0eL._AC_SL1500_.jpg", category: "ram" },
+    { id: 10, name: "Memoria RAM Kingston FURY Beast 32GB (2x16) DDR5 6000MHz", price: 145000, img: "https://m.media-amazon.com/images/I/61U+K3c-UHL._AC_SL1200_.jpg", category: "ram" },
+    
+    // Almacenamiento
+    { id: 11, name: "Disco SSD NVMe M.2 Kingston NV2 1TB PCIe 4.0", price: 82000, img: "https://m.media-amazon.com/images/I/61aS8A-1n+L._AC_SL1200_.jpg", category: "almacenamiento" },
+    { id: 12, name: "Disco SSD NVMe M.2 Western Digital Black SN770 1TB", price: 105000, img: "https://m.media-amazon.com/images/I/61A89Yf-uFL._AC_SL1200_.jpg", category: "almacenamiento" },
+    
+    // Fuentes
+    { id: 13, name: "Fuente Corsair CV650 650W 80 Plus Bronze", price: 95000, img: "https://m.media-amazon.com/images/I/71L3S8S2nSL._AC_SL1500_.jpg", category: "fuentes" },
+    { id: 14, name: "Fuente EVGA 750W N1 80 Plus Certified", price: 110000, img: "https://m.media-amazon.com/images/I/71vR81W4S2L._AC_SL1500_.jpg", category: "fuentes" },
+    
+    // Gabinetes
+    { id: 15, name: "Gabinete Gamer Corsair 4000D Airflow Mid-Tower Black", price: 125000, img: "https://m.media-amazon.com/images/I/81M+P3CjFGL._AC_SL1500_.jpg", category: "gabinetes" },
+    { id: 16, name: "Gabinete Gamer Cougar Archon 2 Mesh RGB Black", price: 85000, img: "https://m.media-amazon.com/images/I/71lC5K7sSBL._AC_SL1500_.jpg", category: "gabinetes" }
   ];
-}
+
+  res.json(productos);
+});
 
 const PORT = process.env.PORT || 10000;
 app.listen(PORT, () => console.log('Servidor activo en el puerto ' + PORT));
