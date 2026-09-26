@@ -497,10 +497,24 @@
 "category": "pcs-armadas"
 },
 {
+"id": 20318,
+"name": "PC Gamer AMD Ryzen 7 5700x RTX 5060 8GB B550 16GB RAM 1TB NVMe 650W Gold",
+"price": 2655614,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-60_600.jpg",
+"category": "pcs-armadas"
+},
+{
 "id": 19238,
 "name": "PC Gamer Intel i5-12400F 16GB RAM SSD 1TB RTX 5060 8GB",
 "price": 2871975,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-22_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20381,
+"name": "PC Gamer AMD Ryzen 5 7600 RTX 5060 8GB B650 16GB RAM 1TB NVMe 750W Gold",
+"price": 2997181,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-61_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -711,6 +725,13 @@
 "name": "PC Powered by MSI Ultimate Intel Ultra 9 285K B860 32GB RAM 2TB RTX 5080 850W Gold + Water 360 WIFI",
 "price": 9427331,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-19_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 19702,
+"name": "PC Gamer Intel ULTRA 9 285K 32GB RAM SSD 2TB RTX 5080 16GB WIFI 6E",
+"price": 9630927,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-36_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -1477,6 +1498,13 @@
 "category": "gpus"
 },
 {
+"id": 19791,
+"name": "Placa de Video Asus Nvidia Geforce RTX 5060 Dual Evo OC 8GB GDDR7",
+"price": 1060392,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90YV0NS0-M0AA00_600.jpg",
+"category": "gpus"
+},
+{
 "id": 18044,
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5060 Eagle 8GB OC Ice GDDR7",
 "price": 1075365,
@@ -1523,6 +1551,13 @@
 "name": "Placa de Video AMD Radeon Gigabyte RX 9060 XT Gaming OC 8GB GDDR6",
 "price": 1192320,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-R9060XTGAMING-OC-8GD_600.jpg",
+"category": "gpus"
+},
+{
+"id": 18817,
+"name": "Placa de Video Gigabyte Nvidia Geforce RTX 5060 TI EAGLE ICE 8GB OC GDDR7",
+"price": 1194850,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N506TEAGLEOC-ICE-8GD_600.jpg",
 "category": "gpus"
 },
 {
@@ -1600,6 +1635,13 @@
 "name": "Placa de Video MSI Nvidia Geforce RTX 5060 TI Gaming OC 8GB GDDR7",
 "price": 1387015,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V536-026_600.jpg",
+"category": "gpus"
+},
+{
+"id": 19236,
+"name": "Placa de Video Asus Dual Nvidia Geforce RTX 5060 TI 8GB OC GDDR7",
+"price": 1403000,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90YV0MP2-M0AA00_600.jpg",
 "category": "gpus"
 },
 {
@@ -1806,6 +1848,13 @@
 "category": "motherboards"
 },
 {
+"id": 15938,
+"name": "Motherboard MSI A520M A Pro AM4",
+"price": 108560,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7C96-052_600.jpg",
+"category": "motherboards"
+},
+{
 "id": 7214,
 "name": "Motherboard Asus A520M-K Prime AM4",
 "price": 113390,
@@ -1943,6 +1992,13 @@
 "name": "Motherboard MSI B650M-B PRO AM5",
 "price": 197915,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E28-020_600.jpg",
+"category": "motherboards"
+},
+{
+"id": 20338,
+"name": "Motherboard MSI PRO A620AM-G EVO WIFI AM5 DDR5",
+"price": 199180,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7e96-002_600.jpg",
 "category": "motherboards"
 },
 {
@@ -2345,6 +2401,13 @@
 "category": "motherboards"
 },
 {
+"id": 20572,
+"name": "Motherboard Asus Rog Strix B850-F Gaming Wifi7 Neo DDR5 AM5",
+"price": 783035,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1NX0-M0EAY0_600.jpg",
+"category": "motherboards"
+},
+{
 "id": 20857,
 "name": "Motherboard Gigabyte X870E Aero X3D Wood Dark AM5 DDR5",
 "price": 972670,
@@ -2569,6 +2632,13 @@
 "category": "ram"
 },
 {
+"id": 19737,
+"name": "Memoria RAM Corsair Vengeance Black 8GB 5200Mhz DDR5 CL40 - Intel XMP",
+"price": 343390,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMK8GX5M1B5200C40_600.jpg",
+"category": "ram"
+},
+{
 "id": 15008,
 "name": "Memoria Ram Sodimm Kingston 8GB 5200 Mhz DDR5",
 "price": 352935,
@@ -2667,6 +2737,13 @@
 "category": "ram"
 },
 {
+"id": 18853,
+"name": "Memoria RAM Kingston Fury Beast 8GB 5600 Mhz CL36 DDR5 Black - AMD EXPO",
+"price": 420670,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF556C36BBE-8_600.jpg",
+"category": "ram"
+},
+{
 "id": 18952,
 "name": "Memoria RAM Kingston Fury Beast 8GB RGB 5600 Mhz CL36 DDR5 Black - AMD EXPO",
 "price": 440680,
@@ -2706,6 +2783,13 @@
 "name": "Memoria Ram Memox 16GB 4800Mhz DDR5 - BULK",
 "price": 570400,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MMD516G48U_600.jpg",
+"category": "ram"
+},
+{
+"id": 20570,
+"name": "Memoria Ram Aimerican Telepathy 16GB 6000Mhz DDR5",
+"price": 582360,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AIU16GD560XMP_600.jpg",
 "category": "ram"
 },
 {
@@ -4389,6 +4473,13 @@
 "category": "gabinetes"
 },
 {
+"id": 20739,
+"name": "Gabinete Sentey Bearer White Fan x4 ARGB - PWM",
+"price": 124085,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BEARER-PWM-WHTA_600.jpg",
+"category": "gabinetes"
+},
+{
 "id": 10096,
 "name": "Gabinete Genesis IRID 503 V2 ARGB",
 "price": 127696,
@@ -5345,6 +5436,13 @@
 "name": "CPU Water Cooler 240mm ASUS Prime Liquid LC 240 ARGB",
 "price": 188485,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90RC0111-B0AAY0_600.jpg",
+"category": "refrigeracion"
+},
+{
+"id": 19596,
+"name": "CPU Water Cooler Lovingcool 360mm AK-B360-03 - Argb - Black",
+"price": 189520,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/Lovingcool-Ak-B360-03-Black_600.jpg",
 "category": "refrigeracion"
 },
 {
@@ -6353,6 +6451,13 @@
 "name": "Webcam Logitech C270 HD 720P",
 "price": 49565,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/960-000694_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 10085,
+"name": "Mouse Genesis Zircon 550 Inalámbrico",
+"price": 49709,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/NMG-1787_600.jpg",
 "category": "perifericos"
 },
 {
