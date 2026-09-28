@@ -98,13 +98,6 @@
 "category": "pcs-armadas"
 },
 {
-"id": 19392,
-"name": "PC Armada AMD Ryzen 7 5700G 16GB 500GB",
-"price": 1116662,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-ML5-ARMADA-GAMER_600.jpg",
-"category": "pcs-armadas"
-},
-{
 "id": 20799,
 "name": "Mini PC ASUS PN52-BB7000XTC Ryzen 7 5800H",
 "price": 1125850,
@@ -1701,17 +1694,17 @@
 "category": "gpus"
 },
 {
-"id": 19303,
-"name": "Placa de Video Gigabyte Nvidia Geforce RTX 5060 TI Aero 8GB OC GDDR7",
-"price": 1502015,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N506TAERO-OC-8GD_600.jpg",
-"category": "gpus"
-},
-{
 "id": 16829,
 "name": "Placa de Video MSI Nvidia Geforce RTX 5060 TI Gaming Trio OC 8GB GDDR7",
 "price": 1568830,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V536-022_600.jpg",
+"category": "gpus"
+},
+{
+"id": 19627,
+"name": "Placa de Video AMD Radeon Asus RX 9060 XT Dual 16GB GDDR6",
+"price": 1587805,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90YV0LG2-M0AA00_600.jpg",
 "category": "gpus"
 },
 {
@@ -2160,13 +2153,6 @@
 "name": "Motherboard MSI B650M GAMING WIFI AM5",
 "price": 283245,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E30-009_600.jpg",
-"category": "motherboards"
-},
-{
-"id": 19800,
-"name": "Motherboard Asus Tuf Gaming A620AM-Plus WIFI AM5",
-"price": 289915,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1MZ0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
 {
@@ -2853,13 +2839,6 @@
 "name": "Memoria Ram Sodimm Kingston KVR 16GB 3200 Mhz DDR4",
 "price": 637790,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KVR32S22D8-16WP_600.jpg",
-"category": "ram"
-},
-{
-"id": 16747,
-"name": "Memoria Ram Hiksemi Armor 16GB 6000Mhz DDR5",
-"price": 645725,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HSC516U60D2-16G_600.jpg",
 "category": "ram"
 },
 {
@@ -4312,13 +4291,6 @@
 "category": "gabinetes"
 },
 {
-"id": 19295,
-"name": "Gabinete Cooler Master Elite 302 Black x3 ARGB",
-"price": 92920,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E302-KGNN-S00_600.jpg",
-"category": "gabinetes"
-},
-{
 "id": 20753,
 "name": "Gabinete Cooler Master Elite 461 Black ARGB",
 "price": 94530,
@@ -4610,13 +4582,6 @@
 "name": "Gabinete ADATA XPG Valor AIR PRO White Fan x4 Argb",
 "price": 154215,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VALORAIRPROMTA-WHCWW_600.jpg",
-"category": "gabinetes"
-},
-{
-"id": 15035,
-"name": "Gabinete Gamer Raidmax Vector V100 TG BLACK",
-"price": 157895,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/V100TBS_600.jpg",
 "category": "gabinetes"
 },
 {
@@ -5124,13 +5089,6 @@
 "category": "refrigeracion"
 },
 {
-"id": 16464,
-"name": "Kit Fan Cooler x3 Gamemax 120mm RB300 ARGB",
-"price": 24035,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RB300_600.jpg",
-"category": "refrigeracion"
-},
-{
 "id": 16361,
 "name": "Pasta Termica Corsair XTM60",
 "price": 25392,
@@ -5142,13 +5100,6 @@
 "name": "Cpu Cooler Gamemax Gamma 500 Rainbow - ARGB",
 "price": 39100,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GAMMA-500-RAINBOW_600.jpg",
-"category": "refrigeracion"
-},
-{
-"id": 13916,
-"name": "Cpu Cooler Gamemax Sigma 540",
-"price": 45080,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SIGMA-540-BK_600.jpg",
 "category": "refrigeracion"
 },
 {
@@ -5782,13 +5733,6 @@
 "category": "monitores"
 },
 {
-"id": 20701,
-"name": "Monitor Led IPS 23.8\" AOC 24B30H2 100Hz 4Ms",
-"price": 190256,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/24B30H2_600.jpg",
-"category": "monitores"
-},
-{
 "id": 20151,
 "name": "Monitor LED VA 22\" MSI Pro MP225 E12VL 120Hz FHD 1Ms - HDMI/VGA - Adaptative-Sync",
 "price": 192510,
@@ -5884,13 +5828,6 @@
 "name": "Monitor Gamer IPS 27\" Gigabyte Edge GS27FA-AR FHD 180Hz 1Ms Freesync",
 "price": 354775,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GS27FA-AR_600.jpg",
-"category": "monitores"
-},
-{
-"id": 19938,
-"name": "Monitor LED IPS 27\" Raptor Hawk Eye Frameless FHD 200Hz 1ms - Hdmi/Dp - Freesync",
-"price": 359375,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-MON-27FHD-200IPS_600.jpg",
 "category": "monitores"
 },
 {
@@ -6636,13 +6573,6 @@
 "category": "perifericos"
 },
 {
-"id": 19105,
-"name": "Teclado Mecanico Genesis THOR 303 RGB Backlight Switch Silent Hot Swap - Layout US - White",
-"price": 63612,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/NKG-1879_600.jpg",
-"category": "perifericos"
-},
-{
 "id": 10455,
 "name": "Mouse Logitech Inalambrico M650 White",
 "price": 64745,
@@ -6703,13 +6633,6 @@
 "name": "Teclado Redragon K552 Kumara Mecanico RGB Esp Switch Red",
 "price": 70495,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376778925_600.jpg",
-"category": "perifericos"
-},
-{
-"id": 20067,
-"name": "Combo Genesis - Teclado Mecanico THOR 303 White RGB + Pad Apoya Muñecas Rubid 400",
-"price": 70639,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/Combo-NPG-1836-NKG-1879_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6815,13 +6738,6 @@
 "name": "Mouse Logitech G403 Hero Gaming",
 "price": 79695,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-005631_600.jpg",
-"category": "perifericos"
-},
-{
-"id": 15364,
-"name": "Webcam Logitech Brio 100 FULL HD 1080P Graphite",
-"price": 79810,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/960-001586_600.jpg",
 "category": "perifericos"
 },
 {
