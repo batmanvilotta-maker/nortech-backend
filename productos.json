@@ -714,24 +714,10 @@
 "category": "pcs-armadas"
 },
 {
-"id": 19860,
-"name": "PC Gamer Ryzen 7 9850X3D 32GB RAM 1TB NVMe RTX 5080 16GB WATER 360MM WIFI",
-"price": 9148284,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-39_600.jpg",
-"category": "pcs-armadas"
-},
-{
 "id": 20378,
 "name": "PC Powered by MSI Ultimate Intel Ultra 9 285K B860 32GB RAM 2TB RTX 5080 850W Gold + Water 360 WIFI",
 "price": 9408907,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-19_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 19269,
-"name": "PC Gamer Ryzen 7 9850X3D 64GB RAM 2TB NVMe RTX 5080 16GB WATER 360MM WIFI",
-"price": 11011091,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-21_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -1841,6 +1827,13 @@
 "category": "motherboards"
 },
 {
+"id": 19797,
+"name": "Motherboard MSI B840M-B PRO DDR5 AM5",
+"price": 187495,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E76-010_600.jpg",
+"category": "motherboards"
+},
+{
 "id": 16348,
 "name": "Motherboard Gigabyte B760M-K V2 DDR4 s1700",
 "price": 193660,
@@ -2195,13 +2188,6 @@
 "name": "Motherboard MSI PRO Z890-S WIFI DDR5 1851",
 "price": 557520,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E54-003_600.jpg",
-"category": "motherboards"
-},
-{
-"id": 19759,
-"name": "Motherboard Gigabyte X870M AORUS ELITE WIFI7 AM5 DDR5",
-"price": 559245,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/X870M-AORUS-ELITE-WIFI7_600.jpg",
 "category": "motherboards"
 },
 {
@@ -3031,13 +3017,6 @@
 "category": "almacenamiento"
 },
 {
-"id": 4631,
-"name": "Disco Solido SSD 480GB Kingston A400 SATA III (Similar 500GB 512GB)",
-"price": 204930,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SA400S37-480G_600.jpg",
-"category": "almacenamiento"
-},
-{
 "id": 14353,
 "name": "Disco Solido SSD 512GB Patriot P300 M.2 NVMe PCIe x4 3.0",
 "price": 206310,
@@ -3483,6 +3462,13 @@
 "name": "Fuente 650W Thermaltake Smart BX3 80 PLUS Bronze",
 "price": 132595,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PS-SPD-0650NNFABG-3_600.jpg",
+"category": "fuentes"
+},
+{
+"id": 18878,
+"name": "Fuente 850W Sentey MBP850-GM 80 PLUS Bronze - Pcie 5.1 - Atx 3.1",
+"price": 134665,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MBP850-GM_600.jpg",
 "category": "fuentes"
 },
 {
@@ -4907,13 +4893,6 @@
 "category": "refrigeracion"
 },
 {
-"id": 19582,
-"name": "CPU Cooler Lovingcool LC-X1200B - Black",
-"price": 67620,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/Lovingcool-LC-X1200B-Black_600.jpg",
-"category": "refrigeracion"
-},
-{
 "id": 18860,
 "name": "CPU Cooler 120mm Xigmatek AK4 Digital Arctic ARGB - White",
 "price": 71760,
@@ -5516,13 +5495,6 @@
 "category": "monitores"
 },
 {
-"id": 20674,
-"name": "Monitor LED VA 22\" MSI Pro MP225V 100Hz FHD 1Ms - HDMI/VGA",
-"price": 180435,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9S6-3PE0CM-003_600.jpg",
-"category": "monitores"
-},
-{
 "id": 19466,
 "name": "Monitor LED VA 22\" Asus VP227HF-J FHD 100Hz - HDMI/VGA",
 "price": 181930,
@@ -6034,13 +6006,6 @@
 "category": "perifericos"
 },
 {
-"id": 17944,
-"name": "Microfono Inalámbrico Portátil Natec HOPPER Lavalier TIE Lighting - USB-C - Black",
-"price": 32430,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/NMI-2255_600.jpg",
-"category": "perifericos"
-},
-{
 "id": 17942,
 "name": "Microfono Inalámbrico Portátil Natec HOPPER Lavalier TIE USB-C Black",
 "price": 32430,
@@ -6048,10 +6013,10 @@
 "category": "perifericos"
 },
 {
-"id": 15950,
-"name": "Mouse Redragon KING M724 White",
-"price": 32775,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376721990_600.jpg",
+"id": 17944,
+"name": "Microfono Inalámbrico Portátil Natec HOPPER Lavalier TIE Lighting - USB-C - Black",
+"price": 32430,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/NMI-2255_600.jpg",
 "category": "perifericos"
 },
 {
