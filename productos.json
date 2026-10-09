@@ -7,6 +7,20 @@
 "category": "pcs-armadas"
 },
 {
+"id": 20103,
+"name": "PC AMD Athlon 3000G 8GB RAM 240GB SSD GAB KIT WIFI",
+"price": 527597,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-48_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 19285,
+"name": "PC Ryzen 3 3200G 8GB RAM SSD 240 GB WIFI",
+"price": 569227,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-02_600.jpg",
+"category": "pcs-armadas"
+},
+{
 "id": 19388,
 "name": "PC Armada AMD Ryzen 3 3200G 8GB 256GB",
 "price": 570066,
@@ -21,6 +35,27 @@
 "category": "pcs-armadas"
 },
 {
+"id": 20349,
+"name": "PC Gamer Powered by MSI Essential AMD Athlon 3000G A520 8GB RAM 256GB NVMe 550W Bronze WIFI",
+"price": 719350,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-05_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20380,
+"name": "PC Gamer Powered by MSI Essential AMD Ryzen 3 3200G A520 8GB RAM 256GB NVMe 550W Bronze WIFI",
+"price": 760980,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-21_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20104,
+"name": "PC AMD Athlon 3000G 16GB RAM 512GB SSD GAB KIT WIFI",
+"price": 834647,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-49_600.jpg",
+"category": "pcs-armadas"
+},
+{
 "id": 19473,
 "name": "PC Armada AMD Ryzen 5 3400G 16GB 512GB WIFI",
 "price": 855485,
@@ -28,9 +63,23 @@
 "category": "pcs-armadas"
 },
 {
+"id": 19390,
+"name": "PC Armada AMD Ryzen 3 5300G 16GB 512GB",
+"price": 935640,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-ML3-ARMADA-GAMER_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20037,
+"name": "PC Gamer AMD Ryzen 3 3200G 16GB RAM 512GB NVME WIFI",
+"price": 940686,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-15_600.jpg",
+"category": "pcs-armadas"
+},
+{
 "id": 19268,
 "name": "PC Gamer Ryzen 5 5600GT 8GB RAM SSD 240 GB WIFI",
-"price": 895942,
+"price": 1072099,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-07_600.jpg",
 "category": "pcs-armadas"
 },
@@ -44,8 +93,15 @@
 {
 "id": 20799,
 "name": "Mini PC ASUS PN52-BB7000XTC Ryzen 7 5800H",
-"price": 1122285,
+"price": 1118605,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PN52-BB7000XTC_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 16102,
+"name": "PC Armada AMD Ryzen 7 5700G 16GB 480GB",
+"price": 1146205,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/2-Pc-Armada-AMD_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -58,29 +114,29 @@
 {
 "id": 19980,
 "name": "PC Gamer AMD Ryzen 5 5600GT 16GB 512GB NVME WIFI",
-"price": 1212422,
+"price": 1218034,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-41_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20298,
 "name": "PC Gamer AMD Ryzen 5 5600GT 16GB RAM 512GB NVMe 500W Bronze WIFI",
-"price": 1226599,
+"price": 1234626,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-50_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20299,
+"name": "PC Gamer AMD Ryzen 5 5600GT B550 16GB RAM 512GB NVMe 500W Bronze GAB 4FAN WIFI",
+"price": 1318364,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-51_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20025,
 "name": "PC Gamer AMD Ryzen 7 5700G 16GB RAM 512GB NVME 4FAN FRGB GAB WIFI",
-"price": 1328969,
+"price": 1335811,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-25_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20342,
-"name": "PC Gamer Powered by MSI Essential AMD Ryzen 5 5600GT A520 16GB RAM 512GB NVMe 550W Bronze Wifi",
-"price": 1332695,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-01_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -91,37 +147,23 @@
 "category": "pcs-armadas"
 },
 {
-"id": 20440,
-"name": "PC Gamer Powered by MSI Essential AMD Ryzen 7 5700G A520 16GB RAM 512GB NVMe 550W Bronze WIFI",
-"price": 1393257,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-22_600.jpg",
+"id": 20300,
+"name": "PC Gamer AMD Ryzen 7 5700G B550 16GB RAM 512GB NVMe 500W Bronze GAB 4FAN WIFI",
+"price": 1390584,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-52_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20021,
 "name": "PC Gamer AMD Ryzen 5 5600GT 16GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 1396506,
+"price": 1404959,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-43_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20657,
-"name": "PC Gamer Powered by MSI Advanced AMD Ryzen 7 5700G A520 16GB RAM 512GB NVMe 550W Bronze WIFI",
-"price": 1398204,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-27_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20351,
-"name": "PC Gamer Powered by MSI Advanced Intel I5 12400 H610M 16GB RAM 512GB NVME 650W Gold + CpuCooler WIFI",
-"price": 1455055,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-06_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20024,
 "name": "PC Gamer AMD Ryzen 7 5700G 16GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 1456964,
+"price": 1465416,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-46_600.jpg",
 "category": "pcs-armadas"
 },
@@ -147,17 +189,17 @@
 "category": "pcs-armadas"
 },
 {
+"id": 20301,
+"name": "PC Gamer AMD Ryzen 7 5700G B550 16GB RAM 1TB NVMe 500W Bronze WIFI",
+"price": 1517969,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-53_600.jpg",
+"category": "pcs-armadas"
+},
+{
 "id": 19733,
 "name": "PC Armada AMD Ryzen 5 4500 RX 6500 XT 4GB 16GB 480GB",
 "price": 1549740,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-ML19-ARMADA-GAMER_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20441,
-"name": "PC Gamer Powered by MSI Advanced AMD Ryzen 7 5700G A520 16GB RAM 1TB NVMe 550W Bronze WIFI",
-"price": 1578409,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-23_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -170,7 +212,7 @@
 {
 "id": 20026,
 "name": "PC Gamer AMD Ryzen 5 8600G 16GB RAM 512GB NVME 4FAN FRGB GAB WIFI",
-"price": 1620954,
+"price": 1621126,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-26_600.jpg",
 "category": "pcs-armadas"
 },
@@ -203,10 +245,10 @@
 "category": "pcs-armadas"
 },
 {
-"id": 20022,
-"name": "PC Gamer AMD Ryzen 5 5600GT 32GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 1691826,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-44_600.jpg",
+"id": 20038,
+"name": "PC Gamer AMD Ryzen 5 3500X RTX 3050 6GB 16GB RAM 512GB NVME 4FAN GAB WIFI",
+"price": 1705109,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-14_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -219,56 +261,35 @@
 {
 "id": 20030,
 "name": "PC Gamer AMD Ryzen 5 8600G 16GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 1748949,
+"price": 1750731,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-20_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20023,
-"name": "PC Gamer AMD Ryzen 7 5700G 32GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 1752284,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-45_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20347,
-"name": "PC Gamer Powered by MSI Essential AMD Ryzen 5 8600G B650 16GB RAM 512GB NVMe 650w Bronze WIFI",
-"price": 1753825,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-04_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20345,
-"name": "PC Gamer Powered by MSI Essential AMD Ryzen 5 8500G A620 16GB RAM 1TB NVMe 650W Bronze WIFI",
-"price": 1785335,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-03_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20034,
 "name": "PC Gamer AMD Ryzen 7 8700G 16GB RAM 512GB NVME 4FAN FRGB GAB WIFI",
-"price": 1790809,
+"price": 1794546,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-18_600.jpg",
 "category": "pcs-armadas"
 },
 {
-"id": 20656,
-"name": "PC Gamer Powered by MSI Advanced AMD Ryzen 5 5500 RTX 3050 6GB A520 16GB RAM 512GB 650W Bronze WIFI",
-"price": 1798749,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-26_600.jpg",
+"id": 20039,
+"name": "PC Gamer AMD Ryzen 5 3500X RTX 3050 6GB 16GB RAM 1TB NVME 4FAN GAB WIFI",
+"price": 1834714,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-13_600.jpg",
 "category": "pcs-armadas"
 },
 {
-"id": 20442,
-"name": "PC Gamer Powered by MSI Essential AMD Ryzen 7 5700G A520 32GB RAM 1TB NVMe 550W Bronze WIFI",
-"price": 1820024,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-24_600.jpg",
+"id": 20303,
+"name": "PC Gamer AMD Ryzen 5 5500 RTX 3050 6GB B550 16GB RAM 512GB NVMe 600W Bronze WIFI",
+"price": 1854609,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-55_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 14450,
 "name": "PC Gamer Ryzen 5 8500G RAM 16GB SSD 960GB",
-"price": 1857407,
+"price": 1855863,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-Armada-Media-21473_600.jpg",
 "category": "pcs-armadas"
 },
@@ -280,17 +301,38 @@
 "category": "pcs-armadas"
 },
 {
-"id": 20376,
-"name": "PC Powered by MSI Ultimate AMD Ryzen 5 5500 A520 16GB RAM 512GB RTX 3050 650W Gold Cpu Cooler WIFI",
-"price": 1907767,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-18_600.jpg",
+"id": 20302,
+"name": "PC Gamer AMD Ryzen 5 5500 RX 6600M 8GB B550 16GB RAM 512GB NVME 600W Bronze WIFI",
+"price": 1901824,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-54_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20032,
 "name": "PC Gamer AMD Ryzen 7 8700G 16GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 1918804,
+"price": 1924151,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-19_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20304,
+"name": "PC Gamer AMD Ryzen 5 5500 RTX 3050 6GB B550 16GB RAM 1TB NVMe 600W Bronze WIFI",
+"price": 1984214,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-56_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 19446,
+"name": "PC Armada AMD Ryzen 5 5500 RTX 5050 16GB 512GB",
+"price": 2039870,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-ML8-ARMADA-GAMER_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20041,
+"name": "PC Gamer AMD Ryzen 5 3500X RTX 5050 8GB 16GB RAM 512GB NVME 4FAN GAB WIFI",
+"price": 2042749,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-12_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -303,280 +345,308 @@
 {
 "id": 20353,
 "name": "PC Gamer Powered by MSI Advanced Ultra 5 225 B860 16GB RAM 1TB NVMe 850W Gold + Cpu Cooler WIFI",
-"price": 2156663,
+"price": 2152017,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-07_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20027,
 "name": "PC Gamer AMD Ryzen 5 8600G 32GB RAM 512GB NVME 4FAN FRGB GAB WIFI",
-"price": 2183304,
+"price": 2181636,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-27_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20354,
 "name": "PC Gamer Powered by MSI Advanced AMD Ryzen 7 8700G B850 16GB RAM 1TB NVMe 850W Gold + CpuCooler WIFI",
-"price": 2232908,
+"price": 2234242,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-08_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20028,
 "name": "PC Gamer AMD Ryzen 5 8600G 32GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 2311299,
+"price": 2311241,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-28_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20035,
 "name": "PC Gamer AMD Ryzen 7 8700G 32GB RAM 512GB NVME 4FAN FRGB GAB WIFI",
-"price": 2353159,
+"price": 2355056,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-17_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20036,
 "name": "PC Gamer AMD Ryzen 7 8700G 32GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 2481154,
+"price": 2484661,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-16_600.jpg",
 "category": "pcs-armadas"
 },
 {
-"id": 19266,
-"name": "PC Gamer Intel i3 14100F 16GB RAM DDR5 SSD 1TB RTX 5060 WIFI",
-"price": 3028439,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-34_600.jpg",
+"id": 20318,
+"name": "PC Gamer AMD Ryzen 7 5700x RTX 5060 8GB B550 16GB RAM 1TB NVMe 650W Gold WIFI",
+"price": 2993362,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-60_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20355,
+"name": "PC Gamer Powered by MSI Advanced AMD Ryzen 7 8700G B850 32GB RAM 1TB NVMe 750W Gold + Water 240 WIFI",
+"price": 3360897,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-09_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20383,
 "name": "PC Gamer AMD Ryzen 7 7700 RTX 5060 8GB B650 16GB RAM 1TB NVMe 750W Gold WIFI",
-"price": 3672971,
+"price": 3667681,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-63_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19704,
 "name": "PC Gamer Intel ULTRA 7 265 32GB RAM SSD 1TB WIFI",
-"price": 3732158,
+"price": 3735850,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-38_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20358,
+"name": "PC Gamer Powered by MSI Advanced Intel I7 14700 B760 32GB RAM 1TB NVMe 750W Gold + Water 240mm WIFI",
+"price": 3740627,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-10_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20360,
+"name": "PC Powered by MSI Ultimate AMD Ryzen 5 9600X B850 32GB RAM 1TB RTX 5060 750W Gold + Cpu Cooler WIFI",
+"price": 4382902,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-11_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20367,
 "name": "PC Powered by MSI Ultimate Intel I5 14600KF B760 32GB RAM 1TB RTX 5060 750W Gold + Cpu Cooler + WIFI",
-"price": 4423624,
+"price": 4420704,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-14_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19270,
 "name": "PC Gamer Ryzen 5 9600X 32GB RAM SSD 1TB RX 9060 XT 8GB WIFI",
-"price": 4449379,
+"price": 4451621,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-23_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20362,
 "name": "PC Powered by MSI Ultimate Intel Ultra 5 245KF B860 WIFI 32GB RAM 1TB RTX 5060 750W Gold  Cpu Cooler",
-"price": 4507492,
+"price": 4507331,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-12_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20387,
 "name": "PC Gamer AMD Ryzen 7 7700 RTX 5060 Ti 8GB B650 32GB RAM 2TB NVMe 750W Gold WIFI",
-"price": 4807561,
+"price": 4804686,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-67_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20386,
 "name": "PC Gamer AMD Ryzen 7 7700 RTX 5060 8GB B650 WIFI 32GB RAM 2TB NVMe 750W Gold WIFI",
-"price": 4949241,
+"price": 4941996,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-66_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19286,
 "name": "PC Gamer Intel I7 12700 32GB RAM 1TB NVME RTX 5070 12GB WIFI",
-"price": 5194751,
+"price": 5177858,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-03_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20398,
 "name": "PC Gamer AMD Ryzen 7 7700 RTX 5060 Ti 16GB B650 32GB RAM 2TB NVMe 750W Gold WIFI",
-"price": 5646601,
+"price": 5637171,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-77_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20397,
 "name": "PC Gamer AMD Ryzen 7 7700 RTX 5070 12GB B650 32GB RAM 2TB NVMe 750W Gold WIFI",
-"price": 5797826,
+"price": 5787936,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-76_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 19267,
+"name": "PC Gamer R7-7700X 32GB RAM SSD 1TB RX 9070 XT 16GB WIFI",
+"price": 5805131,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-30_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19703,
 "name": "PC Gamer Intel ULTRA 9 285 64GB RAM SSD 2TB WIFi 7E",
-"price": 6230061,
+"price": 6227589,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-37_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20395,
 "name": "PC Gamer AMD Ryzen 7 9700X RTX 5070 12GB B850 32GB RAM 2TB NVMe 850W Gold WIFI",
-"price": 6359705,
+"price": 6355680,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-74_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20396,
 "name": "PC Gamer AMD Ryzen 7 7800X3D RTX 5070 12GB B850 32GB RAM 2TB NVMe 750W Gold Water 240mm WIFI",
-"price": 6374758,
+"price": 6371883,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-75_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20394,
 "name": "PC Gamer AMD Ryzen 7 7800X3D RTX 5070 12GB B850 32GB RAM 2TB NVMe 750W Gold Water 240mm WIFI",
-"price": 6432557,
+"price": 6428762,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-73_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19271,
 "name": "PC Gamer Intel I7-14700F 32GB RAM SSD 1TB RTX 5070 TI 16GB WIFI",
-"price": 6630831,
+"price": 6608291,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-24_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19272,
 "name": "PC Gamer ULTRA 7 265KF 32GB RAM SSD 1TB RTX 5070 TI 16GB WIFI",
-"price": 6654636,
+"price": 6643021,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-29_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20372,
 "name": "PC Powered by MSI Ultimate Intel Ultra 7 270K Plus B860 32GB RAM 1TB RTX 5070TI 850W Water360 WIFI",
-"price": 7017827,
+"price": 7009386,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-16_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20370,
 "name": "PC Powered by MSI Ultimate AMD Ryzen 7 9800X3D B850 32GB RAM 1TB RTX 5070TI 850W Gold Water 360 WIFI",
-"price": 7037147,
+"price": 7028706,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-15_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19861,
 "name": "PC Gamer Ryzen 7 7800X3D 32GB RAM 1TB NVMe RTX 5070 TI 16GB WATER 240mm WIFI",
-"price": 7145327,
+"price": 7134517,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-40_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20392,
 "name": "PC Gamer AMD Ryzen 7 7800X3D RTX 5070 Ti 16GB B850 32GB RAM 2TB NVMe 850W Gold Water 240mm WIFI",
-"price": 7363459,
+"price": 7349728,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-72_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20391,
 "name": "PC Gamer AMD Ryzen 7 7800X3D RTX 5070 Ti 16GB B850 32GB RAM 2TB NVMe 850W Gold Water 360mm WIFI",
-"price": 7364632,
+"price": 7350901,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-71_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20390,
 "name": "PC Gamer AMD Ryzen 7 9800X3D RTX 5070 Ti 16GB B850 32GB RAM 2TB NVMe 850W Gold Water 360mm WIFI",
-"price": 7422903,
+"price": 7408988,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-70_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20043,
 "name": "PC Gamer Ryzen 7 7800X3D 32GB RAM 1TB NVMe RTX 5080 16GB WATER 240MM WIFI",
-"price": 8523786,
+"price": 8522751,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-31_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19237,
 "name": "PC Gamer AMD Ryzen 7 9800X3D RTX 5080 16GB 32GB RAM 2TB NVMe WATER 360MM WIFI",
-"price": 8966895,
+"price": 8962525,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-32_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19860,
 "name": "PC Gamer Ryzen 7 9850X3D 32GB RAM 1TB NVMe RTX 5080 16GB WATER 360MM WIFI",
-"price": 9137359,
+"price": 9335044,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-39_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19547,
 "name": "PC Gamer R9-9900X3D 32GB RAM WATER 360 SSD Nvme 2TB RTX 5080 16GB WIFI",
-"price": 9440614,
+"price": 9437164,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-33_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20378,
 "name": "PC Powered by MSI Ultimate Intel Ultra 9 285K B860 32GB RAM 2TB RTX 5080 850W Gold + Water 360 WIFI",
-"price": 9441912,
+"price": 9440831,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-19_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19702,
 "name": "PC Gamer Intel ULTRA 9 285K 32GB RAM SSD 2TB RTX 5080 16GB WIFI 7E",
-"price": 9605752,
+"price": 9600462,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-36_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20379,
 "name": "PC Powered by MSI Ultimate AMD Ryzen 9 9950X3D X870 32GB RAM 2TB RTX 5080 850W Gold Water 360 WIFI",
-"price": 9707332,
+"price": 9701191,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-20_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19269,
 "name": "PC Gamer Ryzen 7 9850X3D 64GB RAM 2TB NVMe RTX 5080 16GB WATER 360MM WIFI",
-"price": 11011091,
+"price": 11158406,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-21_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20828,
 "name": "PC Gamer Intel Ultra 9 285k RTX 5080 32GB Z890 64GB RAM 4TB NVMe 1000W Gold WIFI",
-"price": 11931344,
+"price": 11902594,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-82_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20827,
 "name": "PC Gamer Intel Ultra 9 285k RTX 5080 16GB Z890 128GB RAM 2TB NVMe 1000W Gold WIFI",
-"price": 14195694,
+"price": 14175569,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-81_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19794,
 "name": "Micro AMD Ryzen 3 3200G 4.0 Ghz TRAY SIN COOLER SIN CAJA",
-"price": 104650,
+"price": 104305,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/YD3200C5M4MFH_600.jpg",
 "category": "procesadores"
 },
@@ -595,17 +665,17 @@
 "category": "procesadores"
 },
 {
-"id": 5593,
-"name": "Micro AMD Ryzen 3 3200G 4.0 Ghz + RX Vega 8 AM4",
-"price": 152490,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/YD3200C5FHBOX_600.jpg",
-"category": "procesadores"
-},
-{
 "id": 20076,
 "name": "Micro AMD Ryzen 5 3400G 4.2 Ghz Tray Sin Cooler AM4",
 "price": 154560,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/YD3400C5M4MFH_600.jpg",
+"category": "procesadores"
+},
+{
+"id": 5593,
+"name": "Micro AMD Ryzen 3 3200G 4.0 Ghz + RX Vega 8 AM4",
+"price": 155480,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/YD3200C5FHBOX_600.jpg",
 "category": "procesadores"
 },
 {
@@ -625,14 +695,14 @@
 {
 "id": 10684,
 "name": "Micro AMD Ryzen 5 5500 4.2 Ghz AM4",
-"price": 235635,
+"price": 245295,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100000457BOX_600.jpg",
 "category": "procesadores"
 },
 {
 "id": 13477,
 "name": "Micro Intel I3-14100F 4.7Ghz 12Mb S.1700",
-"price": 260590,
+"price": 259670,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX8071514100F_600.jpg",
 "category": "procesadores"
 },
@@ -646,7 +716,7 @@
 {
 "id": 11021,
 "name": "Micro Intel I3-12100 4.3 Ghz 12Mb S.1700",
-"price": 324185,
+"price": 323150,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX8071512100_600.jpg",
 "category": "procesadores"
 },
@@ -667,7 +737,7 @@
 {
 "id": 13550,
 "name": "Micro Intel I3-14100 4.7Ghz 12Mb S.1700",
-"price": 355235,
+"price": 354085,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX8071514100_600.jpg",
 "category": "procesadores"
 },
@@ -695,21 +765,21 @@
 {
 "id": 15547,
 "name": "Micro AMD Ryzen 5 5600T 4.5 Ghz AM4 (Similar 5600xt - mejor que 5600x)",
-"price": 379385,
+"price": 378235,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100001584BOX_600.jpg",
 "category": "procesadores"
 },
 {
 "id": 19876,
 "name": "Micro Intel I5-14400F 4.7Ghz 20Mb S.1700 - Tray Sin Cooler",
-"price": 391000,
+"price": 389735,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CM8071505093011_600.jpg",
 "category": "procesadores"
 },
 {
 "id": 15823,
 "name": "Micro AMD Ryzen 5 5600XT 4.7 Ghz AM4 (Mejor que 5600x)",
-"price": 395255,
+"price": 391230,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100001585BOX_600.jpg",
 "category": "procesadores"
 },
@@ -779,14 +849,14 @@
 {
 "id": 16342,
 "name": "Micro Intel Core ULTRA 5 225 4.9GHz LGA 1851",
-"price": 506460,
+"price": 504850,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX80768225_600.jpg",
 "category": "procesadores"
 },
 {
 "id": 10704,
 "name": "Micro AMD Ryzen 7 5700X 4.6 Ghz AM4",
-"price": 513820,
+"price": 505080,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100000926WOF_600.jpg",
 "category": "procesadores"
 },
@@ -800,7 +870,7 @@
 {
 "id": 20613,
 "name": "Micro Intel Core ULTRA 5 250KF Plus 4.2Ghz LGA 1851",
-"price": 532450,
+"price": 530840,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX80768250KF_600.jpg",
 "category": "procesadores"
 },
@@ -835,7 +905,7 @@
 {
 "id": 13445,
 "name": "Micro AMD Ryzen 7 8700G 5.1 Ghz AM5",
-"price": 582820,
+"price": 586385,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100001236SBX_600.jpg",
 "category": "procesadores"
 },
@@ -854,16 +924,9 @@
 "category": "procesadores"
 },
 {
-"id": 20646,
-"name": "Micro AMD Ryzen 5 7600X3D 5.3 Ghz AM5",
-"price": 598575,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100001721WOF_600.jpg",
-"category": "procesadores"
-},
-{
 "id": 13480,
 "name": "Micro Intel I5-14600KF 5.3Ghz 24Mb S.1700",
-"price": 640895,
+"price": 638825,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX8071514600KF_600.jpg",
 "category": "procesadores"
 },
@@ -877,7 +940,7 @@
 {
 "id": 10152,
 "name": "Micro Intel I7-12700F 4.9Ghz 25Mb S.1700",
-"price": 763485,
+"price": 760955,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX8071512700F_600.jpg",
 "category": "procesadores"
 },
@@ -896,6 +959,13 @@
 "category": "procesadores"
 },
 {
+"id": 20646,
+"name": "Micro AMD Ryzen 5 7600X3D 5.3 Ghz AM5",
+"price": 785450,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100001721WOF_600.jpg",
+"category": "procesadores"
+},
+{
 "id": 12031,
 "name": "Micro AMD Ryzen 7 7700X 5.4 Ghz AM5",
 "price": 790395,
@@ -903,23 +973,23 @@
 "category": "procesadores"
 },
 {
-"id": 20566,
-"name": "Micro AMD Ryzen 7 7700X3D 5.3 Ghz AM5",
-"price": 794650,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-00002235WOF_600.jpg",
+"id": 9716,
+"name": "Micro Intel I7-12700KF 5.0Ghz 25Mb S.1700",
+"price": 793960,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX8071512700KF_600.jpg",
 "category": "procesadores"
 },
 {
-"id": 9716,
-"name": "Micro Intel I7-12700KF 5.0Ghz 25Mb S.1700",
-"price": 796490,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX8071512700KF_600.jpg",
+"id": 20566,
+"name": "Micro AMD Ryzen 7 7700X3D 5.3 Ghz AM5",
+"price": 824550,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-00002235WOF_600.jpg",
 "category": "procesadores"
 },
 {
 "id": 20542,
 "name": "Micro Intel I7-12700 4.9Ghz 25Mb S.1700",
-"price": 828805,
+"price": 826160,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CM8071504555019_600.jpg",
 "category": "procesadores"
 },
@@ -928,13 +998,6 @@
 "name": "Micro Intel I7-12700 4.9Ghz 25Mb S.1700",
 "price": 848125,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX8071512700_600.jpg",
-"category": "procesadores"
-},
-{
-"id": 20337,
-"name": "Micro AMD Ryzen 7 5800X3D 4.7 Ghz AM4",
-"price": 852380,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100000651POF_600.jpg",
 "category": "procesadores"
 },
 {
@@ -952,6 +1015,13 @@
 "category": "procesadores"
 },
 {
+"id": 20337,
+"name": "Micro AMD Ryzen 7 5800X3D 4.7 Ghz AM4",
+"price": 884005,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100000651POF_600.jpg",
+"category": "procesadores"
+},
+{
 "id": 19916,
 "name": "Micro Intel Core ULTRA 7 270K Plus 3.7Ghz LGA1851",
 "price": 914250,
@@ -961,7 +1031,7 @@
 {
 "id": 20324,
 "name": "Micro Intel Core ULTRA 7 265F 3.9Ghz LGA1851",
-"price": 922875,
+"price": 919885,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX80768265F_600.jpg",
 "category": "procesadores"
 },
@@ -1059,14 +1129,14 @@
 {
 "id": 20791,
 "name": "Micro AMD Ryzen 9 9900X3D 5.5 Ghz AM5 TRAY Sin Cooler",
-"price": 1430830,
+"price": 1426230,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-1000001368_600.jpg",
 "category": "procesadores"
 },
 {
 "id": 14573,
 "name": "Micro AMD Ryzen 9 9950X 4.3 Ghz AM5",
-"price": 1491320,
+"price": 1496955,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100001277WOF_600.jpg",
 "category": "procesadores"
 },
@@ -1087,14 +1157,14 @@
 {
 "id": 20767,
 "name": "Micro AMD Ryzen 9 9950X3D 5.7 Ghz AM5 Tray Sin Cooler",
-"price": 1547095,
+"price": 1542150,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100000719_600.jpg",
 "category": "procesadores"
 },
 {
 "id": 16450,
 "name": "Micro AMD Ryzen 9 9950X3D 5.7 Ghz AM5",
-"price": 1697285,
+"price": 1761110,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100000719WOF_600.jpg",
 "category": "procesadores"
 },
@@ -1108,21 +1178,21 @@
 {
 "id": 20880,
 "name": "Placa de Video PCWINMAX GT 210 1GB DDR3",
-"price": 84755,
+"price": 84410,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GT210-1GD3-LP_600.jpg",
 "category": "gpus"
 },
 {
 "id": 20881,
 "name": "Placa de Video PCWINMAX GT 610 2GB DDR3",
-"price": 131100,
+"price": 130640,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GT610-2GD3-LP_600.jpg",
 "category": "gpus"
 },
 {
 "id": 20882,
 "name": "Placa de Video PCWINMAX GT 730 4GB DDR3",
-"price": 176870,
+"price": 172178,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GT730-4GD3-128-BIT_600.jpg",
 "category": "gpus"
 },
@@ -1136,7 +1206,7 @@
 {
 "id": 20883,
 "name": "Placa de Video PCWINMAX GT 750 TI 4GB DDR5",
-"price": 227815,
+"price": 227125,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GTX750TI-4GD5-128-BIT_600.jpg",
 "category": "gpus"
 },
@@ -1150,14 +1220,14 @@
 {
 "id": 20603,
 "name": "Placa de Video Peladn Nvidia 1030GT 4Gb Ddr4",
-"price": 310845,
+"price": 309810,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PL-1030GT-4GD4_600.jpg",
 "category": "gpus"
 },
 {
 "id": 20884,
 "name": "Placa de Video PCWINMAX RX 580 8GB",
-"price": 377660,
+"price": 376395,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RX580-8GD5-256-BIT_600.jpg",
 "category": "gpus"
 },
@@ -1171,22 +1241,15 @@
 {
 "id": 20885,
 "name": "Placa de Video PCWINMAX RX 590 8GB",
-"price": 432975,
+"price": 397957,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RX590-8GD5-256-BIT_600.jpg",
 "category": "gpus"
 },
 {
 "id": 20887,
 "name": "Placa de Video CENTAURI RX 5500 8GB GDDR5",
-"price": 464715,
+"price": 463335,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RX5500-8G_600.jpg",
-"category": "gpus"
-},
-{
-"id": 20474,
-"name": "Placa de Video Peladn Nvidia Geforce GTX 1660 Super  6Gb Gddr6",
-"price": 567525,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PL-GTX1660S-6GD6_600.jpg",
 "category": "gpus"
 },
 {
@@ -1204,13 +1267,6 @@
 "category": "gpus"
 },
 {
-"id": 19847,
-"name": "Placa de Video MSI Nvidia Geforce RTX 3050 Low Profile 6GB OC GDDR6",
-"price": 648025,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V812-223_600.jpg",
-"category": "gpus"
-},
-{
 "id": 13752,
 "name": "Placa de Video ASUS Nvidia Geforce RTX 3050 DUAL OC 6GB GDDR6",
 "price": 655615,
@@ -1218,10 +1274,10 @@
 "category": "gpus"
 },
 {
-"id": 15482,
-"name": "Placa de Video MSI Nvidia Geforce RTX 3050 Ventus 2X 6GB OC GDDR6",
-"price": 688390,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V812-060_600.jpg",
+"id": 19847,
+"name": "Placa de Video MSI Nvidia Geforce RTX 3050 Low Profile 6GB OC GDDR6",
+"price": 659640,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V812-223_600.jpg",
 "category": "gpus"
 },
 {
@@ -1241,14 +1297,21 @@
 {
 "id": 20886,
 "name": "Placa de Video PELADN RX 7600S OC 8GB DUAL FAN 8GB GDDR5",
-"price": 776825,
+"price": 774295,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PELADN-RX-7600S-8GD6_600.jpg",
+"category": "gpus"
+},
+{
+"id": 20645,
+"name": "Placa de Video AMD Radeon Gigabyte RX 9050 Gaming OC 8GB GDDR6",
+"price": 857555,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-R9050GAMING-OC-8GD_600.jpg",
 "category": "gpus"
 },
 {
 "id": 20599,
 "name": "Placa de Video INNO3D Nvidia Geforce RTX 5050 8GB Twin X2 GDDR6",
-"price": 977500,
+"price": 974395,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/N50502-08D6-174071N_600.jpg",
 "category": "gpus"
 },
@@ -1264,6 +1327,20 @@
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5050 Windforce V2 8GB OC GDDR6",
 "price": 1026030,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N5050WF2OCV2-8GD_600.jpg",
+"category": "gpus"
+},
+{
+"id": 19755,
+"name": "Placa de Video Gigabyte Nvidia Geforce RTX 5060 EAGLE MAX 8GB OC GDDR7",
+"price": 1097215,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9VN5060EXO-00-G10_600.jpg",
+"category": "gpus"
+},
+{
+"id": 18048,
+"name": "Placa de Video Msi Nvidia Geforce RTX 5060 Ventus 2X 8GB OC GDDR7",
+"price": 1168170,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-v537-033_600.jpg",
 "category": "gpus"
 },
 {
@@ -1290,14 +1367,14 @@
 {
 "id": 18314,
 "name": "Placa de Video AMD Radeon Asus Prime RX 9060 XT 8GB OC GDDR6",
-"price": 1203705,
+"price": 1199910,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90YV0MI0-M0AA00_600.jpg",
 "category": "gpus"
 },
 {
 "id": 20766,
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5060 Gaming 8GB OC V2 GDDR7",
-"price": 1206465,
+"price": 1202670,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N5060GAMING-OCV2-8GD_600.jpg",
 "category": "gpus"
 },
@@ -1311,15 +1388,8 @@
 {
 "id": 18044,
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5060 Eagle 8GB OC Ice GDDR7",
-"price": 1242805,
+"price": 1238895,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9VN5060EOI-00-G10_600.jpg",
-"category": "gpus"
-},
-{
-"id": 18048,
-"name": "Placa de Video Msi Nvidia Geforce RTX 5060 Ventus 2X 8GB OC GDDR7",
-"price": 1244300,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-v537-033_600.jpg",
 "category": "gpus"
 },
 {
@@ -1346,7 +1416,7 @@
 {
 "id": 18954,
 "name": "Placa de Video Msi Nvidia Geforce RTX 5060 SHADOW 2X 8GB OC GDDR7",
-"price": 1288115,
+"price": 1283975,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V537-037_600.jpg",
 "category": "gpus"
 },
@@ -1360,7 +1430,7 @@
 {
 "id": 18045,
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5060 Gaming 8GB OC GDDR7",
-"price": 1333425,
+"price": 1329055,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N5060GAMING-OC-8GD_600.jpg",
 "category": "gpus"
 },
@@ -1369,13 +1439,6 @@
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5060 TI EAGLE ICE 8GB OC GDDR7",
 "price": 1357000,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N506TEAGLEOC-ICE-8GD_600.jpg",
-"category": "gpus"
-},
-{
-"id": 18238,
-"name": "Placa de Video Gigabyte Nvidia Geforce RTX 5060 TI Windforce 8GB OC GDDR7",
-"price": 1360795,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N506TWF2OC-8GD_600.jpg",
 "category": "gpus"
 },
 {
@@ -1395,14 +1458,14 @@
 {
 "id": 20655,
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5060 TI Windforce Max 8GB OC GDDR7",
-"price": 1430830,
+"price": 1426345,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N506TWF2MAX OC-8GD_600.jpg",
 "category": "gpus"
 },
 {
 "id": 19303,
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5060 TI Aero 8GB OC GDDR7",
-"price": 1497185,
+"price": 1492355,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N506TAERO-OC-8GD_600.jpg",
 "category": "gpus"
 },
@@ -1416,35 +1479,35 @@
 {
 "id": 18820,
 "name": "Placa de Video AMD Radeon Sapphire Pulse RX 9060 XT Gaming OC 16GB GDDR6",
-"price": 1602640,
+"price": 1597465,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/11350-03-20G_600.jpg",
 "category": "gpus"
 },
 {
 "id": 20788,
 "name": "Placa de Video AMD Radeon Asus RX 9070 GRE OC 12GB GDDR6",
-"price": 1656230,
+"price": 1650940,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PRIME-RX9070GRE-O12G_600.jpg",
 "category": "gpus"
 },
 {
 "id": 20647,
 "name": "Placa de Video Msi Nvidia Geforce RTX 5060 TI Shadow 2X Plus OC 16GB GDDR7",
-"price": 2030785,
+"price": 2024230,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V535-218_600.jpg",
 "category": "gpus"
 },
 {
 "id": 17902,
 "name": "Placa de Video AMD Radeon Asrock RX 9070 XT Steel Legend Dark 16GB GDDR6",
-"price": 2159470,
+"price": 2152570,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90-GA5VZZ-00UANZ_600.jpg",
 "category": "gpus"
 },
 {
 "id": 17957,
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5070 WINDFORCE OC SFF 12GB GDDR7",
-"price": 2182010,
+"price": 2174995,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N5070WIND-OC-12GD_600.jpg",
 "category": "gpus"
 },
@@ -1456,6 +1519,13 @@
 "category": "gpus"
 },
 {
+"id": 20818,
+"name": "Placa de Video Msi Nvidia Geforce RTX 5070 Ventus 2X 12GB OC GDDR7",
+"price": 2182930,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V532-269_600.jpg",
+"category": "gpus"
+},
+{
 "id": 17910,
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5070 Eagle Ice 12GB OC SFF GDDR7 (White)",
 "price": 2187300,
@@ -1463,16 +1533,9 @@
 "category": "gpus"
 },
 {
-"id": 20818,
-"name": "Placa de Video Msi Nvidia Geforce RTX 5070 Ventus 2X 12GB OC GDDR7",
-"price": 2189945,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V532-269_600.jpg",
-"category": "gpus"
-},
-{
 "id": 20029,
 "name": "Placa de Video Asus Dual Nvidia Geforce RTX 5070 12GB OC GDDR7",
-"price": 2213635,
+"price": 2206505,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90YV0M17-M0AA00_600.jpg",
 "category": "gpus"
 },
@@ -1486,56 +1549,56 @@
 {
 "id": 16638,
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5070 Gaming 12GB OC GDDR7",
-"price": 2289075,
+"price": 2281715,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N5070GAMING-OC-12GD_600.jpg",
 "category": "gpus"
 },
 {
 "id": 16555,
 "name": "Placa de Video AMD Radeon Asus RX 9070 XT TUF GAMING OC 16GB GDDR6",
-"price": 2343470,
+"price": 2335995,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90YV0L70-M0AA00_600.jpg",
 "category": "gpus"
 },
 {
 "id": 16517,
 "name": "Placa de Video Asus TUF Gaming Nvidia Geforce RTX 5070 12GB OC GDDR7",
-"price": 2595895,
+"price": 2587615,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90YV0LZ0-M0AA00_600.jpg",
 "category": "gpus"
 },
 {
 "id": 20011,
 "name": "Placa de Video Msi Nvidia Geforce RTX 5070 TI Ventus 3X 16GB OC GDDR7",
-"price": 3078895,
+"price": 3069120,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V531-461_600.jpg",
-"category": "gpus"
-},
-{
-"id": 20795,
-"name": "Placa de Video Msi Nvidia Geforce RTX 5070 TI 16GB FRIEREN EDITION OC GDDR7",
-"price": 3144445,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V531-682_600.jpg",
 "category": "gpus"
 },
 {
 "id": 16410,
 "name": "Placa de Video Asus Prime Nvidia Geforce RTX 5070 TI 16GB OC GDDR7",
-"price": 3300500,
+"price": 3289920,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90YV0MF0-M0AA00_600.jpg",
 "category": "gpus"
 },
 {
 "id": 16578,
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5070 TI Gaming 16GB OC GDDR7",
-"price": 3444710,
+"price": 3433670,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N507TGAMING-OC-16GD_600.jpg",
+"category": "gpus"
+},
+{
+"id": 18338,
+"name": "Placa de Video Asus TUF Gaming Nvidia Geforce RTX 5070 TI 16GB OC GDDR7",
+"price": 3576615,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90YV0MD0-M0AA00_600.jpg",
 "category": "gpus"
 },
 {
 "id": 16389,
 "name": "Placa de Video Asus Prime Nvidia Geforce RTX 5080 16GB OC GDDR7",
-"price": 4495005,
+"price": 4480515,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90YV0LX0-M0AA00_600.jpg",
 "category": "gpus"
 },
@@ -1549,15 +1612,8 @@
 {
 "id": 19997,
 "name": "Motherboard MSI A520M A Pro AM4",
-"price": 106375,
+"price": 107870,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7C96-065_600.jpg",
-"category": "motherboards"
-},
-{
-"id": 14638,
-"name": "Motherboard Biostar B450MHP M-ATX DDR4 AM4",
-"price": 108560,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AB45NM4S-R03-BS211X_600.jpg",
 "category": "motherboards"
 },
 {
@@ -1565,6 +1621,13 @@
 "name": "Motherboard MSI A520M A Pro AM4",
 "price": 108560,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7C96-052_600.jpg",
+"category": "motherboards"
+},
+{
+"id": 20907,
+"name": "Motherboard Asus PRO H410M-C2 CSM s.1200",
+"price": 115115,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB16H0-MVAAYC_600.jpg",
 "category": "motherboards"
 },
 {
@@ -1577,8 +1640,15 @@
 {
 "id": 7214,
 "name": "Motherboard Asus A520M-K Prime AM4",
-"price": 118795,
+"price": 117875,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1500-M0EAY0_600.jpg",
+"category": "motherboards"
+},
+{
+"id": 20890,
+"name": "Motherboard MSI Pro H610M-G DDR4 S1700",
+"price": 142715,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7D46-238_600.jpg",
 "category": "motherboards"
 },
 {
@@ -1586,13 +1656,6 @@
 "name": "Motherboard MSI Pro H610M-G DDR5 S1700",
 "price": 143175,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7D46-225_600.jpg",
-"category": "motherboards"
-},
-{
-"id": 20890,
-"name": "Motherboard MSI Pro H610M-G DDR4 S1700",
-"price": 143175,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7D46-238_600.jpg",
 "category": "motherboards"
 },
 {
@@ -1612,7 +1675,7 @@
 {
 "id": 16653,
 "name": "Motherboard Asus Prime H610M-F DDR4 R2.0 S1700",
-"price": 153065,
+"price": 152605,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1H70-M0EAY0_600.jpg",
 "category": "motherboards"
 },
@@ -1640,7 +1703,7 @@
 {
 "id": 20840,
 "name": "Motherboard MSI B550M-B Pro AM4",
-"price": 165715,
+"price": 168130,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7d14-024_600.jpg",
 "category": "motherboards"
 },
@@ -1668,7 +1731,7 @@
 {
 "id": 19289,
 "name": "Motherboard Asus Prime B550M-K ARGB AM4",
-"price": 184000,
+"price": 184920,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1GC0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
@@ -1677,6 +1740,13 @@
 "name": "Motherboard MSI B840M-B PRO DDR5 AM5",
 "price": 187495,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E76-010_600.jpg",
+"category": "motherboards"
+},
+{
+"id": 16348,
+"name": "Motherboard Gigabyte B760M-K V2 DDR4 s1700",
+"price": 193085,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/B760M-K-V2-DDR4_600.jpg",
 "category": "motherboards"
 },
 {
@@ -1701,59 +1771,52 @@
 "category": "motherboards"
 },
 {
-"id": 20338,
-"name": "Motherboard MSI PRO A620AM-G EVO WIFI AM5 DDR5",
-"price": 198605,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7e96-002_600.jpg",
+"id": 13542,
+"name": "Motherboard Asus Prime B760M-K DDR4 S1700",
+"price": 203320,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1DS0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 15235,
 "name": "Motherboard MSI B760M-E PRO DDR5 1700",
-"price": 208955,
+"price": 208265,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7D48-079_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 20748,
 "name": "Motherboard Asus Prime B840M-R DDR5 AM5",
-"price": 213440,
+"price": 212750,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1PT0-M0EAY0_600.jpg",
-"category": "motherboards"
-},
-{
-"id": 15914,
-"name": "Motherboard Asrock B550M Phantom Gaming 4  AM4 DDR4",
-"price": 220110,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90-MXBE90-A0UAYZ_600.jpg",
-"category": "motherboards"
-},
-{
-"id": 18335,
-"name": "Motherboard Gigabyte B760M E DDR5 1700",
-"price": 220225,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9MB76ME5-00-G10_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 20680,
 "name": "Motherboard MSI H810M-E Pro DDR5 s1851",
-"price": 221490,
+"price": 220800,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E72-002_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 7745,
 "name": "Motherboard Asus B550M-A AC Prime AM4",
-"price": 222640,
+"price": 223330,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB15K0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 15079,
 "name": "Motherboard MSI PRO B760M-P DDR5 S1700",
-"price": 224020,
+"price": 223330,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E02-033_600.jpg",
+"category": "motherboards"
+},
+{
+"id": 19280,
+"name": "Motherboard Gigabyte B860M-K DDR5 s1851",
+"price": 236555,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/B860M-K_600.jpg",
 "category": "motherboards"
 },
 {
@@ -1764,17 +1827,17 @@
 "category": "motherboards"
 },
 {
-"id": 19280,
-"name": "Motherboard Gigabyte B860M-K DDR5 s1851",
-"price": 237360,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/B860M-K_600.jpg",
+"id": 20851,
+"name": "Motherboard Gigabyte B550M K Wifi6E AM4",
+"price": 242075,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/B550M-K-wifi6e_600.jpg",
 "category": "motherboards"
 },
 {
-"id": 20851,
-"name": "Motherboard Gigabyte B550M K Wifi6E AM4",
-"price": 242880,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/B550M-K-wifi6e_600.jpg",
+"id": 19915,
+"name": "Motherboard MSI B860M-E Pro DDR5 s1851",
+"price": 251275,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E45-004_600.jpg",
 "category": "motherboards"
 },
 {
@@ -1782,13 +1845,6 @@
 "name": "Motherboard MSI B850M-B PRO AM5 DDR5",
 "price": 251965,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E87-003_600.jpg",
-"category": "motherboards"
-},
-{
-"id": 19915,
-"name": "Motherboard MSI B860M-E Pro DDR5 s1851",
-"price": 252080,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E45-004_600.jpg",
 "category": "motherboards"
 },
 {
@@ -1822,7 +1878,7 @@
 {
 "id": 19290,
 "name": "Motherboard Asus Prime B650EM-A AM5",
-"price": 292100,
+"price": 291180,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1LP0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
@@ -1836,14 +1892,14 @@
 {
 "id": 20050,
 "name": "Motherboard Gigabyte B760M Gaming Wifi6E DDR5 1700",
-"price": 296585,
+"price": 295665,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/B760M-GAMING-WIFI6E-GEN5_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 19819,
 "name": "Motherboard Asus B650M-AYW WIFI AM5",
-"price": 297045,
+"price": 296125,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1KI0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
@@ -1862,16 +1918,23 @@
 "category": "motherboards"
 },
 {
+"id": 19790,
+"name": "Motherboard MSI B850M GAMING WIFI 6E AM5 DDR5",
+"price": 308890,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E87-005_600.jpg",
+"category": "motherboards"
+},
+{
 "id": 16531,
 "name": "Motherboard Asus Prime B840M-A Wifi DDR5 AM5",
-"price": 310385,
+"price": 309465,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1J20-M0EAY0_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 19438,
 "name": "Motherboard Asus Prime B850M-K DDR5 AM5",
-"price": 313375,
+"price": 312340,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1LV0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
@@ -1885,28 +1948,28 @@
 {
 "id": 20787,
 "name": "Motherboard Asus Prime B650EM-A WIFI AM5",
-"price": 327290,
+"price": 326255,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1LM0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 20489,
 "name": "Motherboard Gigabyte B840M GAMING PLUS WIFI6E AM5 DDR5",
-"price": 342470,
+"price": 341320,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9MB84MGP6-00-G10_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 19611,
 "name": "Motherboard Asus Prime B850M-A DDR5 AM5",
-"price": 362135,
+"price": 360985,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1LQ0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 20529,
 "name": "Motherboard MSI B840 Gaming Plus Wifi DDR5 AM5",
-"price": 365815,
+"price": 364665,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E57-002_600.jpg",
 "category": "motherboards"
 },
@@ -1920,7 +1983,7 @@
 {
 "id": 19437,
 "name": "Motherboard Asus Prime B850M-A Wifi DDR5 AM5",
-"price": 389965,
+"price": 388700,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1LN0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
@@ -1934,22 +1997,15 @@
 {
 "id": 19750,
 "name": "Motherboard Asus TUF Gaming B650EM-E Wifi AM5 Ddr5",
-"price": 430675,
+"price": 429295,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1LR0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 20600,
 "name": "Motherboard MSI B850-S Pro Evo Wifi AM5 DDR5",
-"price": 455515,
+"price": 454020,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7e97-003_600.jpg",
-"category": "motherboards"
-},
-{
-"id": 19610,
-"name": "Motherboard Asus TUF Gaming B850M-E Wifi DDR5 AM5",
-"price": 464025,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1LS0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
 {
@@ -1962,21 +2018,21 @@
 {
 "id": 19522,
 "name": "Motherboard Asus TUF B650EM Plus Wifi AM5",
-"price": 471730,
+"price": 470235,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1LU0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 19621,
 "name": "Motherboard Asus Prime B850 Plus DDR5 AM5",
-"price": 482425,
+"price": 480930,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1LC0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 20889,
 "name": "Motherboard MSI B850 Gaming Plus Wifi DDR5 AM5",
-"price": 500135,
+"price": 498525,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E56-026_600.jpg",
 "category": "motherboards"
 },
@@ -1990,28 +2046,28 @@
 {
 "id": 20804,
 "name": "Motherboard MSI Z790-P WIFI DDR5 1700",
-"price": 512555,
+"price": 510830,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E06-090_600.jpg",
+"category": "motherboards"
+},
+{
+"id": 19748,
+"name": "Motherboard Msi X870-P Wifi AM5 DDR5",
+"price": 547055,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E47-014_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 20794,
 "name": "Motherboard MSI PRO Z890-S WIFI DDR5 1851",
-"price": 557520,
+"price": 555680,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E54-003_600.jpg",
-"category": "motherboards"
-},
-{
-"id": 19759,
-"name": "Motherboard Gigabyte X870M AORUS ELITE WIFI7 AM5 DDR5",
-"price": 559245,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/X870M-AORUS-ELITE-WIFI7_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 20773,
 "name": "Motherboard MSI Z890 GAMING PLUS WIFI DDR5 1851",
-"price": 570285,
+"price": 568445,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E34-017_600.jpg",
 "category": "motherboards"
 },
@@ -2046,30 +2102,37 @@
 {
 "id": 16035,
 "name": "Motherboard Asus Tuf Gaming Z890-PLUS WIFI DDR5 1851",
-"price": 780045,
+"price": 777515,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1IQ0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 20857,
 "name": "Motherboard Gigabyte X870E Aero X3D Wood Dark AM5 DDR5",
-"price": 969565,
+"price": 966460,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/X870E-AERO-X-DK-WOOD_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 20858,
 "name": "Motherboard Gigabyte X870E Aero X3D Wood AM5 DDR5",
-"price": 970715,
+"price": 967610,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/X870E-AERO-X-WOOD_600.jpg",
 "category": "motherboards"
 },
 {
 "id": 20494,
 "name": "Motherboard MSI X870E Carbon Wifi AM5 DDR5",
-"price": 1371030,
+"price": 1366660,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7E49-018_600.jpg",
 "category": "motherboards"
+},
+{
+"id": 14884,
+"name": "Memoria Ram Sodimm Hiksemi 8GB 1600 Mhz DDR3",
+"price": 75325,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HSC308S16Z1-8G_600.jpg",
+"category": "ram"
 },
 {
 "id": 15484,
@@ -2081,15 +2144,29 @@
 {
 "id": 14025,
 "name": "Memoria Ram Hiksemi 8GB 3200Mhz Hiker DDR4",
-"price": 171695,
+"price": 171120,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HSC408U32Z1-8G_600.jpg",
 "category": "ram"
 },
 {
 "id": 18869,
 "name": "Memoria Ram Memox 8GB 3200Mhz DDR4",
-"price": 175030,
+"price": 174455,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MMD48G32U_600.jpg",
+"category": "ram"
+},
+{
+"id": 14531,
+"name": "Memoria Ram Hiksemi Armor 8GB 3200Mhz DDR4",
+"price": 177100,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HSC408U32D2-8G_600.jpg",
+"category": "ram"
+},
+{
+"id": 20834,
+"name": "Memoria Ram ARKHAM 8GB 3200Mhz DDR4",
+"price": 177675,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/ARKU8GD432HS_600.jpg",
 "category": "ram"
 },
 {
@@ -2100,38 +2177,17 @@
 "category": "ram"
 },
 {
-"id": 20834,
-"name": "Memoria Ram ARKHAM 8GB 3200Mhz DDR4",
-"price": 178250,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/ARKU8GD432HS_600.jpg",
-"category": "ram"
-},
-{
 "id": 20782,
 "name": "Memoria Ram ARKHAM 8GB 3200Mhz RGB DDR4",
-"price": 179745,
+"price": 179170,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/ARKU8GD432RGB_600.jpg",
 "category": "ram"
 },
 {
 "id": 20665,
 "name": "Memoria Ram AMOG 8GB 3200Mhz DDR4 White",
-"price": 179860,
+"price": 179285,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GMPC202608G3200_600.jpg",
-"category": "ram"
-},
-{
-"id": 14531,
-"name": "Memoria Ram Hiksemi Armor 8GB 3200Mhz DDR4",
-"price": 180895,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HSC408U32D2-8G_600.jpg",
-"category": "ram"
-},
-{
-"id": 13013,
-"name": "Memoria Ram Adata Xpg GAMMIX D35 8GB 3200 Mhz DDR4",
-"price": 195960,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX4U32008G16A-SBKD35_600.jpg",
 "category": "ram"
 },
 {
@@ -2144,8 +2200,15 @@
 {
 "id": 13014,
 "name": "Memoria Ram Adata XPG SPECTRIX D35G RGB 8GB 3200 Mhz DDR4",
-"price": 200560,
+"price": 198490,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX4U32008G16A-SBKD35G_600.jpg",
+"category": "ram"
+},
+{
+"id": 13013,
+"name": "Memoria Ram Adata Xpg GAMMIX D35 8GB 3200 Mhz DDR4",
+"price": 203780,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX4U32008G16A-SBKD35_600.jpg",
 "category": "ram"
 },
 {
@@ -2158,7 +2221,7 @@
 {
 "id": 11226,
 "name": "Memoria Ram Corsair Vengeance RGB RS 8GB 3200 Mhz DDR4",
-"price": 215625,
+"price": 214935,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMG8GX4M1E3200C16_600.jpg",
 "category": "ram"
 },
@@ -2172,21 +2235,21 @@
 {
 "id": 14869,
 "name": "Memoria Ram Sodimm Hiksemi 8GB 5600Mhz DDR5",
-"price": 245065,
+"price": 244260,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/324101306_600.jpg",
 "category": "ram"
 },
 {
 "id": 14103,
 "name": "Memoria Ram Sodimm Hikvision 8GB 5600 Mhz DDR5",
-"price": 247250,
+"price": 246445,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/324101300_600.jpg",
 "category": "ram"
 },
 {
 "id": 12878,
 "name": "Memoria Ram Sodimm Adata 8GB 5600 Mhz DDR5",
-"price": 249895,
+"price": 249090,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AD5S56008G-S_600.jpg",
 "category": "ram"
 },
@@ -2200,35 +2263,35 @@
 {
 "id": 13877,
 "name": "Memoria Ram Sodimm Hiksemi Hiker 16GB 3200Mhz DDR4",
-"price": 270020,
+"price": 269100,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HSC416S32Z1_600.jpg",
 "category": "ram"
 },
 {
 "id": 11570,
 "name": "Memoria Ram Kingston 8GB 3200 Mhz DDR4",
-"price": 273125,
+"price": 272205,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KVR32N22S8-8_600.jpg",
 "category": "ram"
 },
 {
 "id": 19313,
 "name": "Memoria Ram Kingston Fury Renegade 8GB 3200 Mhz DDR4 Black",
-"price": 280140,
+"price": 279220,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF432C16RB2-8_600.jpg",
 "category": "ram"
 },
 {
 "id": 8852,
 "name": "Memoria Ram Kingston Fury Beast 8GB 3200 Mhz DDR4",
-"price": 280485,
+"price": 279565,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF432C16BB-8_600.jpg",
 "category": "ram"
 },
 {
 "id": 13779,
 "name": "Memoria Ram Kingston Fury Beast RGB 8GB 3200 Mhz DDR4",
-"price": 286120,
+"price": 285200,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF432C16BB2A-8_600.jpg",
 "category": "ram"
 },
@@ -2240,79 +2303,65 @@
 "category": "ram"
 },
 {
+"id": 19384,
+"name": "Memoria Ram Patriot Signature Line 8GB 5600 Mhz DDR5",
+"price": 302335,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PSD58G560082_600.jpg",
+"category": "ram"
+},
+{
 "id": 14530,
 "name": "Memoria Ram Hiksemi Hiker 16GB 3200Mhz DDR4",
-"price": 319355,
+"price": 318320,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HSC416U32Z1_600.jpg",
 "category": "ram"
 },
 {
 "id": 14314,
 "name": "Memoria Ram Hiksemi Armor 16GB 3200Mhz DDR4",
-"price": 323265,
+"price": 321885,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HSC416U32D2-16G_600.jpg",
-"category": "ram"
-},
-{
-"id": 20816,
-"name": "Memoria RAM MacroVip Max 8GB 5600 Mhz DDR5 Con Heatsink",
-"price": 324300,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MVX56N46-8_600.jpg",
 "category": "ram"
 },
 {
 "id": 20008,
 "name": "Memoria Ram Memox 8GB 5600Mhz DDR5 - Bulk",
-"price": 328785,
+"price": 327750,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MMD58G56U_600.jpg",
-"category": "ram"
-},
-{
-"id": 19737,
-"name": "Memoria RAM Corsair Vengeance Black 8GB 5200Mhz DDR5 CL40 - Intel XMP",
-"price": 342240,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMK8GX5M1B5200C40_600.jpg",
 "category": "ram"
 },
 {
 "id": 15008,
 "name": "Memoria Ram Sodimm Kingston 8GB 5200 Mhz DDR5",
-"price": 351785,
+"price": 350635,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KCP552SS6-8_600.jpg",
-"category": "ram"
-},
-{
-"id": 19835,
-"name": "Memoria Ram Adata XPG Lancer Blade 8GB 5600 Mhz CL48 DDR5 - Black",
-"price": 357305,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX5U5600C468G-SLABBK_600.jpg",
 "category": "ram"
 },
 {
 "id": 20895,
 "name": "Memoria Ram ARKHAM 16GB 3200Mhz RGB DDR4",
-"price": 359950,
+"price": 358800,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/ARKU16GD432RGB_600.jpg",
 "category": "ram"
 },
 {
 "id": 10875,
 "name": "Memoria Ram Patriot Viper Elite 2 16GB 3200 Mhz DDR4",
-"price": 363055,
+"price": 361905,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PVE2416G320C8_600.jpg",
 "category": "ram"
 },
 {
 "id": 20045,
 "name": "Memoria Ram Hiksemi Sword RGB 16GB 3200Mhz DDR4",
-"price": 364435,
+"price": 363285,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/324102196_600.jpg",
 "category": "ram"
 },
 {
 "id": 15359,
 "name": "Memoria Ram Corsair Vengeance LPX Black 16GB 3200 Mhz DDR4",
-"price": 366390,
+"price": 365240,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMK16GX4M1E3200C16_600.jpg",
 "category": "ram"
 },
@@ -2326,14 +2375,14 @@
 {
 "id": 15871,
 "name": "Memoria Ram Adata XPG GAMMIX D35 16GB 3200 Mhz DDR4",
-"price": 378120,
+"price": 388355,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX4U320016G16A-SBKD35_600.jpg",
 "category": "ram"
 },
 {
 "id": 10871,
 "name": "Memoria Ram Patriot Viper Steel Series RGB 16GB (2x8GB) 3600 Mhz DDR4",
-"price": 398590,
+"price": 397325,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PVSR416G360C0K_600.jpg",
 "category": "ram"
 },
@@ -2347,15 +2396,8 @@
 {
 "id": 18795,
 "name": "Memoria Ram Sodimm Kingston 8GB 5600Mhz CL46 DDR5",
-"price": 411585,
+"price": 410205,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KVR56S46BS6-8_600.jpg",
-"category": "ram"
-},
-{
-"id": 16413,
-"name": "Memoria RAM Kingston Fury Beast 8GB 6000 Mhz DDR5 CL36 - Amd Expo - Intel XMP",
-"price": 417726,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF560C36BBE-8_600.jpg",
 "category": "ram"
 },
 {
@@ -2366,9 +2408,16 @@
 "category": "ram"
 },
 {
+"id": 16413,
+"name": "Memoria RAM Kingston Fury Beast 8GB 6000 Mhz DDR5 CL36 - Amd Expo - Intel XMP",
+"price": 434596,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF560C36BBE-8_600.jpg",
+"category": "ram"
+},
+{
 "id": 18853,
 "name": "Memoria RAM Kingston Fury Beast 8GB 5600 Mhz CL36 DDR5 Black - AMD EXPO",
-"price": 438380,
+"price": 437000,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF556C36BBE-8_600.jpg",
 "category": "ram"
 },
@@ -2382,35 +2431,35 @@
 {
 "id": 19239,
 "name": "Memoria Ram Kingston 16GB 3200 Mhz DDR4",
-"price": 462875,
+"price": 461380,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KVR32N22D8-16WP_600.jpg",
 "category": "ram"
 },
 {
 "id": 7355,
 "name": "Memoria Ram Kingston 16GB 3200 Mhz DDR4",
-"price": 478975,
+"price": 477365,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KVR32N22S8-16_600.jpg",
 "category": "ram"
 },
 {
 "id": 19307,
 "name": "Memoria Ram Kingston 16GB 3200 Mhz Non-ECC DDR4",
-"price": 478975,
+"price": 477365,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KVR32N22D8-16_600.jpg",
 "category": "ram"
 },
 {
 "id": 19957,
 "name": "Memoria Ram Kingston Fury Beast RGB 16GB 3200 Mhz DDR4",
-"price": 479665,
+"price": 478170,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF432C16BB12A-16WP_600.jpg",
 "category": "ram"
 },
 {
 "id": 19958,
 "name": "Memoria Ram Kingston Fury Beast 16GB 3200 Mhz CL15 (XMP) DDR4",
-"price": 488520,
+"price": 486910,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF432C16BB1-16WP_600.jpg",
 "category": "ram"
 },
@@ -2424,28 +2473,35 @@
 {
 "id": 13874,
 "name": "Memoria Ram Hiksemi Hiker 16GB 5600Mhz DDR5",
-"price": 609615,
+"price": 607660,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HSC516U56Z1_600.jpg",
 "category": "ram"
 },
 {
 "id": 20005,
 "name": "Memoria Ram Memox 16GB 4800Mhz DDR5 - BULK",
-"price": 609960,
+"price": 608005,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MMD516G48U_600.jpg",
 "category": "ram"
 },
 {
 "id": 20609,
 "name": "Memoria Sodimm Ram Memox 16GB 4800Mhz DDR5",
-"price": 618930,
+"price": 616975,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MMD516G48S_600.jpg",
+"category": "ram"
+},
+{
+"id": 13992,
+"name": "Memoria RAM Corsair Vengeance Black 16GB 5200 Mhz DDR5",
+"price": 633535,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMK16GX5M1B5200C40_600.jpg",
 "category": "ram"
 },
 {
 "id": 19315,
 "name": "Memoria Ram Sodimm Kingston KVR 16GB 3200 Mhz DDR4",
-"price": 635835,
+"price": 633765,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KVR32S22D8-16WP_600.jpg",
 "category": "ram"
 },
@@ -2459,22 +2515,36 @@
 {
 "id": 13933,
 "name": "Memoria Ram Kingston Fury Beast RGB 16GB 3200 Mhz DDR4",
-"price": 653660,
+"price": 651590,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF432C16BB2A-16_600.jpg",
+"category": "ram"
+},
+{
+"id": 20903,
+"name": "Memoria RAM Corsair Vengeance RGB 16GB 6000 Mhz DDR5 Grey CL38 - Amd Expo",
+"price": 659755,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMH16GX5M1D6000Z38_600.jpg",
 "category": "ram"
 },
 {
 "id": 14417,
 "name": "Memoria Ram Adata XPG Lancer Blade Black 16GB 5600 Mhz DDR5",
-"price": 676660,
+"price": 674475,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX5U5600C4616G-SLABBK_600.jpg",
 "category": "ram"
 },
 {
 "id": 16196,
 "name": "Memoria Ram Adata XPG Lancer White 16GB 5600 Mhz DDR5",
-"price": 687815,
+"price": 685630,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX5U5600C4616G-SLABWH_600.jpg",
+"category": "ram"
+},
+{
+"id": 20742,
+"name": "Memoria RAM Corsair Vengeance 16GB 6000 Mhz DDR5 Grey CL38 - Amd Expo",
+"price": 697590,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMK16GX5M1D6000Z38_600.jpg",
 "category": "ram"
 },
 {
@@ -2494,14 +2564,14 @@
 {
 "id": 20845,
 "name": "Memoria Ram Adata XPG Lancer 16GB (2X8GB) RGB 5600 Mhz DDR5 Black",
-"price": 734390,
+"price": 732090,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX5U5600C468G-DTLABRBK_600.jpg",
 "category": "ram"
 },
 {
 "id": 20846,
 "name": "Memoria Ram Adata XPG Lancer 16GB (2X8GB) RGB 5600 Mhz DDR5 White",
-"price": 734390,
+"price": 732090,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX5U5600C468G-DTLABRWH_600.jpg",
 "category": "ram"
 },
@@ -2527,6 +2597,13 @@
 "category": "ram"
 },
 {
+"id": 20798,
+"name": "Memoria Ram Corsair Vengeance RGB RS 32GB (2X16GB) 3200 Mhz DDR4",
+"price": 776250,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMG32GX4M2E3200C16_600.jpg",
+"category": "ram"
+},
+{
 "id": 15819,
 "name": "Memoria Ram Hiksemi Future 32GB 3200Mhz DDR4",
 "price": 776595,
@@ -2534,16 +2611,9 @@
 "category": "ram"
 },
 {
-"id": 20798,
-"name": "Memoria Ram Corsair Vengeance RGB RS 32GB (2X16GB) 3200 Mhz DDR4",
-"price": 778780,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMG32GX4M2E3200C16_600.jpg",
-"category": "ram"
-},
-{
 "id": 20815,
 "name": "Memoria Ram Patriot Viper Elite 5 Ultra 16GB 6000 Mhz DDR5 CL36",
-"price": 782575,
+"price": 780045,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VEU516G6036_600.jpg",
 "category": "ram"
 },
@@ -2557,7 +2627,7 @@
 {
 "id": 14935,
 "name": "Memoria RAM Kingston Fury Beast 16GB 6000 Mhz DDR5 - XMP - AMD EXPO",
-"price": 801435,
+"price": 798905,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF560C36BBE2-16_600.jpg",
 "category": "ram"
 },
@@ -2573,6 +2643,13 @@
 "name": "Memoria RAM Kingston Fury Beast 16GB 6400 Mhz DDR5 - Black - Amd Expo & Intel XMP",
 "price": 813625,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF564C32BBE-16_600.jpg",
+"category": "ram"
+},
+{
+"id": 13097,
+"name": "Memoria RAM Kingston Fury Beast RGB 16GB 5600 Mhz DDR5 - Amd Expo",
+"price": 817995,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF556C36BBEA-16_600.jpg",
 "category": "ram"
 },
 {
@@ -2599,7 +2676,7 @@
 {
 "id": 20839,
 "name": "Memoria RAM Kingston Fury Beast 16GB 5600 Mhz DDR5 CL36 White - Amd Expo",
-"price": 830875,
+"price": 828230,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF556C36BWE-16_600.jpg",
 "category": "ram"
 },
@@ -2613,14 +2690,14 @@
 {
 "id": 14887,
 "name": "Memoria Ram Adata XPG Lancer RGB 16GB 6400 Mhz DDR5",
-"price": 842490,
+"price": 839845,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX5U6400C3216G-SLABRBK_600.jpg",
 "category": "ram"
 },
 {
 "id": 16365,
 "name": "Memoria Ram Adata XPG Lancer RGB 16GB 6400 Mhz DDR5",
-"price": 842490,
+"price": 839845,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX5U6400C3216G-CLARBK_600.jpg",
 "category": "ram"
 },
@@ -2632,9 +2709,16 @@
 "category": "ram"
 },
 {
+"id": 18714,
+"name": "Memoria RAM Kingston Fury Beast RGB 16GB 6800 Mhz CL34 DDR5 - Black - Amd Expo & Intel XMP",
+"price": 876760,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF568C34BBEA-16_600.jpg",
+"category": "ram"
+},
+{
 "id": 20861,
 "name": "Memoria Ram Patriot Viper Elite 5 Ultra 16GB 6000 Mhz RGB DDR5 CL36",
-"price": 973475,
+"price": 970370,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VEUR516G6036_600.jpg",
 "category": "ram"
 },
@@ -2662,8 +2746,15 @@
 {
 "id": 14494,
 "name": "Memoria Ram Kingston Fury Beast RGB 32GB 3200 Mhz DDR4",
-"price": 1282020,
+"price": 1277880,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF432C16BB2A-32_600.jpg",
+"category": "ram"
+},
+{
+"id": 11582,
+"name": "Memoria RAM Corsair Vengeance Black 32GB (2X16GB) 5200 Mhz DDR5",
+"price": 1357690,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMK32GX5M2B5200C40_600.jpg",
 "category": "ram"
 },
 {
@@ -2674,9 +2765,23 @@
 "category": "ram"
 },
 {
+"id": 20904,
+"name": "Memoria RAM Corsair Vengeance Black 32GB (2X16GB) 6000 Mhz DDR5 Cl38 Xmp",
+"price": 1424160,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMK32GX5M2D6000Z38_600.jpg",
+"category": "ram"
+},
+{
+"id": 20905,
+"name": "Memoria RAM Corsair Vengeance RGB Black 32GB (2X16GB) 6000 Mhz DDR5 CL38 Xmp",
+"price": 1453255,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMH32GX5M2D6000Z38_600.jpg",
+"category": "ram"
+},
+{
 "id": 19529,
 "name": "Memoria RAM Kingston Fury Beast 32GB 5600 Mhz DDR5 CL36 - Amd Expo",
-"price": 1463030,
+"price": 1458315,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF556C36BBE-32_600.jpg",
 "category": "ram"
 },
@@ -2688,37 +2793,51 @@
 "category": "ram"
 },
 {
+"id": 16108,
+"name": "Memoria RAM Corsair Vengeance RGB Grey 32GB (2X16GB) 6000 Mhz DDR5 CL30 - Amd Expo - Xmp",
+"price": 1598270,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMH32GX5M2B6000Z30K_600.jpg",
+"category": "ram"
+},
+{
+"id": 16483,
+"name": "Memoria RAM Corsair Vengeance RGB 32GB White (2X16GB) 6000 Mhz DDR5 CL30 - Amd Expo - Xmp",
+"price": 1606435,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMH32GX5M2B6000Z30W_600.jpg",
+"category": "ram"
+},
+{
 "id": 20859,
 "name": "Memoria Ram Patriot Viper Elite 5 Ultra 32GB (2x16gb) 6400 Mhz DDR5 CL36",
-"price": 1715800,
+"price": 1710280,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VEU532G6436K_600.jpg",
 "category": "ram"
 },
 {
 "id": 16806,
 "name": "Memoria RAM Kingston Fury Beast 32GB 6400 Mhz DDR5 Black - AMD Expo - Xmp Intel",
-"price": 1801130,
+"price": 1795380,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KF564C32BBE-32_600.jpg",
 "category": "ram"
 },
 {
 "id": 12457,
 "name": "PenDrive Hiksemi 32GB USB 2.0 M200R",
-"price": 22540,
+"price": 22425,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HS-USB-M200R-32G_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 20831,
 "name": "Pendrive 64GB Kingston DTX Data Traveler Exodia USB 3.2 Gen 2",
-"price": 23460,
+"price": 23345,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/DTXG2-64GB_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 7967,
 "name": "Pendrive 64GB SanDisk Ultra Shift USB 3.0",
-"price": 35650,
+"price": 35535,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SDCZ410-064G-G46_600.jpg",
 "category": "almacenamiento"
 },
@@ -2730,30 +2849,23 @@
 "category": "almacenamiento"
 },
 {
-"id": 20832,
-"name": "Pendrive 128GB Kingston Data Traveler Exodia USB 3.2 Gen 2",
-"price": 38985,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/DTXG2-128GB_600.jpg",
-"category": "almacenamiento"
-},
-{
 "id": 20483,
 "name": "Pendrive 128GB SanDisk Ultra Shift USB 3.2",
-"price": 57615,
+"price": 57385,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SDCZ410-128G-G46_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 19650,
 "name": "Memoria Micro SD 128GB Kingston Canvas Select Plus G3 Clase 10",
-"price": 61525,
+"price": 61295,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SDCS3-128GB_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 16032,
 "name": "Disco Solido SSD 120GB Hiksemi Wave SATA III",
-"price": 66585,
+"price": 66355,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/311508513_600.jpg",
 "category": "almacenamiento"
 },
@@ -2774,14 +2886,14 @@
 {
 "id": 20833,
 "name": "Pendrive 256GB Kingston Data Traveler Exodia USB 3.2 Gen 2",
-"price": 90275,
+"price": 89930,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/DTXG2-256GB_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 20544,
 "name": "Disco Solido SSD 240GB Aimerican Immortality SATA III BULK",
-"price": 92575,
+"price": 92345,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AISSD240S25_600.jpg",
 "category": "almacenamiento"
 },
@@ -2795,7 +2907,7 @@
 {
 "id": 18895,
 "name": "Disco Solido SSD Aimerican Immortality 256GB 3D Nand SATA III",
-"price": 100855,
+"price": 100510,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AISSD256S25_600.jpg",
 "category": "almacenamiento"
 },
@@ -2809,14 +2921,14 @@
 {
 "id": 19651,
 "name": "Memoria Micro SD 256GB Kingston Canvas Select Plus Clase 10",
-"price": 102925,
+"price": 102580,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SDCS3-256GB_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 18842,
 "name": "Disco Externo SSD 256GB Verbatim VGX1000 Gaming PCIe NVMe - USB Type C",
-"price": 112010,
+"price": 111665,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/070883_600.jpg",
 "category": "almacenamiento"
 },
@@ -2830,7 +2942,7 @@
 {
 "id": 18831,
 "name": "Disco Solido SSD 256GB Memox Nvme Pcie Gen3 x4 BULK",
-"price": 119370,
+"price": 120060,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MMSN3-256G_600.jpg",
 "category": "almacenamiento"
 },
@@ -2844,21 +2956,28 @@
 {
 "id": 20681,
 "name": "Memoria Micro SD 128GB Kingston Endurance",
-"price": 149270,
+"price": 148810,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SDCE-128GB_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 20666,
 "name": "Disco Solido SSD AMOG 512GB SATA III",
-"price": 161690,
+"price": 161115,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GMSSD512260700466_600.jpg",
+"category": "almacenamiento"
+},
+{
+"id": 10327,
+"name": "Disco Solido SSD 480GB Patriot Burst Elite SATA III",
+"price": 163645,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PBE480GS25SSDR_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 20641,
 "name": "Disco SSD 512GB Aimerican Agility M.2 PCIe NVMe Gen3 x4",
-"price": 176180,
+"price": 175605,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AISSD512NVM3_600.jpg",
 "category": "almacenamiento"
 },
@@ -2872,7 +2991,7 @@
 {
 "id": 14353,
 "name": "Disco Solido SSD 512GB Patriot P300 M.2 NVMe PCIe x4 3.0",
-"price": 206310,
+"price": 205620,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/P300P512GM28_600.jpg",
 "category": "almacenamiento"
 },
@@ -2900,14 +3019,14 @@
 {
 "id": 14945,
 "name": "Disco Solido SSD 500GB Kingston NV3 M.2 NVMe PCIe x4 4.0 (Similar 480GB 512GB)",
-"price": 240580,
+"price": 234485,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SNV3S-500G_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 20323,
 "name": "Disco Solido SSD 500GB Adata Legend 860 M.2 NVMe PCIe Gen4 x4",
-"price": 268985,
+"price": 268180,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SLEG-860-500GCS_600.jpg",
 "category": "almacenamiento"
 },
@@ -2919,9 +3038,16 @@
 "category": "almacenamiento"
 },
 {
+"id": 18804,
+"name": "Disco Solido SSD 960GB Adata SU650 SATA III",
+"price": 301300,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/ASU650SS-960GT-R_600.jpg",
+"category": "almacenamiento"
+},
+{
 "id": 12241,
 "name": "Disco Solido SSD 512GB XPG GAMMIX S70 BLADE M.2 NVMe PCIe x4 4.0",
-"price": 316250,
+"price": 315215,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AGAMMIXS70B-512G-CS_600.jpg",
 "category": "almacenamiento"
 },
@@ -2940,23 +3066,23 @@
 "category": "almacenamiento"
 },
 {
-"id": 1367,
-"name": "Disco Externo 1TB Western Digital Usb Elements",
-"price": 327865,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/WDBUZG0010BBK-EB_600.jpg",
+"id": 14418,
+"name": "Disco Solido SSD 512GB Kingston KC3000 M.2 NVMe PCIe 4.0",
+"price": 329820,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SKC3000S-512G_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 19396,
 "name": "Disco Solido SSD 500GB Western Digital SN7100 Black M.2 NVMe PCIe 4.0",
-"price": 335110,
+"price": 334075,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/WDS500G4X0E-00CJA0_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 10329,
 "name": "Disco Solido SSD 1TB Patriot P300 M.2 NVMe PCIe X4 3.0",
-"price": 352935,
+"price": 354545,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/P300P1TBM28US_600.jpg",
 "category": "almacenamiento"
 },
@@ -2977,22 +3103,29 @@
 {
 "id": 4811,
 "name": "Disco Solido SSD 960GB Kingston A400 SATA III (Similar 1TB)",
-"price": 372830,
+"price": 371680,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SA400S37-960G_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 14946,
 "name": "Disco Solido SSD 1TB Kingston NV3 M.2 NVMe PCIe x4 4.0 (Similar 960GB)",
-"price": 378695,
+"price": 374440,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SNV3S-1000G_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 1786,
 "name": "Disco Externo 2TB Western Digital USB 3.0 Elements",
-"price": 453445,
+"price": 451950,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/WDBU6Y0020BBK-WESN_600.jpg",
+"category": "almacenamiento"
+},
+{
+"id": 18302,
+"name": "Disco Solido SSD 1TB Western Digital SN7100 Black M.2 NVMe PCIe Gen4 x4",
+"price": 531990,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/WDS100T4X0E_600.jpg",
 "category": "almacenamiento"
 },
 {
@@ -3003,13 +3136,6 @@
 "category": "almacenamiento"
 },
 {
-"id": 18302,
-"name": "Disco Solido SSD 1TB Western Digital SN7100 Black M.2 NVMe PCIe Gen4 x4",
-"price": 533715,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/WDS100T4X0E_600.jpg",
-"category": "almacenamiento"
-},
-{
 "id": 16712,
 "name": "Disco Solido SSD 1TB Kingston Fury Renegade G5 M.2 NVMe PCIe 5.0 14.200MB/s",
 "price": 582590,
@@ -3017,23 +3143,16 @@
 "category": "almacenamiento"
 },
 {
-"id": 10873,
-"name": "Disco Solido SSD 2TB (1920GB) Patriot P310 M.2 NVMe PCIe x4 3.0",
-"price": 591445,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/P310P192TM28_600.jpg",
-"category": "almacenamiento"
-},
-{
 "id": 20776,
 "name": "Disco Solido SSD 2TB Western Digital SN3000 Green M.2 NVMe PCIe X4 4.0",
-"price": 659640,
+"price": 657455,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/WDS200T4G0E_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 20744,
 "name": "Disco Solido SSD 2TB Patriot P410 M.2 PCIe NVMe 4.0 X4",
-"price": 738875,
+"price": 736460,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/P410P2TBM28H_600.jpg",
 "category": "almacenamiento"
 },
@@ -3047,21 +3166,21 @@
 {
 "id": 20010,
 "name": "Disco Solido SSD 1TB Western Digital SN8100 Black M.2 NVMe PCIe 5.0",
-"price": 762795,
+"price": 760380,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/WDS100T1X0M_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 16697,
 "name": "Disco Solido SSD 2048GB (2TB) Hiksemi Future X Lite AR M.2 NVMe PCIe x4 4.0 Con Disipador",
-"price": 813970,
+"price": 811440,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HS-SSD-FUTUREX-Lite-AR-2048G_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 20800,
 "name": "Disco Interno SSD Sandisk Optimus GX PRO 8100 1TB M.2 Nvme PCIe 5.0 x 4",
-"price": 875380,
+"price": 872505,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SDSP82100TAH-00_600.jpg",
 "category": "almacenamiento"
 },
@@ -3075,14 +3194,14 @@
 {
 "id": 11761,
 "name": "Disco Solido SSD 2TB Kingston KC3000 M.2 NVMe PCIe 4.0",
-"price": 919655,
+"price": 916665,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SKC3000D-2048G_600.jpg",
 "category": "almacenamiento"
 },
 {
 "id": 12851,
 "name": "Disco Solido SSD 2TB Kingston Fury Renegade (Con Difusor Térmico) M.2 NVMe PCIe x4 4.0",
-"price": 1138385,
+"price": 1171735,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SFYRD-2000G_600.jpg",
 "category": "almacenamiento"
 },
@@ -3091,6 +3210,13 @@
 "name": "Disco Solido SSD 4TB Kingston NV3 M.2 NVMe PCIe x4 4.0",
 "price": 1423585,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SNV3S-4000G_600.jpg",
+"category": "almacenamiento"
+},
+{
+"id": 14757,
+"name": "Disco Solido SSD 4TB Kingston KC3000 M.2 NVMe PCIe 4x 4.0",
+"price": 1799405,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SKC3000D-4096G_600.jpg",
 "category": "almacenamiento"
 },
 {
@@ -3117,21 +3243,21 @@
 {
 "id": 7033,
 "name": "Fuente ATX 600W Solarmax",
-"price": 38525,
+"price": 38410,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KC-CFA-600_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 7186,
 "name": "Fuente 500W Aureox ARXGP",
-"price": 50600,
+"price": 50485,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/ARXGP-500W_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 7187,
 "name": "Fuente 600W Aureox ARXGP",
-"price": 54050,
+"price": 53820,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/ARXGP-600W_600.jpg",
 "category": "fuentes"
 },
@@ -3145,28 +3271,28 @@
 {
 "id": 10279,
 "name": "Fuente 450W Gamemax VP-450",
-"price": 59455,
+"price": 59225,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VP-450_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 20313,
 "name": "Fuente 700w LNZ SX700-TS - ATX",
-"price": 61870,
+"price": 61640,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SX700-TS_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 20765,
 "name": "Fuente 500W Raptor Volt 500W 80 PLUS Bronze",
-"price": 70840,
+"price": 70610,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/ZU-ATX50xy_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 20740,
 "name": "Fuente 500W Sentey SDP500-GT 80 PLUS White",
-"price": 71530,
+"price": 71300,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SDP500-GT_600.jpg",
 "category": "fuentes"
 },
@@ -3180,7 +3306,7 @@
 {
 "id": 20741,
 "name": "Fuente 600W Sentey SDP600-GT 80 PLUS White",
-"price": 77970,
+"price": 77740,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SDP600-GT_600.jpg",
 "category": "fuentes"
 },
@@ -3194,7 +3320,7 @@
 {
 "id": 20638,
 "name": "Fuente 500W MSI MAG A500DN 80 PLUS White",
-"price": 88320,
+"price": 87975,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MAG-A500DN_600.jpg",
 "category": "fuentes"
 },
@@ -3222,7 +3348,7 @@
 {
 "id": 20642,
 "name": "Fuente 600W MSI MAG A600DN 80 PLUS White",
-"price": 99130,
+"price": 98785,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MAG-A600DN_600.jpg",
 "category": "fuentes"
 },
@@ -3236,7 +3362,7 @@
 {
 "id": 16229,
 "name": "Fuente 600W Adata XPG Probe 80 Plus Bronze",
-"price": 104650,
+"price": 104305,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PROBE600B-BKCAR_600.jpg",
 "category": "fuentes"
 },
@@ -3250,7 +3376,7 @@
 {
 "id": 11519,
 "name": "Fuente 550W MSI MAG A550BN 80 PLUS Bronze",
-"price": 112700,
+"price": 112355,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/306-7ZP2A23-CE0_600.jpg",
 "category": "fuentes"
 },
@@ -3264,15 +3390,8 @@
 {
 "id": 16409,
 "name": "Fuente 700W Adata XPG Probe 80 Plus Bronze",
-"price": 117990,
+"price": 117645,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PROBE700B-BKCAR_600.jpg",
-"category": "fuentes"
-},
-{
-"id": 19890,
-"name": "Fuente 750W Sentey MBP750-CM 80 PLUS Bronze Semi Modular - Atx 3.1 & PCIe 5.1",
-"price": 122130,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MBP750-CM_600.jpg",
 "category": "fuentes"
 },
 {
@@ -3299,7 +3418,7 @@
 {
 "id": 20159,
 "name": "Fuente 650W MSI MAG A650GN II 80 PLUS Gold",
-"price": 126385,
+"price": 126500,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/306-7ZPBZ23-CE0_600.jpg",
 "category": "fuentes"
 },
@@ -3313,14 +3432,14 @@
 {
 "id": 19608,
 "name": "Fuente 750W Arkham by XPG Coreshield 80 PLUS Gold - OEM",
-"price": 131790,
+"price": 131330,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CORESHIELD750GD_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 18301,
 "name": "Fuente 750W Gigabyte GP-P750BS 80 Plus Bronze",
-"price": 131905,
+"price": 131445,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GP-P750BS_600.jpg",
 "category": "fuentes"
 },
@@ -3334,28 +3453,28 @@
 {
 "id": 14484,
 "name": "Fuente 550W Corsair CX550 80 PLUS Bronze",
-"price": 138000,
+"price": 137540,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CP-9020277-AR_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 15372,
 "name": "Fuente 750W Cooler Master  MWE V3 Full Range 80 PLUS Bronze",
-"price": 142255,
+"price": 141795,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MPE-7501-ACABW_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 18825,
 "name": "Fuente 650W Cooler Master MWE 80 PLUS Gold V3",
-"price": 142485,
+"price": 142025,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MPE-6502-ACAAG-3BAR_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 16408,
 "name": "Fuente 650W Adata XPG Kyber 80 PLUS Gold",
-"price": 150420,
+"price": 149960,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KYBER650G-BKCAR_600.jpg",
 "category": "fuentes"
 },
@@ -3383,21 +3502,21 @@
 {
 "id": 19555,
 "name": "Fuente 750W Thermaltake Smart BX3 80 PLUS Bronze",
-"price": 167095,
+"price": 166635,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PS-SPD-0750NNFABG-3_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 20568,
 "name": "Fuente CORSAIR CX-M Series CX650M 650W ATX 3.1 Cybenetics Bronze Semi-Modular",
-"price": 173305,
+"price": 172730,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CP-9020310-AR_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 20809,
 "name": "Fuente 850W Sentey MBP850-VM 80 PLUS Bronze Full Modular - Atx 3.1 & PCIe 5.1",
-"price": 179400,
+"price": 178825,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MBP850-VM_600.jpg",
 "category": "fuentes"
 },
@@ -3411,7 +3530,7 @@
 {
 "id": 20620,
 "name": "Fuente Cooler Master Elite Gold 750W Full Modular 80 Plus",
-"price": 189635,
+"price": 188945,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MPX-7505-AFAG-BWO_600.jpg",
 "category": "fuentes"
 },
@@ -3432,14 +3551,14 @@
 {
 "id": 20081,
 "name": "Fuente 850W MSI MAG A850GN 80 PLUS Gold PciE 5.1",
-"price": 201514,
+"price": 200893,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/306-7ZPBX23-CE0_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 20049,
 "name": "Fuente 750W Corsair CX750M 80 Plus Bronze Semi Modular ATX 3.1",
-"price": 203780,
+"price": 203090,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CP-9020311-AR_600.jpg",
 "category": "fuentes"
 },
@@ -3460,7 +3579,7 @@
 {
 "id": 15989,
 "name": "Fuente 750W Thermaltake Toughpower GT 80 PLUS Gold Modular",
-"price": 217580,
+"price": 216890,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PS-TPT-0750FNFAGG-3_600.jpg",
 "category": "fuentes"
 },
@@ -3472,37 +3591,37 @@
 "category": "fuentes"
 },
 {
-"id": 19156,
-"name": "Fuente 750W Thermaltake Toughpower GT 80 PLUS Gold Modular PCIe 5.1 - Snow",
-"price": 222985,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PS-TPT-0750FNFAGG-W_600.jpg",
+"id": 20770,
+"name": "Fuente Cooler Master Elite 850W Full Modular 80 Plus Gold",
+"price": 227125,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MPX-8505-AFAG-BAR_600.jpg",
 "category": "fuentes"
 },
 {
-"id": 20770,
-"name": "Fuente Cooler Master Elite 850W Full Modular 80 Plus Gold",
-"price": 227930,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MPX-8505-AFAG-BAR_600.jpg",
+"id": 16335,
+"name": "Fuente 750W Corsair RM750e 80 PLUS Gold Full Modular - Incluye Cable PCIe 5.0 12VHPWR Para GPU",
+"price": 230920,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CP-9020295-AR_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 18234,
 "name": "Fuente 850W Gigabyte UD850GM PG5 V2 80 PLUS GOLD Modular",
-"price": 233220,
+"price": 232415,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GP-UD850GM-PG5-V2_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 20058,
 "name": "Fuente 850W Cooler Master 80 PLUS Gold Full Modular",
-"price": 235635,
+"price": 234945,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MPX-8503-AFAG-2EBAR_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 15862,
 "name": "Fuente 850W Adata XPG Core Reactor II VE 80 PLUS Gold",
-"price": 243800,
+"price": 242995,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/COREREACTORIIVE850G-BKCAR_600.jpg",
 "category": "fuentes"
 },
@@ -3516,21 +3635,21 @@
 {
 "id": 18116,
 "name": "Fuente 1000W Gigabyte UD1000GM PG5 V2 80 PLUS GOLD Modular Black",
-"price": 273355,
+"price": 272435,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GP-UD1000GM-PG5-V2_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 20702,
 "name": "Fuente Cooler Master Elite 850w Full Modular 80 Plus Platinum BL",
-"price": 297045,
+"price": 296010,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MPE-85F1-AFP-C3B0CAR_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 19686,
 "name": "Fuente 850W Corsair RM850e Cybernetics 80 PLUS Gold Modular - Incluye Cable PCIe 5.1 White",
-"price": 297965,
+"price": 297045,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CP-9020293-AR_600.jpg",
 "category": "fuentes"
 },
@@ -3544,15 +3663,22 @@
 {
 "id": 15703,
 "name": "Fuente 850W Thermaltake Toughpower GF A3 80 PLUS Gold Modular PCIe 5.0",
-"price": 319815,
+"price": 318780,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PS-TPD-0850FNFAGG-H_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 20803,
 "name": "Fuente Cooler Master Elite Gold 1200W Full Modular 80 Plus",
-"price": 327405,
+"price": 326370,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MPX-C005-AFAG-BAR_600.jpg",
+"category": "fuentes"
+},
+{
+"id": 15787,
+"name": "Fuente 1000W Adata XPG Core Reactor II 80 PLUS Gold",
+"price": 334075,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/COREREACTORII1000G-BKCAR_600.jpg",
 "category": "fuentes"
 },
 {
@@ -3563,24 +3689,10 @@
 "category": "fuentes"
 },
 {
-"id": 15787,
-"name": "Fuente 1000W Adata XPG Core Reactor II 80 PLUS Gold",
-"price": 335110,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/COREREACTORII1000G-BKCAR_600.jpg",
-"category": "fuentes"
-},
-{
 "id": 20700,
 "name": "Fuente Cooler Master Elite 1000w Full Modular 80 Plus Platinum BL",
-"price": 384215,
+"price": 382950,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MPE-A0F1-AFP-C3B0CAR_600.jpg",
-"category": "fuentes"
-},
-{
-"id": 18051,
-"name": "Fuente 1000W Gigabyte Aorus Elite PG5 P1000W ICE 80 PLUS PLATINUM Modular",
-"price": 399165,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GP-AE1000PM-PG5-ICE_600.jpg",
 "category": "fuentes"
 },
 {
@@ -3593,7 +3705,7 @@
 {
 "id": 15786,
 "name": "Fuente 1200W Adata XPG Core Reactor II 80 PLUS Gold",
-"price": 468855,
+"price": 467360,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/COREREACTORII1200G-BKCAR_600.jpg",
 "category": "fuentes"
 },
@@ -3614,14 +3726,14 @@
 {
 "id": 16448,
 "name": "Fuente 1000W Corsair HX1000 80 PLUS Platinum Modular",
-"price": 580980,
+"price": 579140,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CP-9020259-AR_600.jpg",
 "category": "fuentes"
 },
 {
 "id": 18698,
 "name": "Fuente 1200W Corsair HX1200 80 PLUS Platinum Modular - No Incluye Cable Power",
-"price": 662055,
+"price": 659870,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CP-9020281-AR_600.jpg",
 "category": "fuentes"
 },
@@ -3635,7 +3747,7 @@
 {
 "id": 13669,
 "name": "Gabinete FURY SHOBO SH4 1 Fan Fixed RGB Black",
-"price": 41492,
+"price": 42504,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/NFO-2153_600.jpg",
 "category": "gabinetes"
 },
@@ -3663,21 +3775,21 @@
 {
 "id": 12626,
 "name": "Gabinete Kit Melody MKG550-11 - 550W Gen",
-"price": 54280,
+"price": 54050,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MKG550-11_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 14936,
 "name": "Gabinete Kit Melody MKG550-7 - 550W Gen",
-"price": 54280,
+"price": 54050,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MKG550-7_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20869,
 "name": "Gabinete Performance Kit X3 6810 - 500W Gen",
-"price": 56120,
+"price": 56005,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/LP-ATX500- L903_600.jpg",
 "category": "gabinetes"
 },
@@ -3691,7 +3803,7 @@
 {
 "id": 4089,
 "name": "Gabinete Gamemax H601 Black Red",
-"price": 57730,
+"price": 57500,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/H601-BR_600.jpg",
 "category": "gabinetes"
 },
@@ -3700,13 +3812,6 @@
 "name": "Gabinete Xigmatek Aqua M Nano II Fan cooler x7 - Frgb - Black",
 "price": 58650,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/EN48845_600.jpg",
-"category": "gabinetes"
-},
-{
-"id": 13663,
-"name": "Gabinete FURY SHOBO SH4F 4 Fans Fixed RGB Black",
-"price": 63739,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/NFO-2154_600.jpg",
 "category": "gabinetes"
 },
 {
@@ -3731,23 +3836,30 @@
 "category": "gabinetes"
 },
 {
+"id": 13663,
+"name": "Gabinete FURY SHOBO SH4F 4 Fans Fixed RGB Black",
+"price": 65981,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/NFO-2154_600.jpg",
+"category": "gabinetes"
+},
+{
 "id": 20738,
 "name": "Gabinete Sentey Hunter- Fan x4 Argb - White",
-"price": 68425,
+"price": 68195,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HUNTER-WH_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 17866,
 "name": "Gabinete Sentey 6100-SF H10 White - Sin Cooler Fan",
-"price": 69345,
+"price": 69115,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6100-SF-W_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 16561,
 "name": "Gabinete Gamer Zer01 Gaming Pollux PRO 6 Fan ARGB Oem Box",
-"price": 71530,
+"price": 71300,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/POLLUX-PRO_600.jpg",
 "category": "gabinetes"
 },
@@ -3768,14 +3880,14 @@
 {
 "id": 19532,
 "name": "Gabinete Sentey Zeus - Fan x5 Argb - Black",
-"price": 78660,
+"price": 78430,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/ZEUS-BLKA_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 16071,
 "name": "Gabinete Gamemax Diamond CP Fan x4 ARGB ATX",
-"price": 84180,
+"price": 83950,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/DIAMOND-CP-BK_600.jpg",
 "category": "gabinetes"
 },
@@ -3803,7 +3915,7 @@
 {
 "id": 20625,
 "name": "Gabinete Sentey Backfire - Fan x4 Argb - White",
-"price": 88205,
+"price": 87860,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BACKFIRE-WHTA_600.jpg",
 "category": "gabinetes"
 },
@@ -3838,50 +3950,50 @@
 {
 "id": 20753,
 "name": "Gabinete Cooler Master Elite 461 Black ARGB",
-"price": 94300,
+"price": 93955,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E461-KGNN-S00_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 13012,
 "name": "Gabinete ADATA XPG Valor AIR Black",
-"price": 94415,
+"price": 94070,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VALORAIRMT-BKCWW_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20852,
 "name": "Gabinete Cooler Master Elite 461 White ARGB - Fan x3",
-"price": 95220,
+"price": 94875,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E461-WGNN-S00_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20585,
 "name": "Gabinete Cooler Master Elite 350 Black ARGB",
-"price": 95335,
+"price": 95105,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E350-KGNN-S00_600.jpg",
+"category": "gabinetes"
+},
+{
+"id": 11492,
+"name": "Gabinete MSI Mag Forge M100A - 4 Fan Fixed RGB (Rainbow)",
+"price": 95450,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/306-7G20A21-809_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20533,
 "name": "Gabinete Thermaltake Versa H16 TG Argb Snow White",
-"price": 96600,
+"price": 96370,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CA-1Y8-00S6WN-01_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 16618,
 "name": "Gabinete ADATA XPG Valor AIR Plus Black",
-"price": 96830,
+"price": 96485,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VALORAIRPLUSMTA-BKCWW_600.jpg",
-"category": "gabinetes"
-},
-{
-"id": 11492,
-"name": "Gabinete MSI Mag Forge M100A - 4 Fan Fixed RGB (Rainbow)",
-"price": 97060,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/306-7G20A21-809_600.jpg",
 "category": "gabinetes"
 },
 {
@@ -3894,28 +4006,28 @@
 {
 "id": 16461,
 "name": "Gabinete Gigabyte C102G Black Tempered Glass Fan x2",
-"price": 100970,
+"price": 100625,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GB-C102G_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 16066,
 "name": "Gabinete Cooler Master Elite 301 Black ARGB",
-"price": 101890,
+"price": 101545,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E301-KGNN-S00_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20586,
 "name": "Gabinete Cooler Master Elite 350 White ARGB",
-"price": 102350,
+"price": 102120,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E350-WGNN-S00_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 15554,
 "name": "Gabinete Thermaltake View 170 Micro Chassis TG x3 Fan Snow White ARGB",
-"price": 105570,
+"price": 105225,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CA-1Z4-00M6WN-00_600.jpg",
 "category": "gabinetes"
 },
@@ -3934,6 +4046,13 @@
 "category": "gabinetes"
 },
 {
+"id": 15553,
+"name": "Gabinete Thermaltake View 170 Micro Chassis TG x3 Fan Black ARGB",
+"price": 111320,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CA-1Z4-00M1WN-00_600.jpg",
+"category": "gabinetes"
+},
+{
 "id": 19448,
 "name": "Gabinete Xigmatek Aqua Compact Fan cooler x4 - Argb - Black",
 "price": 111435,
@@ -3941,24 +4060,31 @@
 "category": "gabinetes"
 },
 {
-"id": 15553,
-"name": "Gabinete Thermaltake View 170 Micro Chassis TG x3 Fan Black ARGB",
-"price": 111665,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CA-1Z4-00M1WN-00_600.jpg",
+"id": 15816,
+"name": "Gabinete ADATA XPG Valor AIR Plus White",
+"price": 111895,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VALORAIRPLUSMTA-WHCWW_600.jpg",
 "category": "gabinetes"
 },
 {
-"id": 15816,
-"name": "Gabinete ADATA XPG Valor AIR Plus White",
-"price": 112240,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VALORAIRPLUSMTA-WHCWW_600.jpg",
+"id": 20743,
+"name": "Gabinete Cooler Master Elite 660 3 fans ARGB Black",
+"price": 112355,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E660-KGNN-S00_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20814,
 "name": "Gabinete ADATA XPG Lander 300 White Fan Argb X4",
-"price": 115345,
+"price": 115000,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/LANDER300MAA-WHCWW_600.jpg",
+"category": "gabinetes"
+},
+{
+"id": 19669,
+"name": "Gabinete Cooler Master Elite 302 White x3 FAN ARGB",
+"price": 115920,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E302-WGNN-S00_600.jpg",
 "category": "gabinetes"
 },
 {
@@ -3976,31 +4102,10 @@
 "category": "gabinetes"
 },
 {
-"id": 19669,
-"name": "Gabinete Cooler Master Elite 302 White x3 FAN ARGB",
-"price": 116265,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E302-WGNN-S00_600.jpg",
-"category": "gabinetes"
-},
-{
 "id": 16357,
 "name": "Gabinete Gigabyte C102G ICE TG Glass Fan x2",
-"price": 117530,
+"price": 117185,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GB-C102GI_600.jpg",
-"category": "gabinetes"
-},
-{
-"id": 20743,
-"name": "Gabinete Cooler Master Elite 660 3 fans ARGB Black",
-"price": 118680,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E660-KGNN-S00_600.jpg",
-"category": "gabinetes"
-},
-{
-"id": 20792,
-"name": "Gabinete MSI Mag Forge 321R Airflow x4 Fans ARGB",
-"price": 121095,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/306-7G23R18-HH9_600.jpg",
 "category": "gabinetes"
 },
 {
@@ -4013,8 +4118,15 @@
 {
 "id": 20314,
 "name": "Gabinete Sentey A35 Black Fan x4 ARGB - PWM",
-"price": 123280,
+"price": 122820,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/A35PWM-BLK_600.jpg",
+"category": "gabinetes"
+},
+{
+"id": 20792,
+"name": "Gabinete MSI Mag Forge 321R Airflow x4 Fans ARGB",
+"price": 123050,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/306-7G23R18-HH9_600.jpg",
 "category": "gabinetes"
 },
 {
@@ -4048,7 +4160,7 @@
 {
 "id": 20400,
 "name": "Gabinete ADATA XPG Valor AIR PRO Black Fan x4 Argb",
-"price": 135240,
+"price": 134780,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VALORAIRPROMTA-BKCWW_600.jpg",
 "category": "gabinetes"
 },
@@ -4069,21 +4181,21 @@
 {
 "id": 18798,
 "name": "Gabinete Cooler Master Elite 502 Black ARGB - Fan x3",
-"price": 139840,
+"price": 139380,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E502-KGNN-S00_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20532,
 "name": "Gabinete ADATA XPG Lander 501 Black Fan Argb X4",
-"price": 140875,
+"price": 140415,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/LANDER501CMTA-BKCWW_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 18799,
 "name": "Gabinete Cooler Master Elite 502 White ARGB - Fan x3",
-"price": 145705,
+"price": 145245,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E502-WGNN-S00_600.jpg",
 "category": "gabinetes"
 },
@@ -4097,7 +4209,7 @@
 {
 "id": 18658,
 "name": "Gabinete Gigabyte C201P Panoramic TG Fan x3 Argb - Black",
-"price": 149730,
+"price": 149270,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GB-C201P_600.jpg",
 "category": "gabinetes"
 },
@@ -4116,13 +4228,6 @@
 "category": "gabinetes"
 },
 {
-"id": 20781,
-"name": "Gabinete ADATA XPG Valor AIR PRO White Fan x4 Argb",
-"price": 153640,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VALORAIRPROMTA-WHCWW_600.jpg",
-"category": "gabinetes"
-},
-{
 "id": 15035,
 "name": "Gabinete Gamer Raidmax Vector V100 TG BLACK",
 "price": 157895,
@@ -4132,7 +4237,7 @@
 {
 "id": 20783,
 "name": "Gabinete Corsair 3200D RS Black",
-"price": 160080,
+"price": 159620,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011334-WW_600.jpg",
 "category": "gabinetes"
 },
@@ -4146,21 +4251,21 @@
 {
 "id": 20864,
 "name": "Gabinete Corsair 3200D RS White",
-"price": 163530,
+"price": 163070,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011335-WW_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 14466,
 "name": "Gabinete Thermaltake View 270 PLUS TG Snow White ARGB",
-"price": 164335,
+"price": 163875,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CA-1Y7-00M6WN-01_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 14463,
 "name": "Gabinete Thermaltake View 270 PLUS TG Black ARGB",
-"price": 164450,
+"price": 163875,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CA-1Y7-00M1WN-01_600.jpg",
 "category": "gabinetes"
 },
@@ -4174,7 +4279,7 @@
 {
 "id": 20684,
 "name": "Gabinete Corsair 3200D RS TG ARGB Black",
-"price": 166635,
+"price": 166060,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011344-WW_600.jpg",
 "category": "gabinetes"
 },
@@ -4186,17 +4291,17 @@
 "category": "gabinetes"
 },
 {
+"id": 20796,
+"name": "Gabinete Corsair 2800X RS-R ARGB White",
+"price": 173305,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011348-WW_600.jpg",
+"category": "gabinetes"
+},
+{
 "id": 20560,
 "name": "Gabinete Corsair 2800X RS-R ARGB Black",
 "price": 173880,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011347-WW_600.jpg",
-"category": "gabinetes"
-},
-{
-"id": 20796,
-"name": "Gabinete Corsair 2800X RS-R ARGB White",
-"price": 173880,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011348-WW_600.jpg",
 "category": "gabinetes"
 },
 {
@@ -4230,15 +4335,22 @@
 {
 "id": 20808,
 "name": "Gabinete Sentey Bearer Black Fan x4 ARGB - PWM",
-"price": 179400,
+"price": 178825,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BEARER-PWM-BLACK_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20807,
 "name": "Gabinete Sentey Strega- Fan x4 Argb - White",
-"price": 179400,
+"price": 178825,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/STREGA-WHT_600.jpg",
+"category": "gabinetes"
+},
+{
+"id": 18665,
+"name": "Gabinete ADATA XPG Starker Air BTF Fan x4 ARGB - White",
+"price": 179860,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/STARKERAIRBTFMTA-WHCWW_600.jpg",
 "category": "gabinetes"
 },
 {
@@ -4249,23 +4361,16 @@
 "category": "gabinetes"
 },
 {
-"id": 18665,
-"name": "Gabinete ADATA XPG Starker Air BTF Fan x4 ARGB - White",
-"price": 180435,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/STARKERAIRBTFMTA-WHCWW_600.jpg",
-"category": "gabinetes"
-},
-{
 "id": 14460,
 "name": "Gabinete Thermaltake Ceres 300 TG White ARGB",
-"price": 190555,
+"price": 189980,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CA-1Y2-00M6WN-00_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 14459,
 "name": "Gabinete Thermaltake Ceres 300 TG Black ARGB",
-"price": 190555,
+"price": 189980,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CA-1Y2-00M1WN-00_600.jpg",
 "category": "gabinetes"
 },
@@ -4279,42 +4384,42 @@
 {
 "id": 19668,
 "name": "Gabinete Cooler Master Elite 600 Vidrio Templado Curvo White",
-"price": 202285,
+"price": 201710,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E600-WGNN-S01_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20631,
 "name": "Gabinete Cooler Master Elite 600 Vidrio Templado Curvo Black x4 Fans",
-"price": 202285,
+"price": 201710,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/E600-KGNN-S01_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20528,
 "name": "Gabinete Gigabyte C103 Glass + Fuente Gigabyte 650w 80+ Gold",
-"price": 210795,
+"price": 210105,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GB-C103GP65G5_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20785,
 "name": "Gabinete Gigabyte C500 Panoramic Stealth Fan x4 Argb - White",
-"price": 212750,
+"price": 212060,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GB-C500PI-ST_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20561,
 "name": "Gabinete Corsair 4000X Frame RS Black",
-"price": 273700,
+"price": 272780,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011302-WW_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20562,
 "name": "Gabinete Corsair 4000X Frame RS White",
-"price": 275310,
+"price": 274505,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011303-WW_600.jpg",
 "category": "gabinetes"
 },
@@ -4356,7 +4461,7 @@
 {
 "id": 20771,
 "name": "Gabinete Cooler Master Masterframe 400 Mid Tower Tempered Glass Black",
-"price": 302105,
+"price": 301070,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MF400M-KHNN-S00_600.jpg",
 "category": "gabinetes"
 },
@@ -4391,14 +4496,14 @@
 {
 "id": 20863,
 "name": "Gabinete Corsair Frame 5000D WOOD RS ARGB TG Black",
-"price": 392495,
+"price": 391230,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011353-WW_600.jpg",
 "category": "gabinetes"
 },
 {
 "id": 20862,
 "name": "Gabinete Corsair Frame 5000D WOOD RS ARGB TG White",
-"price": 392495,
+"price": 391230,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011354-WW_600.jpg",
 "category": "gabinetes"
 },
@@ -4417,6 +4522,13 @@
 "category": "gabinetes"
 },
 {
+"id": 20685,
+"name": "Gabinete Corsair 5400 Frame RS Argb White",
+"price": 414460,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011319-WW_600.jpg",
+"category": "gabinetes"
+},
+{
 "id": 19671,
 "name": "Gabinete Cooler Master MasterFrame 600 TG x4 FAN White Silver",
 "price": 415725,
@@ -4424,16 +4536,9 @@
 "category": "gabinetes"
 },
 {
-"id": 20685,
-"name": "Gabinete Corsair 5400 Frame RS Argb White",
-"price": 415840,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011319-WW_600.jpg",
-"category": "gabinetes"
-},
-{
 "id": 20573,
 "name": "Gabinete Cooler Master Masterframe 360 Black",
-"price": 442750,
+"price": 441370,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MF360-KINN-S00_600.jpg",
 "category": "gabinetes"
 },
@@ -4442,13 +4547,6 @@
 "name": "Gabinete Corsair Frame 4500X LX-R RGB TG White",
 "price": 455170,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011317-WW_600.jpg",
-"category": "gabinetes"
-},
-{
-"id": 11796,
-"name": "Gabinete Corsair iCUE 5000X RGB White",
-"price": 583280,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011213-WW_600.jpg",
 "category": "gabinetes"
 },
 {
@@ -4592,6 +4690,13 @@
 "category": "refrigeracion"
 },
 {
+"id": 20075,
+"name": "CPU Cooler Raptor Cryo RGB   - 3P",
+"price": 21275,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-COOLER-RGB-CPC002-1_600.jpg",
+"category": "refrigeracion"
+},
+{
 "id": 18809,
 "name": "Fan Cooler 120mm Cooler Master Masterfan MF120 Lite ARGB - White",
 "price": 22540,
@@ -4608,36 +4713,29 @@
 {
 "id": 14075,
 "name": "Cpu Cooler Gamemax Gamma 500 Rainbow - ARGB",
-"price": 36225,
+"price": 36110,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GAMMA-500-RAINBOW_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 13524,
 "name": "CPU Cooler Cooler Master Hyper 212 Spectrum V3 ARGB",
-"price": 36800,
+"price": 36685,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RR-S4NA-17PA-R1_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 18858,
 "name": "Fan Cooler 120mm Xigmatek G20A - Artic- Pack x3 ARGB",
-"price": 41860,
+"price": 41630,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/EN44779_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 19450,
 "name": "Fan Cooler 120mm Xigmatek G22A Black - Pack x3 - Argb - C/ Control",
-"price": 42435,
+"price": 42205,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/EN44793_600.jpg",
-"category": "refrigeracion"
-},
-{
-"id": 19845,
-"name": "CPU Cooler Msi MAG COREFROZR AA13  - Black",
-"price": 53705,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/306-7ZWHA11-L80_600.jpg",
 "category": "refrigeracion"
 },
 {
@@ -4648,10 +4746,24 @@
 "category": "refrigeracion"
 },
 {
+"id": 19845,
+"name": "CPU Cooler Msi MAG COREFROZR AA13  - Black",
+"price": 55775,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/306-7ZWHA11-L80_600.jpg",
+"category": "refrigeracion"
+},
+{
 "id": 19497,
 "name": "Cpu Cooler Thermaltake UX500 Black ARGB",
-"price": 61985,
+"price": 61755,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CL-P144-AL12SW-A_600.jpg",
+"category": "refrigeracion"
+},
+{
+"id": 18861,
+"name": "CPU Cooler 120mm Xigmatek AK4 Digital Black ARGB",
+"price": 62445,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/EN45882_600.jpg",
 "category": "refrigeracion"
 },
 {
@@ -4659,13 +4771,6 @@
 "name": "Cpu Cooler Thermaltake UX200 SE ARGB",
 "price": 62560,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CL-P105-AL12SW-A_600.jpg",
-"category": "refrigeracion"
-},
-{
-"id": 18861,
-"name": "CPU Cooler 120mm Xigmatek AK4 Digital Black ARGB",
-"price": 62560,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/EN45882_600.jpg",
 "category": "refrigeracion"
 },
 {
@@ -4699,7 +4804,7 @@
 {
 "id": 19580,
 "name": "CPU Cooler Lovingcool LC-X1210B - Argb - Black",
-"price": 72335,
+"price": 72105,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/Lovingcool-LC-X1210B-Black_600.jpg",
 "category": "refrigeracion"
 },
@@ -4732,6 +4837,20 @@
 "category": "refrigeracion"
 },
 {
+"id": 20583,
+"name": "CPU Cooler Cooler Master DT621 R1",
+"price": 100510,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MAY-D6PN-220PK-R1_600.jpg",
+"category": "refrigeracion"
+},
+{
+"id": 20239,
+"name": "CPU Cooler Cooler Master V4 Alpha 3DHP Black",
+"price": 100625,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MAZ-T2HP-217PK-R1_600.jpg",
+"category": "refrigeracion"
+},
+{
 "id": 19112,
 "name": "Cpu Water Cooler Genesis HYDRIA 360mm ARGB Black",
 "price": 100832,
@@ -4739,23 +4858,9 @@
 "category": "refrigeracion"
 },
 {
-"id": 20583,
-"name": "CPU Cooler Cooler Master DT621 R1",
-"price": 100855,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MAY-D6PN-220PK-R1_600.jpg",
-"category": "refrigeracion"
-},
-{
-"id": 20239,
-"name": "CPU Cooler Cooler Master V4 Alpha 3DHP Black",
-"price": 100970,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MAZ-T2HP-217PK-R1_600.jpg",
-"category": "refrigeracion"
-},
-{
 "id": 20589,
 "name": "CPU Cooler Cooler Master DT621 RW White",
-"price": 101315,
+"price": 100970,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MAY-D6PN-220PW-RW_600.jpg",
 "category": "refrigeracion"
 },
@@ -4783,7 +4888,7 @@
 {
 "id": 19598,
 "name": "CPU Water Cooler Lovingcool 240mm HK-B240-02 - Argb - Black",
-"price": 111320,
+"price": 110860,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/Lovingcool-HK-B240-02-black_600.jpg",
 "category": "refrigeracion"
 },
@@ -4795,6 +4900,13 @@
 "category": "refrigeracion"
 },
 {
+"id": 15699,
+"name": "CPU Cooler Thermaltake ASTRIA 400 ARGB",
+"price": 125925,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CL-P120-CA12SW-A_600.jpg",
+"category": "refrigeracion"
+},
+{
 "id": 16739,
 "name": "CPU Water Cooler 240mm MSI MAG CORELIQUID A13 240 ARGB - 2x 120mm White",
 "price": 126373,
@@ -4802,16 +4914,9 @@
 "category": "refrigeracion"
 },
 {
-"id": 15699,
-"name": "CPU Cooler Thermaltake ASTRIA 400 ARGB",
-"price": 126385,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CL-P120-CA12SW-A_600.jpg",
-"category": "refrigeracion"
-},
-{
 "id": 20329,
 "name": "CPU Cooler 120mm XPG MAESTRO PLUS 62DA ARGB",
-"price": 127420,
+"price": 127075,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MAESTROPLUS62DA-BKCWW_600.jpg",
 "category": "refrigeracion"
 },
@@ -4853,7 +4958,7 @@
 {
 "id": 18707,
 "name": "CPU Water Cooler 240mm MSI MAG CORELIQUID A12 240 ARGB -Black",
-"price": 140760,
+"price": 140300,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/306-7ZWBM11-813_600.jpg",
 "category": "refrigeracion"
 },
@@ -4888,7 +4993,7 @@
 {
 "id": 18276,
 "name": "CPU Water Cooler 240mm Redragon Effect X RGB CCW-3000",
-"price": 152720,
+"price": 152260,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376781062_600.jpg",
 "category": "refrigeracion"
 },
@@ -4909,21 +5014,14 @@
 {
 "id": 20575,
 "name": "CPU Cooler Cooler Master Hyper 612 APEX White Dual Fan",
-"price": 158700,
+"price": 158125,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MAP-T6PN-225PW-CW_600.jpg",
-"category": "refrigeracion"
-},
-{
-"id": 18810,
-"name": "CPU Cooler Cooler Master Hyper 612 APEX Black",
-"price": 163300,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MAP-T6PN-225PK-R1_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 20574,
 "name": "CPU Water Cooler 240mm Cooler Master Masterliquid 240 Core Nex Digital Black ARGB",
-"price": 164795,
+"price": 164335,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MLX-D24M-A18PA-RD_600.jpg",
 "category": "refrigeracion"
 },
@@ -4951,7 +5049,7 @@
 {
 "id": 18661,
 "name": "CPU Water Cooler 240mm Gigabyte Gaming 240 ARGB - Black",
-"price": 170430,
+"price": 169855,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GP-GIGABYTE-GME-240_600.jpg",
 "category": "refrigeracion"
 },
@@ -4979,7 +5077,7 @@
 {
 "id": 20747,
 "name": "Water Cooler Master MasterLiquid Core NEX Digital 360 ARGB White",
-"price": 187565,
+"price": 186990,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MLX-D36M-A18PW-RD_600.jpg",
 "category": "refrigeracion"
 },
@@ -5007,35 +5105,35 @@
 {
 "id": 18807,
 "name": "CPU Cooler Thermaltake ASTRIA 600 Lighting ARGB White",
-"price": 192395,
+"price": 191705,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CL-P139-CA12SW-A_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 16512,
 "name": "CPU Cooler Thermaltake ASTRIA 600 Lighting ARGB Black",
-"price": 197110,
+"price": 196535,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CL-P121-CA12SW-A_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 18659,
 "name": "CPU Water Cooler 360mm Gigabyte Gaming 360 ARGB",
-"price": 197455,
+"price": 196765,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GP-GIGABYTE-GME-360_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 18685,
 "name": "CPU Water Cooler 360mm Gigabyte Gaming 360I ARGB Ice - White",
-"price": 201480,
+"price": 200790,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GP-GIGABYTE-GME-360I_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 19586,
 "name": "CPU Water Cooler Lovingcool 240mm DP-B240-01 - Argb - Black",
-"price": 205620,
+"price": 204930,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/Lovingcool-DP-B240-01-black_600.jpg",
 "category": "refrigeracion"
 },
@@ -5049,21 +5147,21 @@
 {
 "id": 16328,
 "name": "Cpu Cooler Water Cooler Corsair Nautilus RS ARGB 240mm Black",
-"price": 230805,
+"price": 230000,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CW-9060092-WW_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 18742,
 "name": "Cpu Water Cooler Corsair Nautilus RS 240mm ARGB White",
-"price": 230805,
+"price": 230000,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CW-9060094-WW_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 18007,
 "name": "CPU Water Cooler 360mm Thermalright Frozen Warframe 360 AIO ARGB - Black",
-"price": 235175,
+"price": 234370,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/Frozen-Warframe-360-Black-Argb_600.jpg",
 "category": "refrigeracion"
 },
@@ -5077,14 +5175,14 @@
 {
 "id": 20504,
 "name": "CPU Water Cooler 360mm ASUS Prime Liquid LC 360 ARGB White",
-"price": 244030,
+"price": 243225,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90RC0102-B0AYY0_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 20801,
 "name": "CPU Water Cooler 360mm Asrock Challenger 360 Digital Black",
-"price": 244490,
+"price": 243685,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90-ACALA36-BAAGA6_600.jpg",
 "category": "refrigeracion"
 },
@@ -5133,21 +5231,21 @@
 {
 "id": 15014,
 "name": "CPU Water Cooler 360mm Thermaltake TH360 V2 Snow ARGB",
-"price": 296010,
+"price": 295090,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CL-W365-PL12SW-A_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 16327,
 "name": "Cpu Water Cooler Corsair Nautilus RS ARGB 360mm Black",
-"price": 297275,
+"price": 296355,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CW-9060093-WW_600.jpg",
 "category": "refrigeracion"
 },
 {
 "id": 16325,
 "name": "Cpu Water Cooler Corsair Nautilus RS ARGB 360mm White",
-"price": 297275,
+"price": 296355,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CW-9060095-WW_600.jpg",
 "category": "refrigeracion"
 },
@@ -5245,36 +5343,36 @@
 {
 "id": 19705,
 "name": "Monitor LED 19\" PERFORMANCE PF185R - HDMI/VGA 60hz",
-"price": 84295,
+"price": 83950,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PF185R_600.jpg",
 "category": "monitores"
 },
 {
 "id": 15967,
 "name": "Monitor LED 20\" Performance PF215 VGA HDMI",
-"price": 85100,
+"price": 84870,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/7798170583975_600.jpg",
 "category": "monitores"
 },
 {
 "id": 20754,
 "name": "Monitor LED IPS 20\" CX 100Hz FHD CX185M HDMI / VGA",
-"price": 132365,
+"price": 131905,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CX185M_600.jpg",
 "category": "monitores"
 },
 {
 "id": 20677,
 "name": "Monitor LED 24\" Performance PF236U VGA HDMI",
-"price": 137655,
+"price": 137195,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PF236U_600.jpg",
 "category": "monitores"
 },
 {
-"id": 20151,
-"name": "Monitor LED VA 22\" MSI Pro MP225 E12VL 120Hz FHD 1Ms - HDMI/VGA - Adaptative-Sync",
-"price": 159160,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9S6-3PE0CM-024_600.jpg",
+"id": 19771,
+"name": "Monitor LED IPS 22\" CX 100Hz CX215U HDMI / VGA VESA",
+"price": 162495,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CX215U_600.jpg",
 "category": "monitores"
 },
 {
@@ -5292,10 +5390,10 @@
 "category": "monitores"
 },
 {
-"id": 19771,
-"name": "Monitor LED IPS 22\" CX 100Hz CX215U HDMI / VGA VESA",
-"price": 175950,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CX215U_600.jpg",
+"id": 20674,
+"name": "Monitor LED VA 22\" MSI Pro MP225V 100Hz FHD 1Ms - HDMI/VGA",
+"price": 176640,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9S6-3PE0CM-003_600.jpg",
 "category": "monitores"
 },
 {
@@ -5306,45 +5404,45 @@
 "category": "monitores"
 },
 {
+"id": 20151,
+"name": "Monitor LED VA 22\" MSI Pro MP225 E12VL 120Hz FHD 1Ms - HDMI/VGA - Adaptative-Sync",
+"price": 194005,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9S6-3PE0CM-024_600.jpg",
+"category": "monitores"
+},
+{
 "id": 20686,
 "name": "Monitor 24 LED CX CX238K FHD 120Hz HDMI / VGA",
-"price": 196535,
+"price": 195845,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CX238K_600.jpg",
+"category": "monitores"
+},
+{
+"id": 19937,
+"name": "Monitor LED IPS 24\" Raptor Hawk Eye Frameless FHD 200Hz 1ms - Hdmi/Dp - Freesync",
+"price": 222835,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-MON-24FHD-200IPS_600.jpg",
 "category": "monitores"
 },
 {
 "id": 20678,
 "name": "Monitor 27 LED CX CX270K FHD 120Hz HDMI / VGA",
-"price": 236670,
+"price": 235865,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CX270K_600.jpg",
 "category": "monitores"
 },
 {
 "id": 19746,
 "name": "Monitor Gamer IPS MSI 24\" G242L E14 144Hz HDMI - DP",
-"price": 245640,
+"price": 244835,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9S6-3BC61T-002_600.jpg",
-"category": "monitores"
-},
-{
-"id": 19937,
-"name": "Monitor LED IPS 24\" Raptor Hawk Eye Frameless FHD 200Hz 1ms - Hdmi/Dp - Freesync",
-"price": 246433,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-MON-24FHD-200IPS_600.jpg",
 "category": "monitores"
 },
 {
 "id": 20746,
 "name": "Monitor LED IPS 23.8\" Asus VA249HG FHD 120Hz 1ms",
-"price": 251850,
+"price": 251045,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VA249HG_600.jpg",
-"category": "monitores"
-},
-{
-"id": 19543,
-"name": "Monitor LED IPS 27\" Arkham Gaming FHD 220Hz 1ms - Adaptative Sync",
-"price": 264356,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/ARK27220_600.jpg",
 "category": "monitores"
 },
 {
@@ -5357,14 +5455,14 @@
 {
 "id": 20853,
 "name": "Monitor Gamer Led IPS 24\" MSI 244F E2 200Hz FHD 1Ms - HDMI/DP",
-"price": 283360,
+"price": 282440,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/msi-244f-e2-200hz_600.jpg",
 "category": "monitores"
 },
 {
 "id": 20874,
 "name": "Monitor LED IPS 27\" Asus VA279HG FHD 120Hz - HDMI/VGA",
-"price": 283590,
+"price": 282670,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90LM04J1-B013I1_600.jpg",
 "category": "monitores"
 },
@@ -5390,6 +5488,13 @@
 "category": "monitores"
 },
 {
+"id": 19938,
+"name": "Monitor LED IPS 27\" Raptor Hawk Eye Frameless FHD 200Hz 1ms - Hdmi/Dp - Freesync",
+"price": 336950,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-MON-27FHD-200IPS_600.jpg",
+"category": "monitores"
+},
+{
 "id": 18285,
 "name": "Monitor Gamer SS IPS 27\" Gigabyte Edge GS27FA SS I - FHD 180Hz 1Ms Freesync",
 "price": 351670,
@@ -5399,28 +5504,42 @@
 {
 "id": 20653,
 "name": "Monitor Gamer IPS 27\" Gigabyte Edge GS27FA-AR FHD 180Hz 1Ms Freesync",
-"price": 353625,
+"price": 352475,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GS27FA-AR_600.jpg",
+"category": "monitores"
+},
+{
+"id": 20356,
+"name": "Monitor Gamer VA 27\" GIGABYTE GS27FC2-SA CURVO 240Hz 1ms",
+"price": 377775,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GS27FC2_600.jpg",
+"category": "monitores"
+},
+{
+"id": 19939,
+"name": "Monitor LED IPS 27\" Raptor Hawk Eye Frameless QHD 2K 200Hz 1ms - Hdmi/Dp - Freesync",
+"price": 387665,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-MON-27QHD-200IPS_600.jpg",
 "category": "monitores"
 },
 {
 "id": 20707,
 "name": "Monitor Gamer AOC 23.6\" VA FHD C24G2 165Hz 1Ms Curvo",
-"price": 405754,
+"price": 404443,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/C24G2_600.jpg",
 "category": "monitores"
 },
 {
 "id": 20706,
 "name": "Monitor Gamer Rapid Ips 27\" MSI Mag 274CF X24 240Hz FHD 0.5Ms - Curvo",
-"price": 409975,
+"price": 408710,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9s6-3cf51t-004_600.jpg",
 "category": "monitores"
 },
 {
 "id": 20751,
 "name": "Monitor IPS 27\" AOC 27G4E 180Hz FHD 1Ms Gaming",
-"price": 414494,
+"price": 413183,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/27G4E_600.jpg",
 "category": "monitores"
 },
@@ -5434,7 +5553,7 @@
 {
 "id": 20073,
 "name": "Monitor Gamer Rapid Ips 24\" MSI Mag 245F X24 240Hz FHD 0.5Ms - HDMI/DP - Freesync",
-"price": 434010,
+"price": 432630,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9s6-3bc81m-004_600.jpg",
 "category": "monitores"
 },
@@ -5448,7 +5567,7 @@
 {
 "id": 20605,
 "name": "Monitor Gamer Rapid Ips 27\" MSI Mag 274QF X24 240Hz WQHD 0.5Ms - HDMI-DP",
-"price": 615595,
+"price": 613640,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9s6-3ce41h-020_600.jpg",
 "category": "monitores"
 },
@@ -5462,7 +5581,7 @@
 {
 "id": 20850,
 "name": "Monitor Gamer QD-OLED 27\" Gaming Gigabyte GO27Q24A QHD 240Hz 0.03ms IPS G-Sync - HDMI/DP",
-"price": 1222450,
+"price": 1218540,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GO27Q24A_600.jpg",
 "category": "monitores"
 },
@@ -5476,7 +5595,7 @@
 {
 "id": 20612,
 "name": "Monitor Gamer QD-OLED 27\" MSI Mag 274QP X24 240Hz WQHD 0.03Ms - HDMI/DP - Freesync & G-Sync",
-"price": 1682565,
+"price": 1677160,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9S6-3CFA9T-005_600.jpg",
 "category": "monitores"
 },
@@ -5502,10 +5621,10 @@
 "category": "perifericos"
 },
 {
-"id": 19090,
-"name": "NUMPAD NATEC GOBY 2 USB BLACK",
-"price": 8510,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/NKL-2022_600.jpg",
+"id": 1065,
+"name": "Mouse Logitech M90 Black",
+"price": 8165,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-004053_600.jpg",
 "category": "perifericos"
 },
 {
@@ -5513,6 +5632,13 @@
 "name": "Mouse Pad Genesis CARBON 500 S Logo",
 "price": 8510,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/NPG-0657_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 19090,
+"name": "NUMPAD NATEC GOBY 2 USB BLACK",
+"price": 8510,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/NKL-2022_600.jpg",
 "category": "perifericos"
 },
 {
@@ -5623,7 +5749,7 @@
 {
 "id": 1062,
 "name": "Teclado Logitech K120 Usb",
-"price": 17480,
+"price": 17940,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/920-004422_600.jpg",
 "category": "perifericos"
 },
@@ -5651,14 +5777,14 @@
 {
 "id": 9976,
 "name": "Mouse Logitech M190 Inalambrico Azul",
-"price": 20010,
+"price": 19895,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-005903_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 7334,
 "name": "Mouse Logitech M190 Inalambrico Gris Marengo",
-"price": 20125,
+"price": 20010,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-005902_600.jpg",
 "category": "perifericos"
 },
@@ -5700,7 +5826,7 @@
 {
 "id": 20690,
 "name": "Mouse Pad Raptor Ultra Glide Antideslizante Impermeable RGB XL",
-"price": 22080,
+"price": 21965,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-MOU-PAD-AD-9403-RGB_600.jpg",
 "category": "perifericos"
 },
@@ -5712,17 +5838,17 @@
 "category": "perifericos"
 },
 {
-"id": 1558,
-"name": "Mouse Logitech M280 Negro Inalambrico",
-"price": 23230,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-004284_600.jpg",
-"category": "perifericos"
-},
-{
 "id": 3659,
 "name": "Mouse Logitech M280 Azul Inalambrico",
 "price": 23690,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-004361_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 1558,
+"name": "Mouse Logitech M280 Negro Inalambrico",
+"price": 23920,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-004284_600.jpg",
 "category": "perifericos"
 },
 {
@@ -5791,7 +5917,7 @@
 {
 "id": 20843,
 "name": "Combo Gamer Raptor Teclado Membrana + Mouse Rgb",
-"price": 30360,
+"price": 30245,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-COM004-WIRED-BK_600.jpg",
 "category": "perifericos"
 },
@@ -5882,7 +6008,7 @@
 {
 "id": 6549,
 "name": "Mouse Logitech G203 Lightsync Black",
-"price": 39790,
+"price": 39675,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-005793_600.jpg",
 "category": "perifericos"
 },
@@ -5903,7 +6029,7 @@
 {
 "id": 2962,
 "name": "Combo Teclado Y Mouse Logitech MK235 Inalambrico",
-"price": 41285,
+"price": 41170,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/920-007901_600.jpg",
 "category": "perifericos"
 },
@@ -5924,14 +6050,14 @@
 {
 "id": 20760,
 "name": "Auricular Gamer Raptor Shadow Core Rgb 7.1 Usb",
-"price": 42665,
+"price": 42550,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-AURI-RGB-7.1-CR_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 16375,
 "name": "Mouse Razer Deathadder Essential",
-"price": 42895,
+"price": 42780,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ01-03850100-R3M1_600.jpg",
 "category": "perifericos"
 },
@@ -5971,9 +6097,16 @@
 "category": "perifericos"
 },
 {
+"id": 912,
+"name": "Combo Teclado y Mouse Logitech MK270 Inalambrico",
+"price": 47265,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/920-004432_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 20759,
 "name": "Joystick Raptor Apex Wireless PC/PS3/Swich/Android",
-"price": 47380,
+"price": 47265,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-CONTROL-WIRELESS-PC-PS-RGB_600.jpg",
 "category": "perifericos"
 },
@@ -6001,7 +6134,7 @@
 {
 "id": 19435,
 "name": "Teclado y Mouse Logitech MK250 Inalámbrico Black",
-"price": 50830,
+"price": 50715,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/920-013513_600.jpg",
 "category": "perifericos"
 },
@@ -6064,7 +6197,7 @@
 {
 "id": 8567,
 "name": "Combo Teclado Y Mouse Logitech MK295 Silent Inalambrico",
-"price": 57155,
+"price": 58305,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/920-009792_600.jpg",
 "category": "perifericos"
 },
@@ -6085,7 +6218,7 @@
 {
 "id": 2909,
 "name": "Combo Teclado y Mouse Logitech MK345 Inalambrico",
-"price": 60490,
+"price": 60260,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/920-007820_600.jpg",
 "category": "perifericos"
 },
@@ -6146,17 +6279,17 @@
 "category": "perifericos"
 },
 {
-"id": 4919,
-"name": "Mouse Logitech G305 Lightspeed Inalambrico Negro",
-"price": 66125,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-005281_600.jpg",
-"category": "perifericos"
-},
-{
 "id": 10212,
 "name": "Mouse Logitech G305 Lightspeed Inalambrico Blanco",
 "price": 66125,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-005290_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 4919,
+"name": "Mouse Logitech G305 Lightspeed Inalambrico Negro",
+"price": 66125,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-005281_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6176,8 +6309,15 @@
 {
 "id": 1560,
 "name": "Auricular Logitech H390 USB",
-"price": 68195,
+"price": 67965,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/981-000014_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 12872,
+"name": "Auricular Logitech H390 USB Blanco",
+"price": 68885,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/981-001285_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6195,17 +6335,17 @@
 "category": "perifericos"
 },
 {
+"id": 20842,
+"name": "Combo Gamer Raptor Teclado, Mouse y Mouse pad S",
+"price": 70265,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-COM001-WIRED-BK_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 7071,
 "name": "Teclado Redragon K552 Kumara Mecanico RGB Esp Switch Red",
 "price": 70495,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376778925_600.jpg",
-"category": "perifericos"
-},
-{
-"id": 20842,
-"name": "Combo Gamer Raptor Teclado, Mouse y Mouse pad S",
-"price": 70495,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-COM001-WIRED-BK_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6216,17 +6356,17 @@
 "category": "perifericos"
 },
 {
+"id": 20841,
+"name": "Combo Gamer Raptor Teclado Mecanico White, Mouse RGB White y Mouse pad",
+"price": 72220,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-COM003-WIRED-WH_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 15858,
 "name": "TecladoTeclado Mecanico Redragon Ziggs K669 Black RGB Switch Red 94 keys Esp",
 "price": 72335,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376721921_600.jpg",
-"category": "perifericos"
-},
-{
-"id": 20841,
-"name": "Combo Gamer Raptor Teclado Mecanico White, Mouse RGB White y Mouse pad",
-"price": 72450,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-COM003-WIRED-WH_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6246,14 +6386,14 @@
 {
 "id": 5888,
 "name": "Joystick Inalambrico PC Logitech F710 Gaming",
-"price": 73830,
+"price": 73600,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/940-000117_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 20820,
 "name": "Mouse Razer Orochi v2 Black - Inalámbrico",
-"price": 74175,
+"price": 73945,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ01-05690100-R3U1_600.jpg",
 "category": "perifericos"
 },
@@ -6281,7 +6421,7 @@
 {
 "id": 5131,
 "name": "Mouse HyperX Pulsefire Core RGB",
-"price": 75900,
+"price": 75670,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/4P4F8AA_600.jpg",
 "category": "perifericos"
 },
@@ -6295,7 +6435,7 @@
 {
 "id": 19539,
 "name": "Auricular Gamer Redragon H610 Vibecore BT - Gris",
-"price": 77050,
+"price": 76820,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376733153_600.jpg",
 "category": "perifericos"
 },
@@ -6316,7 +6456,7 @@
 {
 "id": 20664,
 "name": "Teclado HyperX Alloy Core RGB",
-"price": 79005,
+"price": 78775,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/4P4F5AI_600.jpg",
 "category": "perifericos"
 },
@@ -6328,17 +6468,17 @@
 "category": "perifericos"
 },
 {
+"id": 9464,
+"name": "Mouse Pad Razer Gigantus V2 XXL",
+"price": 79465,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ02-03330400-R3U1_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 5784,
 "name": "Mouse Logitech G403 Hero Gaming",
 "price": 79695,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-005631_600.jpg",
-"category": "perifericos"
-},
-{
-"id": 9464,
-"name": "Mouse Pad Razer Gigantus V2 XXL",
-"price": 79695,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ02-03330400-R3U1_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6349,6 +6489,13 @@
 "category": "perifericos"
 },
 {
+"id": 20761,
+"name": "Combo Gamer Raptor Teclado Mouse Pad y Auriculares",
+"price": 80500,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-COM002-WIRED-BK_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 12168,
 "name": "Teclado Mecanico Inalámbrico 60% Redragon Fizz Pro K616 Black RGB Red Switches - SP",
 "price": 80615,
@@ -6356,10 +6503,10 @@
 "category": "perifericos"
 },
 {
-"id": 20761,
-"name": "Combo Gamer Raptor Teclado Mouse Pad y Auriculares",
+"id": 20172,
+"name": "Teclado Mecanico 60% Redragon Fizz K617-RGB Gray/White- Switch Red",
 "price": 80730,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-COM002-WIRED-BK_600.jpg",
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376706805_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6370,10 +6517,10 @@
 "category": "perifericos"
 },
 {
-"id": 20172,
-"name": "Teclado Mecanico 60% Redragon Fizz K617-RGB Gray/White- Switch Red",
-"price": 80960,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376706805_600.jpg",
+"id": 6424,
+"name": "Combo Teclado y Mouse Logitech MK470 Slim Inalámbrico",
+"price": 84525,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/920-009266_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6384,23 +6531,9 @@
 "category": "perifericos"
 },
 {
-"id": 6424,
-"name": "Combo Teclado y Mouse Logitech MK470 Slim Inalámbrico",
-"price": 84755,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/920-009266_600.jpg",
-"category": "perifericos"
-},
-{
-"id": 13484,
-"name": "Auricular c/mic Inalambrico Redragon Ire Pro Black H848",
-"price": 84870,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376715357_600.jpg",
-"category": "perifericos"
-},
-{
 "id": 13334,
 "name": "Mouse HyperX Pulsefire Haste 2 Black",
-"price": 86710,
+"price": 86480,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6N0A7AA_600.jpg",
 "category": "perifericos"
 },
@@ -6428,7 +6561,7 @@
 {
 "id": 7147,
 "name": "Teclado Logitech G213 Prodigy RGB Gaming Español",
-"price": 88780,
+"price": 88550,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/920-008086_600.jpg",
 "category": "perifericos"
 },
@@ -6454,6 +6587,13 @@
 "category": "perifericos"
 },
 {
+"id": 20201,
+"name": "Auricular Gamer Inalámbrico Raptor Inferno Pro X RGB 7.1 - Black - C/ Dongle",
+"price": 93495,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-AURI-RGB-WIRELESS-DONGLE-7.1_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 11212,
 "name": "Auricular c/mic Gamer Redragon H320W Lamia 2 White RGB",
 "price": 94645,
@@ -6463,7 +6603,7 @@
 {
 "id": 20492,
 "name": "Teclado Redragon K552 Kumara Magnetico RGB Esp Switch Magnetic",
-"price": 97060,
+"price": 96715,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376737717_600.jpg",
 "category": "perifericos"
 },
@@ -6498,7 +6638,7 @@
 {
 "id": 5399,
 "name": "Mouse Logitech G502 Gaming HERO",
-"price": 101890,
+"price": 101545,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-005550_600.jpg",
 "category": "perifericos"
 },
@@ -6568,7 +6708,7 @@
 {
 "id": 19460,
 "name": "Teclado Mecanico Redragon Eisa K686WB-RGB-PRO Switch Red Wired/BT - Blanco y azul - SP",
-"price": 116265,
+"price": 115920,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376730305_600.jpg",
 "category": "perifericos"
 },
@@ -6594,31 +6734,31 @@
 "category": "perifericos"
 },
 {
-"id": 9785,
-"name": "Auricular c mic Redragon ZEUS X H510 RGB",
-"price": 120635,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376705914_600.jpg",
-"category": "perifericos"
-},
-{
-"id": 12874,
-"name": "Mouse Logitech G502 X Gaming Black",
-"price": 120635,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-006137_600.jpg",
-"category": "perifericos"
-},
-{
 "id": 7529,
 "name": "Auricular Razer BlackShark V2 X 7.1",
-"price": 120635,
+"price": 120175,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ04-03240100-R3U1_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 15031,
 "name": "Auricular Razer BlackShark V2 X White - 7.1",
-"price": 120635,
+"price": 120175,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ04-03240700-R3U1_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 12874,
+"name": "Mouse Logitech G502 X Gaming Black",
+"price": 120290,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-006137_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 9785,
+"name": "Auricular c mic Redragon ZEUS X H510 RGB",
+"price": 120635,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376705914_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6647,6 +6787,13 @@
 "name": "Webcam Logitech Brio 300 FULL HD 1080P Graphite",
 "price": 125120,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/960-001413_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 13946,
+"name": "Webcam Logitech Brio 300 FULL HD 1080P White",
+"price": 125120,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/960-001440_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6692,6 +6839,13 @@
 "category": "perifericos"
 },
 {
+"id": 20779,
+"name": "Webcam Redragon Cyberlens GW911 4k",
+"price": 129030,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376730633_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 8948,
 "name": "Auricular Logitech G335 Gaming Black",
 "price": 129375,
@@ -6699,16 +6853,9 @@
 "category": "perifericos"
 },
 {
-"id": 20779,
-"name": "Webcam Redragon Cyberlens GW911 4k",
-"price": 129375,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376730633_600.jpg",
-"category": "perifericos"
-},
-{
 "id": 4900,
 "name": "Teclado Redragon K550 Yama Mecanico RGB Blanco ESPAÑOL",
-"price": 132135,
+"price": 131790,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376751447_600.jpg",
 "category": "perifericos"
 },
@@ -6720,17 +6867,17 @@
 "category": "perifericos"
 },
 {
+"id": 16374,
+"name": "Mouse Razer Basilisk V3 Wired Ergonomic",
+"price": 133745,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ01-04000100-R3M1_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 6213,
 "name": "Mouse Logitech G703 LIGHTSPEED Inalambrico",
 "price": 134090,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-005639_600.jpg",
-"category": "perifericos"
-},
-{
-"id": 16374,
-"name": "Mouse Razer Basilisk V3 Wired Ergonomic",
-"price": 134090,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ01-04000100-R3M1_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6764,7 +6911,7 @@
 {
 "id": 12875,
 "name": "Mouse Logitech G502 X Gaming White",
-"price": 146165,
+"price": 145705,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-006145_600.jpg",
 "category": "perifericos"
 },
@@ -6799,14 +6946,14 @@
 {
 "id": 13621,
 "name": "Mouse Gamer HyperX Pulsefire Haste 2 Black Inalambrico",
-"price": 161345,
+"price": 160885,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6N0B0AA_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 20757,
 "name": "Mouse HyperX Pulsefire Saga Black",
-"price": 170545,
+"price": 169970,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/A2PB3AA_600.jpg",
 "category": "perifericos"
 },
@@ -6869,8 +7016,15 @@
 {
 "id": 7720,
 "name": "Teclado Mecanico Logitech PRO RGB Lightsync Switch GX Blue TKL",
-"price": 194005,
+"price": 193430,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/920-009388_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 14158,
+"name": "Teclado Razer Gamer Blackwidow V3 Tenkeyless - Switch Yellow",
+"price": 194120,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ03-03491800-R3M1_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6878,13 +7032,6 @@
 "name": "Teclado Razer Huntsman V3 X Tenkeyless Purple Sp",
 "price": 194695,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ03-05021700-R311_600.jpg",
-"category": "perifericos"
-},
-{
-"id": 14158,
-"name": "Teclado Razer Gamer Blackwidow V3 Tenkeyless - Switch Yellow",
-"price": 194810,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ03-03491800-R3M1_600.jpg",
 "category": "perifericos"
 },
 {
@@ -6897,7 +7044,7 @@
 {
 "id": 5440,
 "name": "Webcam Logitech C922 PRO FULL HD 1080P",
-"price": 204930,
+"price": 202630,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/960-001087_600.jpg",
 "category": "perifericos"
 },
@@ -6932,7 +7079,7 @@
 {
 "id": 14740,
 "name": "Mouse Razer Cobra PRO Chroma RGB - Inalámbrico",
-"price": 220455,
+"price": 219765,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ01-04660100-R3U1_600.jpg",
 "category": "perifericos"
 },
@@ -6953,7 +7100,7 @@
 {
 "id": 20598,
 "name": "Teclado Mecanico Redragon Uranus 87 Pro K737B-RGB-PRO wireless",
-"price": 236670,
+"price": 235865,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376730817_600.jpg",
 "category": "perifericos"
 },
@@ -6986,17 +7133,17 @@
 "category": "perifericos"
 },
 {
+"id": 14172,
+"name": "Teclado Razer Blackwidow V4 X RGB Español - Switch Yellow",
+"price": 248515,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ03-04702800-R311_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 14949,
 "name": "Teclado Gamer HyperX Alloy Rise 75% RGB",
 "price": 248975,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/7G7A4AA_600.jpg",
-"category": "perifericos"
-},
-{
-"id": 14172,
-"name": "Teclado Razer Blackwidow V4 X RGB Español - Switch Yellow",
-"price": 249320,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ03-04702800-R311_600.jpg",
 "category": "perifericos"
 },
 {
@@ -7028,16 +7175,23 @@
 "category": "perifericos"
 },
 {
+"id": 13959,
+"name": "Mouse Logitech Inalámbrico G Pro X Superlight 2 White",
+"price": 271285,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-006637_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 19663,
 "name": "Teclado Razer Gamer Blackwidow Hyperspeed V4 TKL Inalámbrico - BT - SP",
-"price": 273470,
+"price": 272550,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ03-05480600-R311_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 15417,
 "name": "Auricular Razer Barracuda X New Black - Inalámbrico",
-"price": 280485,
+"price": 279565,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ04-04430100-R3U1_600.jpg",
 "category": "perifericos"
 },
@@ -7079,28 +7233,28 @@
 {
 "id": 12812,
 "name": "Mouse Logitech G502 X Plus Black",
-"price": 302565,
+"price": 301530,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-006161_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 16373,
 "name": "Mouse Gamer Razer Basilisk V3 Pro 35k Hyperspeed Inalámbrico",
-"price": 311650,
+"price": 310730,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ01-05240100-R3U1_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 14791,
 "name": "Teclado Mecanico 75% Corsair K65 PLUS Wireless RGB Red Lineal Switches - English",
-"price": 325335,
+"price": 324300,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CH-91D401L-NA_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 19660,
 "name": "Mouse Razer Cobra Deathadder V4 PRO - Black - HyperSpeed Inalámbrico",
-"price": 330280,
+"price": 329245,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ01-05330100-R3U1_600.jpg",
 "category": "perifericos"
 },
@@ -7112,65 +7266,72 @@
 "category": "perifericos"
 },
 {
+"id": 11416,
+"name": "Auricular Logitech G535 Gaming Black",
+"price": 333155,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/981-000971_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 16038,
 "name": "Mouse Razer Viper V3 PRO Wireless Black",
-"price": 343620,
+"price": 342585,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ01-05120100-R3U1_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 16097,
 "name": "Mouse Razer Viper V3 PRO Wireless Esports White Edition",
-"price": 349025,
+"price": 347990,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ01-05120200-R3U1_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 15412,
 "name": "Teclado Razer Huntsman V3 Pro Mini 60% Analog Optical Esports US Layout",
-"price": 358800,
+"price": 357650,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ03-04990200-R3U1_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 14799,
 "name": "Auricular Gamer Corsair HS65 Inalámbrico Carbon",
-"price": 360180,
+"price": 359030,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CA-9011285-NA2_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 20590,
 "name": "Auricular Gamer Corsair HS65 Inalámbrico White",
-"price": 360180,
+"price": 359030,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CA-9011286-NA2_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 19661,
 "name": "Mouse Razer Cobra Deathadder V4 PRO - White - HyperSpeed Inalámbrico",
-"price": 370990,
+"price": 369725,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ01-05330200-R3U1_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 7150,
 "name": "Auricular Logitech PRO X Gaming Con Blue Voice",
-"price": 373405,
+"price": 372140,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/981-000817_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 18490,
 "name": "Auricular Razer Barracuda X Chroma Black - Inalámbrico",
-"price": 379500,
+"price": 378350,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ04-05220100-R3U1_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 18491,
 "name": "Auricular Razer Barracuda X Chroma White - Inalámbrico",
-"price": 379500,
+"price": 378350,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ04-05220200-R3U1_600.jpg",
 "category": "perifericos"
 },
@@ -7191,7 +7352,7 @@
 {
 "id": 20821,
 "name": "Joystick Razer Wolverine V3 Pro 8K PC",
-"price": 393185,
+"price": 391920,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ06-05540100-R3U1_600.jpg",
 "category": "perifericos"
 },
@@ -7212,14 +7373,14 @@
 {
 "id": 19513,
 "name": "Auricular Razer BlackShark V3 Inalámbrico",
-"price": 437805,
+"price": 436425,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ04-05410100-R3U1_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 19656,
 "name": "Auricular Razer BlackShark V3 White Inalámbrico",
-"price": 455400,
+"price": 454020,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ04-05410400-R3U1_600.jpg",
 "category": "perifericos"
 },
@@ -7233,14 +7394,14 @@
 {
 "id": 15741,
 "name": "Auricular Razer BlackShark V2 PRO Wireless White",
-"price": 517040,
+"price": 515315,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ04-04530200-R3U1_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 15740,
 "name": "Auricular Razer BlackShark V2 PRO Black",
-"price": 525435,
+"price": 523825,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ04-04530100-R3U1_600.jpg",
 "category": "perifericos"
 },
@@ -7268,14 +7429,21 @@
 {
 "id": 14821,
 "name": "Auricular Logitech PRO X 2 Black Gaming Con Blue Voice",
-"price": 732895,
+"price": 730480,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/981-001262_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 14820,
+"name": "Auricular Logitech PRO X 2 White Gaming Con Blue Voice",
+"price": 734505,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/981-001268_600.jpg",
 "category": "perifericos"
 },
 {
 "id": 8558,
 "name": "Volante de Carreras Logitech G923 Trueforce PLAYSTATION Y PC - Fuente de Origen Nacional",
-"price": 809830,
+"price": 807185,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/941-000148_600.jpg",
 "category": "perifericos"
 },
