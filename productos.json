@@ -385,13 +385,6 @@
 "category": "pcs-armadas"
 },
 {
-"id": 20305,
-"name": "PC Gamer AMD Ryzen 5 5500 RX 7600s 8GB B550 16GB RAM 512GB NVMe 650W Bronze WIFI",
-"price": 1927279,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-57_600.jpg",
-"category": "pcs-armadas"
-},
-{
 "id": 20304,
 "name": "PC Gamer AMD Ryzen 5 5500 RTX 3050 6GB B550 16GB RAM 1TB NVMe 600W Bronze WIFI",
 "price": 1948209,
@@ -441,13 +434,6 @@
 "category": "pcs-armadas"
 },
 {
-"id": 20306,
-"name": "PC Gamer AMD Ryzen 7 5700x RX 7600s 8GB B550 16GB RAM 1TB NVMe 650W Bronze WIFI",
-"price": 2393282,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-58_600.jpg",
-"category": "pcs-armadas"
-},
-{
 "id": 20374,
 "name": "PC Powered by MSI Ultimate AMD Ryzen 5 5500 B550 16GB RAM 1TB NVMe RTX 5050 850W Gold CpuCooler WIFI",
 "price": 2443542,
@@ -459,13 +445,6 @@
 "name": "PC Gamer AMD Ryzen 7 5700x RTX 5060 8GB B550 16GB RAM 1TB NVMe 650W Gold WIFI",
 "price": 2955287,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-60_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 19266,
-"name": "PC Gamer Intel i3 14100F 16GB RAM DDR5 SSD 1TB RTX 5060 WIFI",
-"price": 3063456,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-34_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -700,6 +679,13 @@
 "category": "pcs-armadas"
 },
 {
+"id": 19860,
+"name": "PC Gamer Ryzen 7 9850X3D 32GB RAM 1TB NVMe RTX 5080 16GB WATER 360MM WIFI",
+"price": 9409554,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-39_600.jpg",
+"category": "pcs-armadas"
+},
+{
 "id": 20378,
 "name": "PC Powered by MSI Ultimate Intel Ultra 9 285K B860 32GB RAM 2TB RTX 5080 850W Gold + Water 360 WIFI",
 "price": 9560892,
@@ -718,6 +704,20 @@
 "name": "PC Powered by MSI Ultimate AMD Ryzen 9 9950X3D X870 32GB RAM 2TB RTX 5080 850W Gold Water 360 WIFI",
 "price": 9767777,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-20_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20823,
+"name": "PC Gamer AMD Ryzen 9 7900x RTX 5080 16GB X870 64GB RAM 2TB NVMe 1000W Gold WIFI",
+"price": 10724855,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-78_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 19269,
+"name": "PC Gamer Ryzen 7 9850X3D 64GB RAM 2TB NVMe RTX 5080 16GB WATER 360MM WIFI",
+"price": 11196011,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-21_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -2135,6 +2135,13 @@
 "category": "motherboards"
 },
 {
+"id": 15293,
+"name": "Motherboard Asus TUF X870 PLUS GAMING WIFI AM5 DDR5",
+"price": 710010,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1IU0-M0EAY0_600.jpg",
+"category": "motherboards"
+},
+{
 "id": 16035,
 "name": "Motherboard Asus Tuf Gaming Z890-PLUS WIFI DDR5 1851",
 "price": 724155,
@@ -2188,6 +2195,13 @@
 "name": "Memoria Ram Patriot Signature Line 8GB 3200 Mhz DDR4 PC",
 "price": 161575,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PSD48G32002_600.jpg",
+"category": "ram"
+},
+{
+"id": 14025,
+"name": "Memoria Ram Hiksemi 8GB 3200Mhz Hiker DDR4",
+"price": 172730,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HSC408U32Z1-8G_600.jpg",
 "category": "ram"
 },
 {
@@ -2338,13 +2352,6 @@
 "category": "ram"
 },
 {
-"id": 20816,
-"name": "Memoria RAM MacroVip Max 8GB 5600 Mhz DDR5 Con Heatsink",
-"price": 326370,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MVX56N46-8_600.jpg",
-"category": "ram"
-},
-{
 "id": 20008,
 "name": "Memoria Ram Memox 8GB 5600Mhz DDR5 - Bulk",
 "price": 330855,
@@ -2405,6 +2412,13 @@
 "name": "Memoria Ram Adata XPG GAMMIX D35 16GB 3200 Mhz DDR4",
 "price": 392150,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX4U320016G16A-SBKD35_600.jpg",
+"category": "ram"
+},
+{
+"id": 10871,
+"name": "Memoria Ram Patriot Viper Steel Series RGB 16GB (2x8GB) 3600 Mhz DDR4",
+"price": 401120,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PVSR416G360C0K_600.jpg",
 "category": "ram"
 },
 {
@@ -2842,6 +2856,13 @@
 "category": "ram"
 },
 {
+"id": 16483,
+"name": "Memoria RAM Corsair Vengeance RGB 32GB White (2X16GB) 6000 Mhz DDR5 CL30 - Amd Expo - Xmp",
+"price": 1621960,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMH32GX5M2B6000Z30W_600.jpg",
+"category": "ram"
+},
+{
 "id": 20859,
 "name": "Memoria Ram Patriot Viper Elite 5 Ultra 32GB (2x16gb) 6400 Mhz DDR5 CL36",
 "price": 1726840,
@@ -3014,6 +3035,20 @@
 "name": "Disco SSD 512GB Aimerican Agility M.2 PCIe NVMe Gen3 x4",
 "price": 177330,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AISSD512NVM3_600.jpg",
+"category": "almacenamiento"
+},
+{
+"id": 18782,
+"name": "Disco Solido SSD 480GB MSI Spatium S270 Sata III",
+"price": 182850,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/S78-440E350-P83_600.jpg",
+"category": "almacenamiento"
+},
+{
+"id": 14353,
+"name": "Disco Solido SSD 512GB Patriot P300 M.2 NVMe PCIe x4 3.0",
+"price": 207575,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/P300P512GM28_600.jpg",
 "category": "almacenamiento"
 },
 {
@@ -3717,13 +3752,6 @@
 "category": "fuentes"
 },
 {
-"id": 16562,
-"name": "Gabinete Gamer Zer01 Gaming Centauri 3 Fan Fixed RGB",
-"price": 38192,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CENTAURI_600.jpg",
-"category": "gabinetes"
-},
-{
 "id": 13669,
 "name": "Gabinete FURY SHOBO SH4 1 Fan Fixed RGB Black",
 "price": 42504,
@@ -4127,6 +4155,13 @@
 "name": "Gabinete ADATA XPG Lander 501 Black Fan Argb X4",
 "price": 141795,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/LANDER501CMTA-BKCWW_600.jpg",
+"category": "gabinetes"
+},
+{
+"id": 20630,
+"name": "Gabinete Sentey Bearer PRO White Fan x7 ARGB - PWM",
+"price": 148005,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BEARER-PRO-WHTA_600.jpg",
 "category": "gabinetes"
 },
 {
@@ -4771,13 +4806,6 @@
 "name": "CPU Cooler Cooler Master Hyper 212 Black Edition",
 "price": 102833,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RR-212S-20PK-R2_600.jpg",
-"category": "refrigeracion"
-},
-{
-"id": 18862,
-"name": "CPU Cooler 120mm Xigmatek AK6 Dual Digital Artic - ARGB - White",
-"price": 110745,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/EN45851_600.jpg",
 "category": "refrigeracion"
 },
 {
@@ -6325,6 +6353,13 @@
 "name": "Teclado Mecanico 60% Redragon Fizz Pro K616 White/Grey RGB Red Switches",
 "price": 77280,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376714381_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 19539,
+"name": "Auricular Gamer Redragon H610 Vibecore BT - Gris",
+"price": 77510,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/6950376733153_600.jpg",
 "category": "perifericos"
 },
 {
