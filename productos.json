@@ -2,7 +2,7 @@
 {
 "id": 20103,
 "name": "PC AMD Athlon 3000G 8GB RAM 240GB SSD GAB KIT WIFI",
-"price": 495420,
+"price": 501285,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-48_600.jpg",
 "category": "pcs-armadas"
 },
@@ -16,7 +16,7 @@
 {
 "id": 19285,
 "name": "PC Ryzen 3 3200G 8GB RAM SSD 240 GB WIFI",
-"price": 553265,
+"price": 559130,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-02_600.jpg",
 "category": "pcs-armadas"
 },
@@ -37,42 +37,42 @@
 {
 "id": 20349,
 "name": "PC Gamer Powered by MSI Essential AMD Athlon 3000G A520 8GB RAM 256GB NVMe 550W Bronze WIFI",
-"price": 686095,
+"price": 691960,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-05_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20380,
 "name": "PC Gamer Powered by MSI Essential AMD Ryzen 3 3200G A520 8GB RAM 256GB NVMe 550W Bronze WIFI",
-"price": 743940,
+"price": 749805,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-21_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20104,
 "name": "PC AMD Athlon 3000G 16GB RAM 512GB SSD GAB KIT WIFI",
-"price": 783725,
+"price": 795455,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-49_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19268,
 "name": "PC Gamer Ryzen 5 5600GT 8GB RAM SSD 240 GB WIFI",
-"price": 869446,
+"price": 875311,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-07_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20344,
 "name": "PC Gamer Powered by MSI Essential AMD Ryzen 3 3200G A520 16GB RAM 256GB NVMe 550W Bronze WIFI",
-"price": 891255,
+"price": 902985,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-02_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20037,
 "name": "PC Gamer AMD Ryzen 3 3200G 16GB RAM 512GB NVME WIFI",
-"price": 905683,
+"price": 917413,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-15_600.jpg",
 "category": "pcs-armadas"
 },
@@ -93,7 +93,7 @@
 {
 "id": 20659,
 "name": "PC Gamer Powered by MSI Essential AMD Ryzen 5 3400G A520 16GB RAM 512GB NVMe 550W Bronze WIFI",
-"price": 987289,
+"price": 999019,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-28_600.jpg",
 "category": "pcs-armadas"
 },
@@ -121,36 +121,29 @@
 {
 "id": 19980,
 "name": "PC Gamer AMD Ryzen 5 5600GT 16GB 512GB NVME WIFI",
-"price": 1166146,
+"price": 1177876,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-41_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20298,
 "name": "PC Gamer AMD Ryzen 5 5600GT 16GB RAM 512GB NVMe 500W Bronze WIFI",
-"price": 1180648,
+"price": 1192378,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-50_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20342,
 "name": "PC Gamer Powered by MSI Essential AMD Ryzen 5 5600GT A520 16GB RAM 512GB NVMe 550W Bronze Wifi",
-"price": 1258335,
+"price": 1270065,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-01_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20299,
 "name": "PC Gamer AMD Ryzen 5 5600GT B550 16GB RAM 512GB NVMe 500W Bronze GAB 4FAN WIFI",
-"price": 1261074,
+"price": 1272804,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-51_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20025,
-"name": "PC Gamer AMD Ryzen 7 5700G 16GB RAM 512GB NVME 4FAN FRGB GAB WIFI",
-"price": 1268536,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-25_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -161,10 +154,10 @@
 "category": "pcs-armadas"
 },
 {
-"id": 20440,
-"name": "PC Gamer Powered by MSI Essential AMD Ryzen 7 5700G A520 16GB RAM 512GB NVMe 550W Bronze WIFI",
-"price": 1304227,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-22_600.jpg",
+"id": 20025,
+"name": "PC Gamer AMD Ryzen 7 5700G 16GB RAM 512GB NVME 4FAN FRGB GAB WIFI",
+"price": 1280266,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-25_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -175,24 +168,24 @@
 "category": "pcs-armadas"
 },
 {
+"id": 20440,
+"name": "PC Gamer Powered by MSI Essential AMD Ryzen 7 5700G A520 16GB RAM 512GB NVMe 550W Bronze WIFI",
+"price": 1315957,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-22_600.jpg",
+"category": "pcs-armadas"
+},
+{
 "id": 20657,
 "name": "PC Gamer Powered by MSI Advanced AMD Ryzen 7 5700G A520 16GB RAM 512GB NVMe 550W Bronze WIFI",
-"price": 1319294,
+"price": 1331024,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-27_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20300,
 "name": "PC Gamer AMD Ryzen 7 5700G B550 16GB RAM 512GB NVMe 500W Bronze GAB 4FAN WIFI",
-"price": 1321564,
+"price": 1333294,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-52_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20021,
-"name": "PC Gamer AMD Ryzen 5 5600GT 16GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 1351924,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-43_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -203,17 +196,10 @@
 "category": "pcs-armadas"
 },
 {
-"id": 20024,
-"name": "PC Gamer AMD Ryzen 7 5700G 16GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 1400441,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-46_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20351,
-"name": "PC Gamer Powered by MSI Advanced Intel I5 12400 H610M 16GB RAM 512GB NVME 650W Gold + CpuCooler WIFI",
-"price": 1403005,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-06_600.jpg",
+"id": 20021,
+"name": "PC Gamer AMD Ryzen 5 5600GT 16GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
+"price": 1380329,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-43_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -224,10 +210,17 @@
 "category": "pcs-armadas"
 },
 {
-"id": 20301,
-"name": "PC Gamer AMD Ryzen 7 5700G B550 16GB RAM 1TB NVMe 500W Bronze WIFI",
-"price": 1451249,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-53_600.jpg",
+"id": 20351,
+"name": "PC Gamer Powered by MSI Advanced Intel I5 12400 H610M 16GB RAM 512GB NVME 650W Gold + CpuCooler WIFI",
+"price": 1414735,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-06_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20024,
+"name": "PC Gamer AMD Ryzen 7 5700G 16GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
+"price": 1428846,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-46_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -235,6 +228,13 @@
 "name": "PC Armada AMD Ryzen 5 8600G 16GB 512GB",
 "price": 1473840,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-ML21-ARMADA-GAMER_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20301,
+"name": "PC Gamer AMD Ryzen 7 5700G B550 16GB RAM 1TB NVMe 500W Bronze WIFI",
+"price": 1479654,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-53_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -254,7 +254,7 @@
 {
 "id": 20441,
 "name": "PC Gamer Powered by MSI Advanced AMD Ryzen 7 5700G A520 16GB RAM 1TB NVMe 550W Bronze WIFI",
-"price": 1491679,
+"price": 1503409,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-23_600.jpg",
 "category": "pcs-armadas"
 },
@@ -268,7 +268,7 @@
 {
 "id": 20022,
 "name": "PC Gamer AMD Ryzen 5 5600GT 32GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 1643564,
+"price": 1660239,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-44_600.jpg",
 "category": "pcs-armadas"
 },
@@ -303,7 +303,7 @@
 {
 "id": 20023,
 "name": "PC Gamer AMD Ryzen 7 5700G 32GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 1692081,
+"price": 1708756,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-45_600.jpg",
 "category": "pcs-armadas"
 },
@@ -331,21 +331,28 @@
 {
 "id": 20038,
 "name": "PC Gamer AMD Ryzen 5 3500X RTX 3050 6GB 16GB RAM 512GB NVME 4FAN GAB WIFI",
-"price": 1747754,
+"price": 1759484,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-14_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20030,
 "name": "PC Gamer AMD Ryzen 5 8600G 16GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 1774191,
+"price": 1790866,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-20_600.jpg",
+"category": "pcs-armadas"
+},
+{
+"id": 20345,
+"name": "PC Gamer Powered by MSI Essential AMD Ryzen 5 8500G A620 16GB RAM 1TB NVMe 550W Bronze WIFI",
+"price": 1790900,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-03_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20656,
 "name": "PC Gamer Powered by MSI Advanced AMD Ryzen 5 5500 RTX 3050 6GB A520 16GB RAM 512GB 550W Bronze WIFI",
-"price": 1808849,
+"price": 1820579,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-26_600.jpg",
 "category": "pcs-armadas"
 },
@@ -357,24 +364,17 @@
 "category": "pcs-armadas"
 },
 {
-"id": 20345,
-"name": "PC Gamer Powered by MSI Essential AMD Ryzen 5 8500G A620 16GB RAM 1TB NVMe 550W Bronze WIFI",
-"price": 1833795,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-03_600.jpg",
+"id": 20444,
+"name": "PC Gamer Powered by MSI Advanced AMD Ryzen 7 5700G B550 32GB RAM 1TB NVMe 550W Bronze WIFI",
+"price": 1842199,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-25_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20302,
 "name": "PC Gamer AMD Ryzen 5 5500 RX 6600M 8GB B550 16GB RAM 512GB NVME 600W Bronze WIFI",
-"price": 1836251,
+"price": 1847981,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-54_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20444,
-"name": "PC Gamer Powered by MSI Advanced AMD Ryzen 7 5700G B550 32GB RAM 1TB NVMe 550W Bronze WIFI",
-"price": 1842199,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-25_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -387,49 +387,42 @@
 {
 "id": 20303,
 "name": "PC Gamer AMD Ryzen 5 5500 RTX 3050 6GB B550 16GB RAM 512GB NVMe 600W Bronze WIFI",
-"price": 1874944,
+"price": 1886674,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-55_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20039,
 "name": "PC Gamer AMD Ryzen 5 3500X RTX 3050 6GB 16GB RAM 1TB NVME 4FAN GAB WIFI",
-"price": 1879659,
+"price": 1908064,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-13_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20305,
-"name": "PC Gamer AMD Ryzen 5 5500 RX 7600s 8GB B550 16GB RAM 512GB NVMe 650W Bronze WIFI",
-"price": 1928534,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-57_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20376,
 "name": "PC Powered by MSI Ultimate AMD Ryzen 5 5500 A520 16GB RAM 512GB RTX 3050 650W Gold Cpu Cooler WIFI",
-"price": 1939602,
+"price": 1951332,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-18_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20041,
 "name": "PC Gamer AMD Ryzen 5 3500X RTX 5050 8GB 16GB RAM 512GB NVME 4FAN GAB WIFI",
-"price": 1950844,
+"price": 1962574,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-12_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20032,
 "name": "PC Gamer AMD Ryzen 7 8700G 16GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 1962906,
+"price": 1979581,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-19_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20304,
 "name": "PC Gamer AMD Ryzen 5 5500 RTX 3050 6GB B550 16GB RAM 1TB NVMe 600W Bronze WIFI",
-"price": 2006849,
+"price": 2035254,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-56_600.jpg",
 "category": "pcs-armadas"
 },
@@ -462,13 +455,6 @@
 "category": "pcs-armadas"
 },
 {
-"id": 20317,
-"name": "PC Gamer AMD Ryzen 5 5500 RTX 5050 8GB B550 16GB RAM 1TB NVMe 650W Bronze WIFI",
-"price": 2252719,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-59_600.jpg",
-"category": "pcs-armadas"
-},
-{
 "id": 20354,
 "name": "PC Gamer Powered by MSI Advanced AMD Ryzen 7 8700G B850 16GB RAM 1TB NVMe 850W Gold + CpuCooler WIFI",
 "price": 2279774,
@@ -476,17 +462,17 @@
 "category": "pcs-armadas"
 },
 {
-"id": 20028,
-"name": "PC Gamer AMD Ryzen 5 8600G 32GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 2343671,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-28_600.jpg",
+"id": 20317,
+"name": "PC Gamer AMD Ryzen 5 5500 RTX 5050 8GB B550 16GB RAM 1TB NVMe 650W Bronze WIFI",
+"price": 2281124,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-59_600.jpg",
 "category": "pcs-armadas"
 },
 {
-"id": 20306,
-"name": "PC Gamer AMD Ryzen 7 5700x RX 7600s 8GB B550 16GB RAM 1TB NVMe 650W Bronze WIFI",
-"price": 2376482,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-58_600.jpg",
+"id": 20028,
+"name": "PC Gamer AMD Ryzen 5 8600G 32GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
+"price": 2360346,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-28_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -499,35 +485,35 @@
 {
 "id": 20374,
 "name": "PC Powered by MSI Ultimate AMD Ryzen 5 5500 B550 16GB RAM 1TB NVMe RTX 5050 850W Gold CpuCooler WIFI",
-"price": 2428352,
+"price": 2440082,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MSI-17_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20036,
 "name": "PC Gamer AMD Ryzen 7 8700G 32GB RAM 1TB NVME 4FAN FRGB GAB WIFI",
-"price": 2532386,
+"price": 2549061,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-16_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19238,
 "name": "PC Gamer Intel i5-12400F 16GB RAM SSD 1TB NVMe RTX 5060 8GB WIFI",
-"price": 2825649,
+"price": 2837379,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-22_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20318,
 "name": "PC Gamer AMD Ryzen 7 5700x RTX 5060 8GB B550 16GB RAM 1TB NVMe 650W Gold WIFI",
-"price": 2931357,
+"price": 2959762,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-60_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 19266,
 "name": "PC Gamer Intel i3 14100F 16GB RAM DDR5 SSD 1TB RTX 5060 WIFI",
-"price": 3082891,
+"price": 3099566,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-34_600.jpg",
 "category": "pcs-armadas"
 },
@@ -541,7 +527,7 @@
 {
 "id": 20381,
 "name": "PC Gamer AMD Ryzen 5 7600 RTX 5060 8GB B650 16GB RAM 1TB NVMe 750W Gold WIFI",
-"price": 3309304,
+"price": 3308729,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-61_600.jpg",
 "category": "pcs-armadas"
 },
@@ -555,15 +541,8 @@
 {
 "id": 20382,
 "name": "PC Gamer AMD Ryzen 5 7600 RTX 5060 Ti 8GB B650 16GB RAM 1TB NVMe 750W Gold WIFI",
-"price": 3484236,
+"price": 3496196,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-62_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20383,
-"name": "PC Gamer AMD Ryzen 7 7700 RTX 5060 8GB B650 16GB RAM 1TB NVMe 750W Gold WIFI",
-"price": 3699746,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-63_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -583,7 +562,7 @@
 {
 "id": 20384,
 "name": "PC Gamer AMD Ryzen 5 7600 RTX 5060 Ti 16GB B650 16GB RAM 1TB NVMe 750W Gold WIFI",
-"price": 4248526,
+"price": 4218971,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-64_600.jpg",
 "category": "pcs-armadas"
 },
@@ -618,22 +597,8 @@
 {
 "id": 20385,
 "name": "PC Gamer AMD Ryzen 5 7600 RTX 5060 8GB B650 32GB RAM 2TB NVMe 750W Gold WIFI",
-"price": 4810071,
+"price": 4805356,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-65_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20386,
-"name": "PC Gamer AMD Ryzen 7 7700 RTX 5060 8GB B650 WIFI 32GB RAM 2TB NVMe 750W Gold WIFI",
-"price": 5063186,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-66_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20387,
-"name": "PC Gamer AMD Ryzen 7 7700 RTX 5060 Ti 8GB B650 32GB RAM 2TB NVMe 750W Gold WIFI",
-"price": 5100791,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-67_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -646,29 +611,15 @@
 {
 "id": 20388,
 "name": "PC Gamer AMD Ryzen 5 7600 RTX 5060 Ti 16GB B650 32GB RAM 2TB NVMe 750W Gold WIFI",
-"price": 5611966,
+"price": 5565736,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-68_600.jpg",
 "category": "pcs-armadas"
 },
 {
 "id": 20389,
 "name": "PC Gamer AMD Ryzen 5 7600 RTX 5070 12GB B650 32GB RAM 2TB NVMe 750W Gold WIFI",
-"price": 5646926,
+"price": 5642211,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-69_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20398,
-"name": "PC Gamer AMD Ryzen 7 7700 RTX 5060 Ti 16GB B650 32GB RAM 2TB NVMe 750W Gold WIFI",
-"price": 5865081,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-77_600.jpg",
-"category": "pcs-armadas"
-},
-{
-"id": 20397,
-"name": "PC Gamer AMD Ryzen 7 7700 RTX 5070 12GB B650 32GB RAM 2TB NVMe 750W Gold WIFI",
-"price": 5930746,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-76_600.jpg",
 "category": "pcs-armadas"
 },
 {
@@ -702,7 +653,7 @@
 {
 "id": 19271,
 "name": "PC Gamer Intel I7-14700F 32GB RAM SSD 1TB RTX 5070 TI 16GB WIFI",
-"price": 6766830,
+"price": 6797075,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PC-CUSTOM-MODELO-24_600.jpg",
 "category": "pcs-armadas"
 },
@@ -910,6 +861,13 @@
 "category": "procesadores"
 },
 {
+"id": 10680,
+"name": "Micro AMD Ryzen 5 5600 4.4 Ghz AM4",
+"price": 333155,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100000927BOX_600.jpg",
+"category": "procesadores"
+},
+{
 "id": 13799,
 "name": "Micro AMD Ryzen 7 5700 4.6 Ghz AM4",
 "price": 354315,
@@ -917,17 +875,17 @@
 "category": "procesadores"
 },
 {
+"id": 13743,
+"name": "Micro AMD Ryzen 5 8500G 5.0 Ghz AM5",
+"price": 357305,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100000931BOX_600.jpg",
+"category": "procesadores"
+},
+{
 "id": 13550,
 "name": "Micro Intel I3-14100 4.7Ghz 12Mb S.1700",
 "price": 359720,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX8071514100_600.jpg",
-"category": "procesadores"
-},
-{
-"id": 10680,
-"name": "Micro AMD Ryzen 5 5600 4.4 Ghz AM4",
-"price": 360870,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100000927BOX_600.jpg",
 "category": "procesadores"
 },
 {
@@ -952,24 +910,17 @@
 "category": "procesadores"
 },
 {
-"id": 19876,
-"name": "Micro Intel I5-14400F 4.7Ghz 20Mb S.1700 - Tray Sin Cooler",
-"price": 395945,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CM8071505093011_600.jpg",
-"category": "procesadores"
-},
-{
 "id": 20786,
 "name": "Micro AMD Ryzen 5 5600GE 3.4 Ghz AM4",
-"price": 396060,
+"price": 389850,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100000261BOX_600.jpg",
 "category": "procesadores"
 },
 {
-"id": 13743,
-"name": "Micro AMD Ryzen 5 8500G 5.0 Ghz AM5",
-"price": 400200,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100000931BOX_600.jpg",
+"id": 19876,
+"name": "Micro Intel I5-14400F 4.7Ghz 20Mb S.1700 - Tray Sin Cooler",
+"price": 395945,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CM8071505093011_600.jpg",
 "category": "procesadores"
 },
 {
@@ -1031,7 +982,7 @@
 {
 "id": 13478,
 "name": "Micro Intel I5-14400F 4.7Ghz 20Mb S.1700",
-"price": 469660,
+"price": 472420,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BX8071514400F_600.jpg",
 "category": "procesadores"
 },
@@ -1059,7 +1010,7 @@
 {
 "id": 12354,
 "name": "Micro AMD Ryzen 5 7600 5.1 Ghz AM5",
-"price": 515085,
+"price": 497835,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100001015BOX_600.jpg",
 "category": "procesadores"
 },
@@ -1141,13 +1092,6 @@
 "category": "procesadores"
 },
 {
-"id": 14287,
-"name": "Micro AMD Ryzen 9 5900XT 4.8 Ghz AM4",
-"price": 758885,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100001581WOF_600.jpg",
-"category": "procesadores"
-},
-{
 "id": 15960,
 "name": "Micro Intel Core ULTRA 7 265KF 3.9Ghz LGA1851",
 "price": 764635,
@@ -1155,10 +1099,10 @@
 "category": "procesadores"
 },
 {
-"id": 12495,
-"name": "Micro AMD Ryzen 7 7700 5.3 Ghz AM5",
-"price": 768200,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100000592SBOX_600.jpg",
+"id": 14287,
+"name": "Micro AMD Ryzen 9 5900XT 4.8 Ghz AM4",
+"price": 771765,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/100-100001581WOF_600.jpg",
 "category": "procesadores"
 },
 {
@@ -1456,13 +1400,6 @@
 "category": "gpus"
 },
 {
-"id": 20886,
-"name": "Placa de Video PELADN RX 7600S OC 8GB DUAL FAN 8GB GDDR5",
-"price": 786830,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PELADN-RX-7600S-8GD6_600.jpg",
-"category": "gpus"
-},
-{
 "id": 20645,
 "name": "Placa de Video AMD Radeon Gigabyte RX 9050 Gaming OC 8GB GDDR6",
 "price": 868710,
@@ -1631,6 +1568,13 @@
 "category": "gpus"
 },
 {
+"id": 20788,
+"name": "Placa de Video AMD Radeon Asus RX 9070 GRE OC 12GB GDDR6",
+"price": 1677505,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/PRIME-RX9070GRE-O12G_600.jpg",
+"category": "gpus"
+},
+{
 "id": 18239,
 "name": "Placa de Video AMD Radeon Gigabyte RX 9070 Gaming OC 16GB GDDR6",
 "price": 2032510,
@@ -1640,7 +1584,7 @@
 {
 "id": 20647,
 "name": "Placa de Video Msi Nvidia Geforce RTX 5060 TI Shadow 2X Plus OC 16GB GDDR7",
-"price": 2152340,
+"price": 2110825,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V535-218_600.jpg",
 "category": "gpus"
 },
@@ -1649,13 +1593,6 @@
 "name": "Placa de Video Msi Nvidia Geforce RTX 5060 TI Ventus 3X 16GB OC GDDR7",
 "price": 2177410,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V812-078_600.jpg",
-"category": "gpus"
-},
-{
-"id": 16650,
-"name": "Placa de Video Msi Nvidia Geforce RTX 5070 Ventus 2X 12GB OC GDDR7",
-"price": 2182930,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/912-V532-009_600.jpg",
 "category": "gpus"
 },
 {
@@ -1670,6 +1607,13 @@
 "name": "Placa de Video Gigabyte Nvidia Geforce RTX 5070 Eagle Ice 12GB OC SFF GDDR7 (White)",
 "price": 2187300,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GV-N5070EAGLEOC-ICE-12GD_600.jpg",
+"category": "gpus"
+},
+{
+"id": 16553,
+"name": "Placa de Video AMD Radeon Asus RX 9070 XT PRIME OC 16GB GDDR6",
+"price": 2187415,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90YV0L71-M0AA00_600.jpg",
 "category": "gpus"
 },
 {
@@ -1801,7 +1745,7 @@
 {
 "id": 18222,
 "name": "Motherboard Gigabyte A520M-K V2 AM4",
-"price": 117070,
+"price": 117645,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/9MA52MK2-00-G11_600.jpg",
 "category": "motherboards"
 },
@@ -1866,13 +1810,6 @@
 "name": "Motherboard Gigabyte A620M-H AM5",
 "price": 165485,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/A620M-H_600.jpg",
-"category": "motherboards"
-},
-{
-"id": 19299,
-"name": "Motherboard MSI B550M Pro-VDH AM4",
-"price": 165945,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7C95-084_600.jpg",
 "category": "motherboards"
 },
 {
@@ -1997,7 +1934,7 @@
 {
 "id": 7745,
 "name": "Motherboard Asus B550M-A AC Prime AM4",
-"price": 226320,
+"price": 230000,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB15K0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
@@ -2025,7 +1962,7 @@
 {
 "id": 20961,
 "name": "Motherboard MSI B850M-E Pro Evo AM5 DDR5",
-"price": 247135,
+"price": 247250,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MSI-B850M-E-EVO_600.jpg",
 "category": "motherboards"
 },
@@ -2195,13 +2132,6 @@
 "name": "Motherboard MSI B760 GAMING PLUS WIFI DDR5 S1700",
 "price": 354775,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/911-7d98-048_600.jpg",
-"category": "motherboards"
-},
-{
-"id": 19611,
-"name": "Motherboard Asus Prime B850M-A DDR5 AM5",
-"price": 366735,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/90MB1LQ0-M0EAY0_600.jpg",
 "category": "motherboards"
 },
 {
@@ -2410,7 +2340,7 @@
 {
 "id": 18898,
 "name": "Memoria Ram Aimerican Telekinesis 8gb 3200 Mhz DDR4",
-"price": 147315,
+"price": 153180,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AIU8GD432_600.jpg",
 "category": "ram"
 },
@@ -2482,13 +2412,6 @@
 "name": "Memoria Ram Corsair Vengeance LPX Black 8GB 3000 Mhz DDR4",
 "price": 198145,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMK8GX4M1D3000C16_600.jpg",
-"category": "ram"
-},
-{
-"id": 13014,
-"name": "Memoria Ram Adata XPG SPECTRIX D35G RGB 8GB 3200 Mhz DDR4",
-"price": 201710,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX4U32008G16A-SBKD35G_600.jpg",
 "category": "ram"
 },
 {
@@ -2576,10 +2499,10 @@
 "category": "ram"
 },
 {
-"id": 14314,
-"name": "Memoria Ram Hiksemi Armor 16GB 3200Mhz DDR4",
-"price": 321885,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HSC416U32D2-16G_600.jpg",
+"id": 20687,
+"name": "Memoria Ram Raptor 16GB 3200Mhz Xmp DDR4",
+"price": 310500,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-UD4-16G-3200_600.jpg",
 "category": "ram"
 },
 {
@@ -2601,6 +2524,13 @@
 "name": "Memoria Ram Memox 8GB 5600Mhz DDR5 - Bulk",
 "price": 333040,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MMD58G56U_600.jpg",
+"category": "ram"
+},
+{
+"id": 14314,
+"name": "Memoria Ram Hiksemi Armor 16GB 3200Mhz DDR4",
+"price": 338790,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/HSC416U32D2-16G_600.jpg",
 "category": "ram"
 },
 {
@@ -2818,6 +2748,13 @@
 "name": "Memoria Ram Adata XPG Lancer Black RGB 16GB 5600 Mhz CL46 DDR5",
 "price": 712885,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/AX5U5600C4616G-SLABRBK_600.jpg",
+"category": "ram"
+},
+{
+"id": 19802,
+"name": "Memoria Ram Sodimm Kingston 16GB DDR5 5600Mhz KVR",
+"price": 713000,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/KVR56S46BS8-16_600.jpg",
 "category": "ram"
 },
 {
@@ -3094,13 +3031,6 @@
 "category": "ram"
 },
 {
-"id": 16483,
-"name": "Memoria RAM Corsair Vengeance RGB 32GB White (2X16GB) 6000 Mhz DDR5 CL30 - Amd Expo - Xmp",
-"price": 1632310,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CMH32GX5M2B6000Z30W_600.jpg",
-"category": "ram"
-},
-{
 "id": 20859,
 "name": "Memoria Ram Patriot Viper Elite 5 Ultra 32GB (2x16gb) 6400 Mhz DDR5 CL36",
 "price": 1737765,
@@ -3374,17 +3304,17 @@
 "category": "almacenamiento"
 },
 {
-"id": 10329,
-"name": "Disco Solido SSD 1TB Patriot P300 M.2 NVMe PCIe X4 3.0",
-"price": 356845,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/P300P1TBM28US_600.jpg",
-"category": "almacenamiento"
-},
-{
 "id": 4811,
 "name": "Disco Solido SSD 960GB Kingston A400 SATA III (Similar 1TB)",
 "price": 371565,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SA400S37-960G_600.jpg",
+"category": "almacenamiento"
+},
+{
+"id": 10329,
+"name": "Disco Solido SSD 1TB Patriot P300 M.2 NVMe PCIe X4 3.0",
+"price": 373520,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/P300P1TBM28US_600.jpg",
 "category": "almacenamiento"
 },
 {
@@ -3712,7 +3642,7 @@
 {
 "id": 18301,
 "name": "Fuente 750W Gigabyte GP-P750BS 80 Plus Bronze",
-"price": 133630,
+"price": 135470,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/GP-P750BS_600.jpg",
 "category": "fuentes"
 },
@@ -3773,9 +3703,16 @@
 "category": "fuentes"
 },
 {
+"id": 16341,
+"name": "Fuente 750W Cooler Master MWE 80 PLUS Gold V3 Full Modular - ATX 3.1",
+"price": 174915,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MPX-7503-AFAG-2EBAR_600.jpg",
+"category": "fuentes"
+},
+{
 "id": 20568,
 "name": "Fuente CORSAIR CX-M Series CX650M 650W ATX 3.1 Cybenetics Bronze Semi-Modular",
-"price": 175490,
+"price": 175835,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CP-9020310-AR_600.jpg",
 "category": "fuentes"
 },
@@ -3894,7 +3831,7 @@
 {
 "id": 16334,
 "name": "Fuente 850W Corsair RM850e 80 PLUS Gold Full Modular - PCIe 5.0",
-"price": 262200,
+"price": 266800,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CP-9020296-AR_600.jpg",
 "category": "fuentes"
 },
@@ -3962,6 +3899,13 @@
 "category": "fuentes"
 },
 {
+"id": 15479,
+"name": "Fuente 1000W Corsair RM1000X Shift 80 PLUS Gold Modular Black",
+"price": 388585,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CP-9020253-AR_600.jpg",
+"category": "fuentes"
+},
+{
 "id": 20700,
 "name": "Fuente Cooler Master Elite 1000w Full Modular 80 Plus Platinum BL",
 "price": 389160,
@@ -3980,6 +3924,13 @@
 "name": "Fuente 850W Corsair SF850 80 PLUS Platinum Modular PCIe 5.1",
 "price": 444820,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CP-9020256-AR_600.jpg",
+"category": "fuentes"
+},
+{
+"id": 15481,
+"name": "Fuente 1200W Corsair RM1200X Shift 80 PLUS Gold Modular PCIe 5.0",
+"price": 472420,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CP-9020254-AR_600.jpg",
 "category": "fuentes"
 },
 {
@@ -4508,17 +4459,17 @@
 "category": "gabinetes"
 },
 {
-"id": 20808,
-"name": "Gabinete Sentey Bearer Black Fan x4 ARGB - PWM",
-"price": 181700,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BEARER-PWM-BLACK_600.jpg",
-"category": "gabinetes"
-},
-{
 "id": 20807,
 "name": "Gabinete Sentey Strega- Fan x4 Argb - White",
 "price": 181700,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/STREGA-WHT_600.jpg",
+"category": "gabinetes"
+},
+{
+"id": 20808,
+"name": "Gabinete Sentey Bearer Black Fan x4 ARGB - PWM",
+"price": 181700,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/BEARER-PWM-BLACK_600.jpg",
 "category": "gabinetes"
 },
 {
@@ -4564,13 +4515,6 @@
 "category": "gabinetes"
 },
 {
-"id": 16322,
-"name": "Gabinete Corsair 4000D Frame RS ARGB White",
-"price": 214360,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CC-9011297-WW_600.jpg",
-"category": "gabinetes"
-},
-{
 "id": 20785,
 "name": "Gabinete Gigabyte C500 Panoramic Stealth Fan x4 Argb - White",
 "price": 215510,
@@ -4589,6 +4533,13 @@
 "name": "Gabinete Thermaltake The Tower 300  TG x2 Fan Bubble Pink",
 "price": 218385,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CA-1Y4-00SAWN-00_600.jpg",
+"category": "gabinetes"
+},
+{
+"id": 14049,
+"name": "Gabinete ADATA XPG Invader X ARGB Black",
+"price": 248630,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/INVADERXMT-BKCWW_600.jpg",
 "category": "gabinetes"
 },
 {
@@ -4855,13 +4806,6 @@
 "name": "Cpu Cooler Gamemax Sigma 540",
 "price": 48300,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/SIGMA-540-BK_600.jpg",
-"category": "refrigeracion"
-},
-{
-"id": 19581,
-"name": "CPU Cooler Lovingcool LC-X1210W - Argb - White",
-"price": 54337,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/Lovingcool-LC-X1210W-White_600.jpg",
 "category": "refrigeracion"
 },
 {
@@ -5135,13 +5079,6 @@
 "name": "CPU Water Cooler Lovingcool 360mm AK-B360-03 - Argb - Black",
 "price": 189520,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/Lovingcool-Ak-B360-03-Black_600.jpg",
-"category": "refrigeracion"
-},
-{
-"id": 20747,
-"name": "Water Cooler Master MasterLiquid Core NEX Digital 360 ARGB White",
-"price": 189980,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/MLX-D36M-A18PW-RD_600.jpg",
 "category": "refrigeracion"
 },
 {
@@ -5432,13 +5369,6 @@
 "category": "monitores"
 },
 {
-"id": 19454,
-"name": "Monitor Gamer IPS MSI 24\" FHD Pro MP242 E14A 144Hz 1ms HDMI - DP -VGA",
-"price": 247135,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/Msi-24-PRO-MP242-E14A_600.jpg",
-"category": "monitores"
-},
-{
 "id": 19937,
 "name": "Monitor LED IPS 24\" Raptor Hawk Eye Frameless FHD 200Hz 1ms - Hdmi/Dp - Freesync",
 "price": 251735,
@@ -5457,6 +5387,13 @@
 "name": "Monitor 27 LED CX CX270K FHD 120Hz HDMI / VGA",
 "price": 258060,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/CX270K_600.jpg",
+"category": "monitores"
+},
+{
+"id": 19454,
+"name": "Monitor Gamer IPS MSI 24\" FHD Pro MP242 E14A 144Hz 1ms HDMI - DP -VGA",
+"price": 258405,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/Msi-24-PRO-MP242-E14A_600.jpg",
 "category": "monitores"
 },
 {
@@ -5511,7 +5448,7 @@
 {
 "id": 20968,
 "name": "Monitor LED Rapid Ips 23.8\" Asus Tuf VG279QML5A-J FHD 240Hz 0.3ms",
-"price": 382375,
+"price": 387780,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/VG249QML5A-J_600.jpg",
 "category": "monitores"
 },
@@ -5945,7 +5882,7 @@
 {
 "id": 20843,
 "name": "Combo Gamer Raptor Teclado Membrana + Mouse Rgb",
-"price": 26680,
+"price": 26910,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-COM004-WIRED-BK_600.jpg",
 "category": "perifericos"
 },
@@ -6118,6 +6055,13 @@
 "category": "perifericos"
 },
 {
+"id": 20760,
+"name": "Auricular Gamer Raptor Shadow Core Rgb 7.1 Usb",
+"price": 40250,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-AURI-RGB-7.1-CR_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 19441,
 "name": "Camara IP Tp-Link Tapo C201 Wifi SD",
 "price": 41055,
@@ -6185,13 +6129,6 @@
 "name": "Mouse Razer Deathadder Essential",
 "price": 43470,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ01-03850100-R3M1_600.jpg",
-"category": "perifericos"
-},
-{
-"id": 20760,
-"name": "Auricular Gamer Raptor Shadow Core Rgb 7.1 Usb",
-"price": 44275,
-"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RAP-AURI-RGB-7.1-CR_600.jpg",
 "category": "perifericos"
 },
 {
@@ -7007,6 +6944,13 @@
 "category": "perifericos"
 },
 {
+"id": 6213,
+"name": "Mouse Logitech G703 LIGHTSPEED Inalambrico",
+"price": 134090,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/910-005639_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 16374,
 "name": "Mouse Razer Basilisk V3 Wired Ergonomic",
 "price": 135815,
@@ -7406,6 +7350,13 @@
 "category": "perifericos"
 },
 {
+"id": 19653,
+"name": "Auricular Razer BlackShark V3 X Hyperspeed Wireless - PC/Playstation",
+"price": 297390,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ04-05420400-R3UA_600.jpg",
+"category": "perifericos"
+},
+{
 "id": 18505,
 "name": "Teclado Razer Gamer Blackwidow V4 X RGB Minecraft Edition Switch Green",
 "price": 299230,
@@ -7466,6 +7417,13 @@
 "name": "Mouse Razer Viper V3 PRO Wireless Black",
 "price": 347990,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ01-05120100-R3U1_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 19514,
+"name": "Teclado Mecánico Razer Gamer Blackwidow V4 Switch Green - US Layout",
+"price": 351440,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ03-04690200-R3U1_600.jpg",
 "category": "perifericos"
 },
 {
@@ -7571,6 +7529,13 @@
 "name": "Teclado Logitech G512 X 75 Black RGB Gaming Cableado Layout US",
 "price": 412045,
 "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/920-013926_600.jpg",
+"category": "perifericos"
+},
+{
+"id": 19513,
+"name": "Auricular Razer BlackShark V3 Inalámbrico",
+"price": 445970,
+"img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/RZ04-05410100-R3U1_600.jpg",
 "category": "perifericos"
 },
 {
